@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kindle-highlights-notes
+  title: kindle-highlights-notes
+  description: A knowledge base of my highlights and notes from books I have read or am currently reading on Kindle
+  tags:
+    - markdown
+  annotations:
+    github.com/project-slug: josh-wong/kindle-highlights-notes
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: references
+  lifecycle: production
+  owner: josh-wong

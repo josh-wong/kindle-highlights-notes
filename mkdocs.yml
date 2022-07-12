@@ -1,0 +1,65 @@
+site_name: Kindle highlights & notes
+site_url: https://josh-wong.github.io/kindle-highlights-notes/
+
+# adds repo details in the top right-hand corner; removing since it's 
+# to have in a multidocs site
+repo_name: josh-wong/kindle-highlights-notes
+repo_url: https://github.com/josh-wong/kindle-highlights-notes
+# warning: this edit page button does not work; I have prioritized the 
+# multidocs site, so the edit page button on https://josh-wong.github.io 
+# is correct; there doesn't seem to be a way to remove it from one site 
+# and keep it on the other.
+edit_uri: blob/main/
+
+plugins:
+  - search
+  - techdocs-core
+  # Shows the last updated date
+  #- git-revision-date
+
+markdown_extensions:
+  # Add styles for buttons
+  - attr_list
+  # Add emoji support
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+theme:
+  name: material
+  favicon: assets/images/favicon.png
+  # logo: assets/images/mkdocs_zune_logo.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+      primary: blue
+      accent: blue
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+      primary: blue
+      accent: blue
+  features:
+    # Add custom search functions
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tracking
+    - navigation.top
+
+#nav:
+#  - Overview: 'index.md'
+#  - Getting started: '01_getting-started.md'
+#  - Installing the Zune software: '02_installing-the-zune-software.md'
+#  - Connecting to the Zune software: '03_connecting-with-the-zune-software.md'
+#  - Adding apps and games (Zune HD only): '04_adding-apps-and-games.md'
+#  - Conclusion: '05_conclusion.md'
+#  - References: '06_references.md'
+#  - Contributions: '07_contributions.md'
