@@ -34,10 +34,11 @@ After the previous script runs, another script runs to sync any new highlights a
 
 ## Plugin templates
 
-The following are the templates I use for the Kindle Highlights plugin.
+After installing the Obsidian Kindle Plugin in Obsidian, you can configure templates. The plugin provides default templates for both "File template" and "Highlights template."
+
+The following are my customiozed templates. 
 
 ### File template
-
 
 ```yaml
 # {{longTitle}}
