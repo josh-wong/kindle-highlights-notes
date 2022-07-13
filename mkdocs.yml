@@ -3,8 +3,8 @@ site_url: https://josh-wong.github.io/kindle-highlights-notes/
 
 # Add repo details in the top right-hand corner
 repo_name: josh-wong/kindle-highlights-notes
-repo_url: https://github.com/josh-wong/kindle-highlights-notes
-edit_uri: blob/main/
+repo_url: https://github.com/josh-wong/kindle-highlights-notes/
+edit_uri: blob/main/docs
 
 plugins:
   - search
