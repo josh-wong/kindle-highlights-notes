@@ -39,7 +39,7 @@ The following are the templates I use for the Kindle Highlights plugin.
 ### File template
 
 
-```xml
+```yaml
 # {{longTitle}}
 
 ## Metadata
@@ -56,11 +56,9 @@ The following are the templates I use for the Kindle Highlights plugin.
 {{highlights}}
 ```
 
-
 #### Highlights template
 
-
-```xml
+```yaml
 ## Highlight
 
 {{ text }}
