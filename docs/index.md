@@ -38,33 +38,29 @@ The following are the templates I use for the Kindle Highlights plugin.
 
 ### File template
 
- ```xml
-# {{longTitle}}
-
-## Metadata
-
- | Syntax | Description |
- | ---------- | ---------- |
- | {% if url %}**Title** | [{{longTitle}}]({{url}}){% endif %} |
- | {% if authorUrl %}**Author** | [{{author}}]({{authorUrl}}){% elif author %}[[{{author}}]]{% endif %} |
- | {% if appLink %}**Book on Kindle** | <a href="{{appLink}}" target="_blank">Open in Kindle</a>{% endif %} |
- | **Tags** | #Kindle #books |
  
----
-
-{{highlights}}
-```
+> # {{longTitle}}
+>
+> ## Metadata
+> 
+ > | Syntax | Description |
+ > | ---------- | ---------- |
+ > | {% if url %}**Title** | [{{longTitle}}]({{url}}){% endif %} |
+ > | {% if authorUrl %}**Author** | [{{author}}]({{authorUrl}}){% elif author %}[[{{author}}]]{% endif %} |
+ > | {% if appLink %}**Book on Kindle** | <a href="{{appLink}}" target="_blank">Open in Kindle</a>{% endif %} |
+ > | **Tags** | #Kindle #books |
+ > 
+> ---
+> 
+> {{highlights}}
 
 #### Highlights template
 
-```xml
-## Highlight
-
-{{ text }}
-- Location: [{{ location }}]({{appLink}})
-
-{% if note %}### Note
-{{note}}{% endif %}
-
----
-```
+> ## Highlight
+> 
+> {{ text }}
+> - Location: [{{ location }}]({{appLink}})
+> 
+> {% if note %}### Note
+> {{note}}{% endif %}
+> ---
