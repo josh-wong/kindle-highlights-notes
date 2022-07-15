@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-07-11'
+  lastAnnotatedDate: '2022-07-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 20
+  highlightsCount: 22
 ---
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -140,7 +140,19 @@ A serious problem with reactive language is that it becomes a self-fulfilling pr
 ---
 ## Highlight
 
-LEADERSHIP AND MANAGEMENT ^ref-65466
-- Location: [1438](kindle://book?action=open&asin=B01069X4H0&location=1438)
+Management is a bottom line focus: How can I best accomplish certain things? Leadership deals with the top line: What are the things I want to accomplish? In the words of both Peter Drucker and Warren Bennis, “Management is doing things right; leadership is doing the right things.” Management is efficiency in climbing the ladder of success; leadership determines whether the ladder is leaning against the right wall. ^ref-8165
+- Location: [1443](kindle://book?action=open&asin=B01069X4H0&location=1443)
+
+---
+## Highlight
+
+Efficient management without effective leadership is, as one individual has phrased it, “like straightening deck chairs on the Titanic.” No management success can compensate for failure in leadership. But leadership is hard because we’re often caught in a management paradigm. ^ref-21830
+- Location: [1465](kindle://book?action=open&asin=B01069X4H0&location=1465)
+
+---
+## Highlight
+
+RESCRIPTING: BECOMING YOUR OWN FIRST CREATOR ^ref-59412
+- Location: [1482](kindle://book?action=open&asin=B01069X4H0&location=1482)
 
 ---
