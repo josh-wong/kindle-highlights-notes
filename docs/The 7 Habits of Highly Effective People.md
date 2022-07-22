@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-07-13'
+  lastAnnotatedDate: '2022-07-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 22
+  highlightsCount: 23
 ---
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -152,7 +152,13 @@ Efficient management without effective leadership is, as one individual has phra
 ---
 ## Highlight
 
-RESCRIPTING: BECOMING YOUR OWN FIRST CREATOR ^ref-59412
-- Location: [1482](kindle://book?action=open&asin=B01069X4H0&location=1482)
+If our sense of emotional worth comes primarily from our marriage, then we become highly dependent upon that relationship. We become vulnerable to the moods and feelings, the behavior and treatment of our spouse, or to any external event that may impinge on the relationship—a new child, in-laws, economic setbacks, social successes, and so forth. ^ref-62368
+- Location: [1636](kindle://book?action=open&asin=B01069X4H0&location=1636)
+
+---
+## Highlight
+
+WRITING ^ref-21511
+- Location: [1863](kindle://book?action=open&asin=B01069X4H0&location=1863)
 
 ---
