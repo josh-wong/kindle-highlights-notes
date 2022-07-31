@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-07-16'
+  lastAnnotatedDate: '2022-07-29'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 23
+  highlightsCount: 25
 ---
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -158,7 +158,19 @@ If our sense of emotional worth comes primarily from our marriage, then we becom
 ---
 ## Highlight
 
-WRITING ^ref-21511
-- Location: [1863](kindle://book?action=open&asin=B01069X4H0&location=1863)
+As proactive people, we can begin to give expression to what we want to be and to do in our lives. We can write a personal mission statement, a personal constitution. A mission statement is not something you write overnight. It takes deep introspection, careful analysis, thoughtful expression, and often many rewrites to produce it in final form. It may take you several weeks or even months before you feel really comfortable with it, before you feel it is a complete and concise expression of your innermost values and directions. Even then, you will want to review it regularly and make minor changes as the years bring additional insights or changing circumstances. ^ref-48937
+- Location: [1879](kindle://book?action=open&asin=B01069X4H0&location=1879)
+
+---
+## Highlight
+
+Writing or reviewing a mission statement changes you because it forces you to think through your priorities deeply, carefully, and to align your behavior with your beliefs. As you do, other people begin to sense that you’re not being driven by everything that happens to you. You have a sense of mission about what you’re trying to do and you are excited about it. ^ref-40693
+- Location: [1888](kindle://book?action=open&asin=B01069X4H0&location=1888)
+
+---
+## Highlight
+
+FAMILY ^ref-37252
+- Location: [2043](kindle://book?action=open&asin=B01069X4H0&location=2043)
 
 ---
