@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-07-29'
+  lastAnnotatedDate: '2022-08-01'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
   highlightsCount: 25
 ---
@@ -170,7 +170,7 @@ Writing or reviewing a mission statement changes you because it forces you to th
 ---
 ## Highlight
 
-FAMILY ^ref-37252
-- Location: [2043](kindle://book?action=open&asin=B01069X4H0&location=2043)
+HABIT 3: PUT FIRST THINGS FIRST ^ref-62038
+- Location: [2168](kindle://book?action=open&asin=B01069X4H0&location=2168)
 
 ---
