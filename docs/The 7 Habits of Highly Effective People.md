@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-01'
+  lastAnnotatedDate: '2022-08-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 25
+  highlightsCount: 30
 ---
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -170,7 +170,40 @@ Writing or reviewing a mission statement changes you because it forces you to th
 ---
 ## Highlight
 
-HABIT 3: PUT FIRST THINGS FIRST ^ref-62038
-- Location: [2168](kindle://book?action=open&asin=B01069X4H0&location=2168)
+Effective management is putting first things first. While leadership decides what “first things” are, it is management that puts them first, day-by-day, moment-by-moment. Management is discipline, carrying it out. ^ref-53031
+- Location: [2214](kindle://book?action=open&asin=B01069X4H0&location=2214)
+
+---
+## Highlight
+
+“The successful person has the habit of doing the things failures don’t like to do,” he observed. “They don’t like doing them either necessarily. But their disliking is subordinated to the strength of their purpose.” ^ref-1455
+- Location: [2223](kindle://book?action=open&asin=B01069X4H0&location=2223)
+
+---
+## Highlight
+
+Urgent matters are usually visible. They press on us; they insist on action. They’re often popular with others. They’re usually right in front of us. And often they are pleasant, easy, fun to do. But so often they are unimportant! Importance, on the other hand, has to do with results. If something is important, it contributes to your mission, your values, your high priority goals. ^ref-17164
+- Location: [2264](kindle://book?action=open&asin=B01069X4H0&location=2264)
+
+---
+## Highlight
+
+Some people are literally beaten up by problems all day every day. The only relief they have is in escaping to the not important, not urgent activities of Quadrant IV. So when you look at their total matrix, 90 percent of their time is in Quadrant I and most of the remaining 10 percent is in Quadrant IV, with only negligible attention paid to Quadrants II and III. That’s how people who manage their lives by crisis live. ^ref-61774
+- Location: [2276](kindle://book?action=open&asin=B01069X4H0&location=2276)
+
+### Note
+I definitely feel like this when I'm experiencing burnout and feeling down and need a "quick win" for the sake of morale. However, those "quick wins" come at the expense of the bigger picture of important tasks, as described in Quadrant II.
+
+---
+## Highlight
+
+Quadrant II is the heart of effective personal management. It deals with things that are not urgent, but are important. It deals with things like building relationships, writing a personal mission statement, long-range planning, exercising, preventive maintenance, preparation—all those things we know we need to do, but somehow seldom get around to doing, because they aren’t urgent. ^ref-48863
+- Location: [2286](kindle://book?action=open&asin=B01069X4H0&location=2286)
+
+---
+## Highlight
+
+WHAT ^ref-20149
+- Location: [2322](kindle://book?action=open&asin=B01069X4H0&location=2322)
 
 ---
