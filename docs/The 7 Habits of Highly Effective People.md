@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-05'
+  lastAnnotatedDate: '2022-08-06'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
   highlightsCount: 30
 ---
@@ -203,7 +203,7 @@ Quadrant II is the heart of effective personal management. It deals with things 
 ---
 ## Highlight
 
-WHAT ^ref-20149
-- Location: [2322](kindle://book?action=open&asin=B01069X4H0&location=2322)
+MOVING ^ref-6290
+- Location: [2374](kindle://book?action=open&asin=B01069X4H0&location=2374)
 
 ---
