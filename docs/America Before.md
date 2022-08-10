@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [America Before: The Key to Earth's Lost Civilization](https://www.amazon.com/dp/B07HWL4KLM) |
-| **Author** | [Graham Hancock](https://www.amazon.com/Graham-Hancock/e/B004561L0S/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Graham Hancock](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07HWL4KLM" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
 
