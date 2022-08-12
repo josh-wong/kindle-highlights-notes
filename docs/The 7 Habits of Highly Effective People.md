@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-06'
+  lastAnnotatedDate: '2022-08-12'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 30
+  highlightsCount: 36
 ---
 # The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -203,7 +203,43 @@ Quadrant II is the heart of effective personal management. It deals with things 
 ---
 ## Highlight
 
-MOVING ^ref-6290
-- Location: [2374](kindle://book?action=open&asin=B01069X4H0&location=2374)
+We accomplish all that we do through delegation—either to time or to other people. If we delegate to time, we think efficiency. If we delegate to other people, we think effectiveness. Many people refuse to delegate to other people because they feel it takes too much time and effort and they could do the job better themselves. But effectively delegating to others is perhaps the single most powerful high-leverage activity there is. Transferring responsibility to other skilled and trained people enables you to give your energies to other high-leverage activities. Delegation means growth, both for individuals and for organizations. ^ref-54379
+- Location: [2552](kindle://book?action=open&asin=B01069X4H0&location=2552)
+
+---
+## Highlight
+
+If you know the failure paths of the job, identify them. Be honest and open—tell a person where the quicksand is and where the wild animals are. You don’t want to have to reinvent the wheel every day. Let people learn from your mistakes or the mistakes of others. Point out the potential failure paths, what not to do, but don’t tell them what to do. Keep the responsibility for results with them—to do whatever is necessary within the guidelines. ^ref-22631
+- Location: [2600](kindle://book?action=open&asin=B01069X4H0&location=2600)
+
+---
+## Highlight
+
+An Emotional Bank Account is a metaphor that describes the amount of trust that’s been built up in a relationship. It’s the feeling of safeness you have with another human being. If I make deposits into an Emotional Bank Account with you through courtesy, kindness, honesty, and keeping my commitments to you, I build up a reserve. Your trust toward me becomes higher, and I can call upon that trust many times if I need to. I can even make mistakes and that trust level, that emotional reserve, will compensate for it. My communication may not be clear, but you’ll get my meaning anyway. You won’t make me “an offender for a word.” When the trust account is high, communication is easy, instant, and effective. But if I have a habit of showing discourtesy, disrespect, cutting you off, overreacting, ignoring you, becoming arbitrary, betraying your trust, threatening you, or playing little tin god in your life, eventually my Emotional Bank Account is overdrawn. The trust level gets very low. Then what flexibility do I have? None. ^ref-48669
+- Location: [2783](kindle://book?action=open&asin=B01069X4H0&location=2783)
+
+---
+## Highlight
+
+One of the most important ways to manifest integrity is to be loyal to those who are not present. In doing so, we build the trust of those who are present. When you defend those who are absent, you retain the trust of those present. ^ref-47808
+- Location: [2925](kindle://book?action=open&asin=B01069X4H0&location=2925)
+
+---
+## Highlight
+
+Integrity in an interdependent reality is simply this: you treat everyone by the same set of principles. As you do, people will come to trust you. They may not at first appreciate the honest confrontational experiences such integrity might generate. Confrontation takes considerable courage, and many people would prefer to take the course of least resistance, belittling and criticizing, betraying confidences, or participating in gossip about others behind their backs. But in the long run, people will trust and respect you if you are honest and open and kind with them. You care enough to confront. And to be trusted, it is said, is greater than to be loved. In the long run, I am convinced, to be trusted will be also to be loved. ^ref-50884
+- Location: [2940](kindle://book?action=open&asin=B01069X4H0&location=2940)
+
+---
+## Highlight
+
+When we make withdrawals from the Emotional Bank Account, we need to apologize and we need to do it sincerely. Great deposits come in the sincere words: “I was wrong.” “That was unkind of me.” “I showed you no respect.” “I gave you no dignity, and I’m deeply sorry.” “I embarrassed you in front of your friends and I had no call to do that. Even though I wanted to make a point, I never should have done it. I apologize.” ^ref-20168
+- Location: [2955](kindle://book?action=open&asin=B01069X4H0&location=2955)
+
+---
+## Highlight
+
+The ^ref-37698
+- Location: [2986](kindle://book?action=open&asin=B01069X4H0&location=2986)
 
 ---
