@@ -27,7 +27,7 @@ markdown_extensions:
 theme:
   name: material
   favicon: assets/images/favicon.png
-  # logo: assets/images/mkdocs_zune_logo.png
+  logo: assets/images/mkdocs_kindle.png
   icon:
     repo: fontawesome/brands/github
   palette:
