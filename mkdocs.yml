@@ -36,14 +36,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: blue grey
+      primary: light blue
       accent: blue
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: blue grey
+      primary: light blue
       accent: blue
   features:
     # Add custom search functions
