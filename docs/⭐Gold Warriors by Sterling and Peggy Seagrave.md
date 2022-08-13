@@ -8,7 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/A1sLpQhWpZL._SY160.jpg'
   highlightsCount: 10
 ---
-# Gold Warriors by Sterling and Peggy Seagrave
+# ⭐Gold Warriors by Sterling and Peggy Seagrave
 
 ## Metadata
 

@@ -10,7 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/71ux2n5KSIL._SY160.jpg'
   highlightsCount: 23
 ---
-# The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure
+# ⭐The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure
 
 ## Metadata
 

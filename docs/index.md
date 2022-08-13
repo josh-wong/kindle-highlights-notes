@@ -1,4 +1,6 @@
-# READ FIRST: Overview and sync processes
+# READ FIRST: Overview and sync process
+
+## Overview
 
 This is a knowledge base of my highlights and notes from books I have read or am currently reading on Kindle.
 
@@ -15,10 +17,12 @@ The [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin) g
 > I haven't automated this process yet. Automating this process would require deleting all .md files except index.md, and then re-syncing all highlights and notes. 
 > 
 > Because of a limitation with the [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin), if you do any of the following, your highlights and notes will not be updated unless you delete the .md files and re-sync:
+> 
 > - Deleted highlights
 > - New, modified, or deleted notes
 > 
 > Creating a script to do the following should work:
+> 
 > - Delete the .md files in the Obsidian folder where the contents of this vault live.
 > - Open this vault.
 > - Wait about 10 minutes for Kindle highlights and notes to re-sync.
@@ -57,7 +61,7 @@ The following are my customiozed templates.
 {{highlights}}
 ```
 
-#### Highlights template
+### Highlights template
 
 ```yaml
 ## Highlight
