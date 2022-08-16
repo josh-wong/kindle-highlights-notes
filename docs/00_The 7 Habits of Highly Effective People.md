@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-13'
+  lastAnnotatedDate: '2022-08-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 36
+  highlightsCount: 41
 ---
 # 🚧The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -241,5 +241,42 @@ When we make withdrawals from the Emotional Bank Account, we need to apologize a
 
 The ^ref-37698
 - Location: [2986](kindle://book?action=open&asin=B01069X4H0&location=2986)
+
+---
+
+## Highlight
+
+When we violate the primary laws of love—when we attach strings and conditions to that gift—we actually encourage others to violate the primary laws of life. We put them in a reactive, defensive position where they feel they have to prove “I matter as a person, independent of you.” ^ref-22425
+- Location: [2992](kindle://book?action=open&asin=B01069X4H0&location=2992)
+
+---
+## Highlight
+
+Out of the 800 people there, around forty received awards for top performance, such as “Most Sales,” “Greatest Volume,” “Highest Earned Commissions,” and “Most Listings.” There was a lot of hoopla—excitement, cheering, applause—around the presentation of these awards. There was no doubt that those forty people had won; but there was also the underlying awareness that 760 people had lost. ^ref-19045
+- Location: [3523](kindle://book?action=open&asin=B01069X4H0&location=3523)
+
+---
+## Highlight
+
+So often the problem is in the system, not in the people. If you put good people in bad systems, you get bad results. You have to water the flowers you want to grow. ^ref-26006
+- Location: [3571](kindle://book?action=open&asin=B01069X4H0&location=3571)
+
+---
+## Highlight
+
+Win/Win is not a personality technique. It’s a total paradigm of human interaction. It comes from a character of integrity, maturity, and the Abundance Mentality. It grows out of high-trust relationships. It is embodied in agreements that effectively clarify and manage expectations as well as accomplishment. It thrives in supportive systems. ^ref-35979
+- Location: [3600](kindle://book?action=open&asin=B01069X4H0&location=3600)
+
+---
+## Highlight
+
+This is one of the greatest insights in the field of human motivation: Satisfied needs do not motivate. It’s only the unsatisfied need that motivates. Next to physical survival, the greatest need of a human being is psychological survival—to be understood, to be affirmed, to be validated, to be appreciated. ^ref-5285
+- Location: [3721](kindle://book?action=open&asin=B01069X4H0&location=3721)
+
+---
+## Highlight
+
+Seeking ^ref-45544
+- Location: [3744](kindle://book?action=open&asin=B01069X4H0&location=3744)
 
 ---
