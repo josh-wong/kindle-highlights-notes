@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-19'
+  lastAnnotatedDate: '2022-08-20'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
   highlightsCount: 43
 ---
@@ -297,5 +297,12 @@ This ^ref-20921
 
 had ^ref-24622
 - Location: [4010](kindle://book?action=open&asin=B01069X4H0&location=4010)
+
+---
+
+## Highlight
+
+One ^ref-36931
+- Location: [4331](kindle://book?action=open&asin=B01069X4H0&location=4331)
 
 ---
