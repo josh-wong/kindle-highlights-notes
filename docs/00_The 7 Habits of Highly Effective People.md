@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-16'
+  lastAnnotatedDate: '2022-08-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 41
+  highlightsCount: 43
 ---
 # 🚧The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -278,5 +278,24 @@ This is one of the greatest insights in the field of human motivation: Satisfied
 
 Seeking ^ref-45544
 - Location: [3744](kindle://book?action=open&asin=B01069X4H0&location=3744)
+
+---
+
+## Highlight
+
+An effective sales person first seeks to understand the needs, the concerns, the situation of the customer. The amateur salesman sells products; the professional sells solutions to needs and problems. ^ref-61449
+- Location: [3777](kindle://book?action=open&asin=B01069X4H0&location=3777)
+
+---
+## Highlight
+
+This ^ref-20921
+- Location: [3980](kindle://book?action=open&asin=B01069X4H0&location=3980)
+
+---
+## Highlight
+
+had ^ref-24622
+- Location: [4010](kindle://book?action=open&asin=B01069X4H0&location=4010)
 
 ---
