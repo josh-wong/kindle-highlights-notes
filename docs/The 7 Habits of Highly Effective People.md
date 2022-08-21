@@ -307,7 +307,10 @@ Since the mid-2010s, one could argue that smartphones and social media have repl
 ---
 ## Highlight
 
-The ^ref-37698
-- Location: [4689](kindle://book?action=open&asin=B01069X4H0&location=4689)
+This process of continuous improvement is the hallmark of the Total Quality Movement and a key to Japan’s economic ascendency. ^ref-39697
+- Location: [4801](kindle://book?action=open&asin=B01069X4H0&location=4801)
+
+### Note
+Although Japan is still considered a large player in the global economy in 2022, I don't think this statement holds true anymore like it did when this book was first published in 1989.
 
 ---
