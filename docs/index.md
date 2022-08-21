@@ -12,14 +12,12 @@ Feel free to also check out [my Goodreads profile](https://www.goodreads.com/us
 
 The [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin) generates these pages, syncing highlights and notes to my [Obsidian](https://obsidian.md/) vault.
 
-> **Note**
-> 
-> I haven't automated this process yet. Automating this process would require deleting all .md files except index.md, and then re-syncing all highlights and notes. 
-> 
-> Because of a limitation with the [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin), if you do any of the following, your highlights and notes will not be updated unless you delete the .md files and re-sync:
-> 
-> - Deleted highlights
-> - New, modified, or deleted notes
+!!! note
+	
+	Because of a limitation with the [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin), if you do any of the following, your highlights and notes will not be updated unless you delete the .md files and re-sync:
+	
+    - Deleted highlights
+    - New, modified, or deleted notes
 
 A script then runs on a daily basis to do the following: 
 
@@ -27,9 +25,9 @@ A script then runs on a daily basis to do the following:
 2. Open the vault.
 3. Wait about 15 minutes for Kindle highlights and notes to re-sync.
 
-> **Note**
-> 
-> In order for this script to work properly, you must be logged in to your Amazon account within the Obsidian Kindle Plugin and have "**Sync on Startup**" set to enabled in the plugin settings.
+!!! note
+
+	In order for this script to work properly, you must be logged in to your Amazon account within the Obsidian Kindle Plugin and have "**Sync on Startup**" set to enabled in the plugin settings.
 
 4. Close the vault.
 
