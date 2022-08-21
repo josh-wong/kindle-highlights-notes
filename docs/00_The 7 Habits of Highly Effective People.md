@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
-  lastAnnotatedDate: '2022-08-20'
+  lastAnnotatedDate: '2022-08-21'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
-  highlightsCount: 43
+  highlightsCount: 46
 ---
 # 🚧The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
@@ -239,6 +239,38 @@ When we make withdrawals from the Emotional Bank Account, we need to apologize a
 ---
 ## Highlight
 
+## Highlight
+
+The person who is truly effective has the humility and reverence to recognize his own perceptual limitations and to appreciate the rich resources available through interaction with the hearts and minds of other human beings. That person values the differences because those differences add to his knowledge, to his understanding of reality. When we’re left to our own experiences, we constantly suffer from a shortage of data. ^ref-62372
+- Location: [4372](kindle://book?action=open&asin=B01069X4H0&location=4372)
+
+---
+## Highlight
+
+The relationship of the parts is also the power in creating a synergistic culture inside a family or an organization. The more genuine the involvement, the more sincere and sustained the participation in analyzing and solving problems, the greater the release of everyone’s creativity, and of their commitment to what they create. ^ref-61116
+- Location: [4480](kindle://book?action=open&asin=B01069X4H0&location=4480)
+
+---
+## Highlight
+
+This, I’m convinced, is the essence of the power in the Japanese approach to business, which has changed the world marketplace. ^ref-48880
+- Location: [4482](kindle://book?action=open&asin=B01069X4H0&location=4482)
+
+### Note
+The author should have expanded on this. Internally, traditional Japanese companies tend to lack honest synergy amongst employees for the sake of harmonic synergy. "The nail that sticks up gets hammered down."
+
+Now if we're talking about how separate companies work with each other, I can agree with this. Companies, especially consumer-facing businesses, seem much more likely to work together to create win-win situations.
+
+---
+## Highlight
+
+Continuing surveys indicate that television is on in most homes some thirty-five to forty-five hours a week. That’s as much time as many people put into their jobs, more than most put into school. It’s the most powerful socializing influence there is. And when we watch, we’re subject to all the values that are being taught through it. That can powerfully influence us in very subtle and imperceptible ways. ^ref-52697
+- Location: [4648](kindle://book?action=open&asin=B01069X4H0&location=4648)
+
+### Note
+Since the mid-2010s, one could argue that smartphones and social media have replaced this TV time.
+
+---
 The ^ref-37698
 - Location: [2986](kindle://book?action=open&asin=B01069X4H0&location=2986)
 

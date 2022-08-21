@@ -4,7 +4,7 @@ kindle-sync:
   title: 'Unwind!: 7 Principles for a Stress-Free Life'
   author: 'Michael Olpin, Sam Bracken, and Daniel G. Amen'
   asin: B00GJ201VQ
-  lastAnnotatedDate: '2022-07-02'
+  lastAnnotatedDate: '2022-07-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91IGan3c2gL._SY160.jpg'
   highlightsCount: 16
 ---

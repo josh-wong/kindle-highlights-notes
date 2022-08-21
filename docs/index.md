@@ -20,13 +20,20 @@ The [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin) g
 > 
 > - Deleted highlights
 > - New, modified, or deleted notes
+
+A script then runs on a daily basis to do the following: 
+
+1. Delete the .md files in the Obsidian folder where the contents of this vault live.
+2. Open the vault.
+3. Wait about 15 minutes for Kindle highlights and notes to re-sync.
+
+> **Note**
 > 
-> Creating a script to do the following should work:
-> 
-> - Delete the .md files in the Obsidian folder where the contents of this vault live.
-> - Open this vault.
-> - Wait about 10 minutes for Kindle highlights and notes to re-sync.
-> - Close this vault.
+> In order for this script to work properly, you must be logged in to your Amazon account within the Obsidian Kindle Plugin and have "**Sync on Startup**" set to enabled in the plugin settings.
+
+4. Close the vault.
+
+That script is based on [app-open-close-script](https://github.com/josh-wong/app-open-close-script/).
 
 ### 2. Sync highlights and notes from Obsidian to local GitHub folder
 
