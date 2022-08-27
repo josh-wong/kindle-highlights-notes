@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-08-23'
+  lastAnnotatedDate: '2022-08-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/812jTyNSu1L._SY160.jpg'
-  highlightsCount: 4
+  highlightsCount: 6
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -44,7 +44,19 @@ What are the current factors limiting your growth and success? Is someone standi
 ---
 ## Highlight
 
-They ^ref-20411
-- Location: [625](kindle://book?action=open&asin=B07H453KGH&location=625)
+Call yourself out! ^ref-41172
+- Location: [790](kindle://book?action=open&asin=B07H453KGH&location=790)
+
+---
+## Highlight
+
+You aren’t missing out on opportunities, making shit money, and getting evicted because of America or Donald fucking Trump or because your ancestors were slaves or because some people hate immigrants or Jews or harass women or believe gay people are going to hell. If any of that shit is stopping you from excelling in life, I’ve got some news. You are stopping you! You are giving up instead of getting hard! Tell the truth about the real reasons for your limitations and you will turn that negativity, which is real, into jet fuel. ^ref-16711
+- Location: [797](kindle://book?action=open&asin=B07H453KGH&location=797)
+
+---
+## Highlight
+
+looked ^ref-59008
+- Location: [842](kindle://book?action=open&asin=B07H453KGH&location=842)
 
 ---

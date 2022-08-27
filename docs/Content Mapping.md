@@ -6,9 +6,9 @@ kindle-sync:
     Leads and Sales
   author: Henry Adaso
   asin: B08QF742BG
-  lastAnnotatedDate: '2022-08-24'
+  lastAnnotatedDate: '2022-08-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71RCq5M+81L._SY160.jpg'
-  highlightsCount: 6
+  highlightsCount: 8
 ---
 # Content Mapping: Unlocking the Power of Content to Increase Engagement, Leads and Sales
 
@@ -58,7 +58,22 @@ Companies that continue to play by the old rule of one-way conversations struggl
 ---
 ## Highlight
 
-CHANNEL ^ref-19931
-- Location: [880](kindle://book?action=open&asin=B08QF742BG&location=880)
+Customers don’t want a product or a service; they want a solution. This is what Professor Levitt meant when he said, “People don’t want to buy a quarter-inch drill; they want a quarter-inch hole.” ^ref-4180
+- Location: [1047](kindle://book?action=open&asin=B08QF742BG&location=1047)
+
+---
+## Highlight
+
+Go beyond the why of what you do and lean into the why of the customer’s needs. Why should they take your offer? Is it because it brings them closer to a solution? Is it because it promises a transformation? ^ref-50997
+- Location: [1060](kindle://book?action=open&asin=B08QF742BG&location=1060)
+
+---
+## Highlight
+
+Revisit your personas and your content map at least once a quarter to make sure their needs still hold true. As you receive new inputs from your organization and the marketplace, adapt your personas and strategies accordingly. ^ref-32160
+- Location: [1217](kindle://book?action=open&asin=B08QF742BG&location=1217)
+
+### Note
+This practice seems like a best-case, ideal scenario. In reality, this would be significantly time consuming. I think reviewing personas once every six months and as needed (major product revisions, etc.) would be sufficient.
 
 ---
