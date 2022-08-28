@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-08-26'
+  lastAnnotatedDate: '2022-08-28'
   bookImageUrl: 'https://m.media-amazon.com/images/I/812jTyNSu1L._SY160.jpg'
-  highlightsCount: 6
+  highlightsCount: 10
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -56,7 +56,31 @@ You aren’t missing out on opportunities, making shit money, and getting evicte
 ---
 ## Highlight
 
-looked ^ref-59008
-- Location: [842](kindle://book?action=open&asin=B07H453KGH&location=842)
+But when you have no confidence it becomes easy to value other people’s opinions, and I was valuing everyone’s opinion without considering the minds that generated them. That sounds silly, but it’s an easy trap to fall into, especially when you are insecure on top of being the only. As soon as I made that connection, being upset with them was not worth my time. Because if I was gonna kick their ass in life, and I was, I had way too much shit to do. Each insult or dismissive gesture became more fuel for the engine revving inside me. ^ref-24802
+- Location: [844](kindle://book?action=open&asin=B07H453KGH&location=844)
+
+---
+## Highlight
+
+“In a society where mediocrity is too often the standard and too often rewarded,” he said, “there is intense fascination with men who detest mediocrity, who refuse to define themselves in conventional terms, and who seek to transcend traditionally recognized human capabilities. This is exactly the type of person BUD/S is meant to find. The man who finds a way to complete each and every task to the best of his ability. The man who will adapt and overcome any and all obstacles.” ^ref-36032
+- Location: [1041](kindle://book?action=open&asin=B07H453KGH&location=1041)
+
+---
+## Highlight
+
+The first step on the journey toward a calloused mind is stepping outside your comfort zone on a regular basis. Dig out your journal again and write down all the things you don’t like to do or that make you uncomfortable. Especially those things you know are good for you. Now go do one of them, and do it again. ^ref-52832
+- Location: [1240](kindle://book?action=open&asin=B07H453KGH&location=1240)
+
+---
+## Highlight
+
+We all have areas in our lives we either ignore or can improve upon. Find yours. We often choose to focus on our strengths rather than our weaknesses. Use this time to make your weaknesses your strengths. Doing things—even small things—that make you uncomfortable will help make you strong. The more often you get uncomfortable the stronger you’ll become, and soon you’ll develop a more productive, can-do dialogue with yourself in stressful situations. ^ref-26780
+- Location: [1247](kindle://book?action=open&asin=B07H453KGH&location=1247)
+
+---
+## Highlight
+
+Everything ^ref-44361
+- Location: [1412](kindle://book?action=open&asin=B07H453KGH&location=1412)
 
 ---
