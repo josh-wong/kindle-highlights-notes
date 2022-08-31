@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-08-28'
+  lastAnnotatedDate: '2022-08-31'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 10
+  highlightsCount: 14
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -80,7 +80,31 @@ We all have areas in our lives we either ignore or can improve upon. Find yours.
 ---
 ## Highlight
 
-Everything ^ref-44361
+Everything in life is a mind game! Whenever we get swept under by life’s dramas, large and small, we are forgetting that no matter how bad the pain gets, no matter how harrowing the torture, all bad things end. That forgetting happens the second we give control over our emotions and actions to other people, which can easily happen when pain is peaking. ^ref-23428
 - Location: [1412](kindle://book?action=open&asin=B07H453KGH&location=1412)
+
+---
+## Highlight
+
+Taking Souls is a ticket to finding your own reserve power and riding a second wind. It’s the tool you can call upon to win any competition or overcome every life obstacle. You can utilize it to win a chess match, or conquer an adversary in a game of office politics. It can help you rock a job interview or excel at school. And yes, it can be used to conquer all manner of physical challenges, but remember, this is a game you are playing within yourself. Unless you’re engaged in physical competition, I’m not suggesting that you try to dominate someone or crush their spirit. In fact, they never even need to know you’re playing this game. This is a tactic for you to be your best when duty calls. It’s a mind game you’re playing on yourself. ^ref-28361
+- Location: [1500](kindle://book?action=open&asin=B07H453KGH&location=1500)
+
+---
+## Highlight
+
+List out your insecurities and weakness, as well as your opponent’s. For instance, if you’re getting bullied, and you know where you fall short or feel insecure, you can stay ahead of any insults or barbs a bully may throw your way. You can laugh at yourself along with them, which disempowers them. If you take what they do or say less personally, they no longer hold any cards. Feelings are just feelings. On the other hand, people who are secure with themselves don’t bully other people. They look out for other people, so if you’re getting bullied you know that you’re dealing with someone who has problem areas you can exploit or soothe. Sometimes the best way to defeat a bully is to actually help them. If you can think two or three moves ahead, you will commandeer their thought process, and if you do that, you’ve taken their damn soul without them even realizing it. ^ref-17351
+- Location: [1512](kindle://book?action=open&asin=B07H453KGH&location=1512)
+
+---
+## Highlight
+
+Until you experience hardships like abuse and bullying, failures and disappointments, your mind will remain soft and exposed. Life experience, especially negative experiences, help callous the mind. But it’s up to you where that callous lines up. If you choose to see yourself as a victim of circumstance into adulthood, that callous will become resentment that protects you from the unfamiliar. It will make you too cautious and untrusting, and possibly too angry at the world. It will make you fearful of change and hard to reach, but not hard of mind. ^ref-30721
+- Location: [1718](kindle://book?action=open&asin=B07H453KGH&location=1718)
+
+---
+## Highlight
+
+Obstacles ^ref-55491
+- Location: [1775](kindle://book?action=open&asin=B07H453KGH&location=1775)
 
 ---
