@@ -1,0 +1,2455 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://josh-wong.github.io/kindle-highlights-notes/The%20Product%20is%20Docs/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.1.11">
+    
+    
+      
+        <title>The Product is Docs: Writing technical documentation in a product development group - Kindle highlights & notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.50e68009.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="blue">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#the-product-is-docs-writing-technical-documentation-in-a-product-development-group" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Kindle highlights &amp; notes" class="md-header__button md-logo" aria-label="Kindle highlights & notes" data-md-component="logo">
+      
+  <img src="../assets/images/mkdocs_kindle.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Kindle highlights & notes
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              The Product is Docs: Writing technical documentation in a product development group
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="light-blue" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/josh-wong/kindle-highlights-notes/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    josh-wong/kindle-highlights-notes
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Kindle highlights &amp; notes" class="md-nav__button md-logo" aria-label="Kindle highlights & notes" data-md-component="logo">
+      
+  <img src="../assets/images/mkdocs_kindle.png" alt="logo">
+
+    </a>
+    Kindle highlights & notes
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/josh-wong/kindle-highlights-notes/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    josh-wong/kindle-highlights-notes
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        READ FIRST: Overview and sync process
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01_Gold%20Warriors%20by%20Sterling%20and%20Peggy%20Seagrave/" class="md-nav__link">
+        ⭐Gold Warriors by Sterling and Peggy Seagrave
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01_The%20Coddling%20of%20the%20American%20Mind/" class="md-nav__link">
+        ⭐The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../12%20Rules%20for%20Life/" class="md-nav__link">
+        12 Rules for Life: An Antidote to Chaos
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20Brief%20History%20of%20Earth/" class="md-nav__link">
+        A Brief History of Earth: Four Billion Years in Eight Chapters
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20General%20Introduction%20to%20Psychoanalysis/" class="md-nav__link">
+        A General Introduction to Psychoanalysis
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Alone%20Together/" class="md-nav__link">
+        Alone Together: Why We Expect More from Technology and Less from Each Other
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../America%20Before/" class="md-nav__link">
+        America Before: The Key to Earth's Lost Civilization
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Bulletproof%20Confidence/" class="md-nav__link">
+        Bulletproof Confidence: The Art of Not Caring What People Think and Living Fearlessly (Be Confident and Fearless Book 6)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cant%20Hurt%20Me/" class="md-nav__link">
+        Can't Hurt Me: Master Your Mind and Defy the Odds
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cant%20We%20All%20Disagree%20More%20Constructively/" class="md-nav__link">
+        Can't We All Disagree More Constructively?: from The Righteous Mind (Kindle Single) (A Vintage Short)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Content%20Mapping/" class="md-nav__link">
+        Content Mapping: Unlocking the Power of Content to Increase Engagement, Leads and Sales
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../DMT/" class="md-nav__link">
+        DMT: The Spirit Molecule: A Doctor's Revolutionary Research into the Biology of Near-Death and Mystical Experiences
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Discipline%20Equals%20Freedom/" class="md-nav__link">
+        Discipline Equals Freedom: Field Manual
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ego%20Is%20the%20Enemy/" class="md-nav__link">
+        Ego Is the Enemy
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Empire%20of%20the%20Summer%20Moon/" class="md-nav__link">
+        Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../End%20of%20Life%20Guideline%20Series/" class="md-nav__link">
+        End of Life Guideline Series: A Compilation of Barbara Karnes Booklets
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Enlightenment%20Now/" class="md-nav__link">
+        Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Face%20to%20Face/" class="md-nav__link">
+        Face to Face: The Art of Human Connection
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Factfulness/" class="md-nav__link">
+        Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../How%20Will%20You%20Measure%20Your%20Life/" class="md-nav__link">
+        How Will You Measure Your Life?
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../How%20to%20Change%20Your%20Mind/" class="md-nav__link">
+        How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../How%20to%20Kill%20a%20City/" class="md-nav__link">
+        How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Information%20Architecture/" class="md-nav__link">
+        Information Architecture: For the Web and Beyond
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lost%20Connections/" class="md-nav__link">
+        Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Love%20Yourself%20Like%20Your%20Life%20Depends%20On%20It/" class="md-nav__link">
+        Love Yourself Like Your Life Depends On It
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mans%20Search%20for%20Meaning/" class="md-nav__link">
+        Man's Search for Meaning
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Media%20Control/" class="md-nav__link">
+        Media Control: The Spectacular Achievements of Propaganda (Open Media Series)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meditations%20for%20People%20WhoWorry%20Too%20Much/" class="md-nav__link">
+        Meditations for People Who (May) Worry Too Much
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Overrun/" class="md-nav__link">
+        Overrun: Jungle Warfare in Vietnam (No Safe Spaces)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Own%20the%20Day%2C%20Own%20Your%20Life/" class="md-nav__link">
+        Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Rashomon%20and%20Other%20Stories/" class="md-nav__link">
+        Rashomon and Other Stories (Tuttle Classics)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Rising%20Above%20a%20Toxic%20Workplace/" class="md-nav__link">
+        Rising Above a Toxic Workplace: Taking Care of Yourself in an Unhealthy Environment
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sapiens/" class="md-nav__link">
+        Sapiens: A Brief History of Humankind
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20Anxiety/" class="md-nav__link">
+        Social Anxiety : Easy Daily Strategies for Overcoming Social Anxiety and Shyness, Build Successful Relationships, and Increase Happiness
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Special%20Operations%20Mental%20Toughness/" class="md-nav__link">
+        Special Operations Mental Toughness:The Invincible Mindset of Delta Force Operators, Navy SEALs, Army Rangers & Other Elite Warriors!
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Supersizing%20Urban%20America/" class="md-nav__link">
+        Supersizing Urban America: How Inner Cities Got Fast Food with Government Help
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%207%20Habits%20of%20Highly%20Effective%20People/" class="md-nav__link">
+        The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Art%20Of%20Saying%20NO/" class="md-nav__link">
+        The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) (The Art Of Living Well Book 1)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Big%20Ones/" class="md-nav__link">
+        The Big Ones: How Natural Disasters Have Shaped Us (and What We Can Do About Them)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Boys%20of%20%E2%80%9967/" class="md-nav__link">
+        The Boys of ’67: Charlie Company’s War in Vietnam
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Ends%20of%20the%20World/" class="md-nav__link">
+        The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Final%20Act%20of%20Living/" class="md-nav__link">
+        The Final Act of Living: Reflections of a Longtime Hospice Nurse
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Future%20of%20Work/" class="md-nav__link">
+        The Future of Work: Robots, AI, and Automation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Juggernaut%20Method%202.0%20-%20Strength%2C%20Speed%2C%20and%20Power%20For%20Every%20Athlete/" class="md-nav__link">
+        The Juggernaut Method 2.0 - Strength, Speed, and Power For Every Athlete
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Little%20Book%20of%20Stoicism/" class="md-nav__link">
+        The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          The Product is Docs: Writing technical documentation in a product development group
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        The Product is Docs: Writing technical documentation in a product development group
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#metadata" class="md-nav__link">
+    Metadata
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_1" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_2" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_3" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_4" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_5" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_6" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_7" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_8" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_1" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_9" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_10" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_2" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_11" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_12" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_13" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_14" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_15" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_16" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_17" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_18" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_19" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_3" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_20" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_21" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_22" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_4" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_23" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_24" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_25" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_26" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_27" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_28" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_29" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_5" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_30" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_6" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_31" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_7" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_32" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_8" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_33" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_9" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_34" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_10" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_35" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_36" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_37" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_38" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_39" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_40" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_41" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_42" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Rape%20Of%20Nanking/" class="md-nav__link">
+        The Rape Of Nanking: The Forgotten Holocaust Of World War II
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Science%20of%20Self-Discipline/" class="md-nav__link">
+        The Science of Self-Discipline: The Willpower, Mental Toughness, and Self-Control to Resist Temptation and Achieve Your Goals (Live a Disciplined Life Book 1)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Shallows/" class="md-nav__link">
+        The Shallows: What the Internet Is Doing to Our Brains
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Souls%20of%20Black%20Folk/" class="md-nav__link">
+        The Souls of Black Folk (AmazonClassics Edition)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Subversive%20Copy%20Editor%2C%20Second%20Edition/" class="md-nav__link">
+        The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) ... Guides to Writing, Editing, and Publishing)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../The%20Universe%20Doesnt%20Give%20a%20Flying%20Fuck%20About%20You/" class="md-nav__link">
+        The Universe Doesn't Give a Flying Fuck About You (Epic series Book 1)
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Unbound/" class="md-nav__link">
+        Unbound: How Eight Technologies Made Us Human and Brought Our World to the Brink
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Under%20the%20Bar/" class="md-nav__link">
+        Under the Bar: Twelve Lessons Of Life From The World Of Powerlifting
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Unwind%21/" class="md-nav__link">
+        Unwind!: 7 Principles for a Stress-Free Life
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Walden/" class="md-nav__link">
+        Walden
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Words%20That%20Change%20Minds/" class="md-nav__link">
+        Words That Change Minds: The 14 Patterns for Mastering the Language of Influence
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%5BSample%5D%20From%20the%20War%20on%20Poverty%20to%20the%20War%20on%20Crime/" class="md-nav__link">
+        [Sample] From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%5BSample%5D%20The%20Deep%20History%20of%20Ourselves/" class="md-nav__link">
+        [Sample] The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../%5BSample%5D%20The%20Doors%20of%20Perception/" class="md-nav__link">
+        [Sample] The Doors of Perception (Classics To Go)
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#metadata" class="md-nav__link">
+    Metadata
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_1" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_2" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_3" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_4" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_5" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_6" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_7" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_8" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_1" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_9" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_10" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_2" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_11" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_12" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_13" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_14" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_15" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_16" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_17" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_18" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_19" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_3" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_20" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_21" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_22" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_4" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_23" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_24" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_25" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_26" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_27" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_28" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_29" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_5" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_30" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_6" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_31" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_7" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_32" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_8" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_33" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_9" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_34" class="md-nav__link">
+    Highlight
+  </a>
+  
+    <nav class="md-nav" aria-label="Highlight">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#note_10" class="md-nav__link">
+    Note
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_35" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_36" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_37" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_38" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_39" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_40" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_41" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#highlight_42" class="md-nav__link">
+    Highlight
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+<a href="https://github.com/josh-wong/kindle-highlights-notes/blob/main/docs/The Product is Docs.md" title="Edit this page" class="md-content__button md-icon">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+</a>
+
+
+<h1 id="the-product-is-docs-writing-technical-documentation-in-a-product-development-group">The Product is Docs: Writing technical documentation in a product development group<a class="headerlink" href="#the-product-is-docs-writing-technical-documentation-in-a-product-development-group" title="Permanent link">&para;</a></h1>
+<h2 id="metadata">Metadata<a class="headerlink" href="#metadata" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Syntax</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Title</strong></td>
+<td><a href="https://www.amazon.com/dp/B085KHTV95">The Product is Docs: Writing technical documentation in a product development group</a></td>
+</tr>
+<tr>
+<td><strong>Author</strong></td>
+<td><a href="https://www.amazon.comundefined">Christopher Gales and Splunk Documentation Team</a></td>
+</tr>
+<tr>
+<td><strong>Book on Kindle</strong></td>
+<td><a href="kindle://book?action=open&asin=B085KHTV95" target="_blank">Open in Kindle</a></td>
+</tr>
+<tr>
+<td><strong>Tags</strong></td>
+<td>#Kindle #books</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="highlight">Highlight<a class="headerlink" href="#highlight" title="Permanent link">&para;</a></h2>
+<p>In an Agile environment, you need to be an adaptable, proactive self-starter. Most of the other scrum team members won’t habitually think of reaching out to the documentation team to notify you that a feature or enhancement has a documentation impact. You need to watch for and track down the information. ^ref-40216
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=111">111</a></p>
+<hr />
+<h2 id="highlight_1">Highlight<a class="headerlink" href="#highlight_1" title="Permanent link">&para;</a></h2>
+<p>Attend as many stand-ups, sprint and release planning meetings, demos, and retrospectives as you can, and exercise your status as a full member of the team. ^ref-57617
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=123">123</a></p>
+<hr />
+<h2 id="highlight_2">Highlight<a class="headerlink" href="#highlight_2" title="Permanent link">&para;</a></h2>
+<p>There is no definition of done without docs. Customer documentation is part of the working software. ^ref-6804
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=141">141</a></p>
+<hr />
+<h2 id="highlight_3">Highlight<a class="headerlink" href="#highlight_3" title="Permanent link">&para;</a></h2>
+<p>Use your company’s standard development tracking program, such as Jira or Rally, to track your documentation tasks, doc reviews, to raise issues and questions, and to file defects. ^ref-60551
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=212">212</a></p>
+<hr />
+<h2 id="highlight_4">Highlight<a class="headerlink" href="#highlight_4" title="Permanent link">&para;</a></h2>
+<p>Add story points and priority values to the tickets that have documentation impact. There are tasks that require a lot of engineering work and very little documentation work. There are other tasks that require a small or medium amount of engineering work but require a large amount of documentation work. Make your work visible in the same tickets that development uses to organize and track their work. ^ref-62848
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=215">215</a></p>
+<hr />
+<h2 id="highlight_5">Highlight<a class="headerlink" href="#highlight_5" title="Permanent link">&para;</a></h2>
+<p>Push the product managers to write scenario-based user stories. All too often, stories don’t provide enough context for meaningful development work. This context is important not just for you, the tech writer, but for everyone from the marketing, sales, QA, support, and training teams. Everyone needs to know who the audience is and what they are trying to accomplish with the feature. You might need to push, nag, and cajole your colleagues into writing good user stories, but it’s worth the effort. ^ref-47196
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=218">218</a></p>
+<hr />
+<h2 id="highlight_6">Highlight<a class="headerlink" href="#highlight_6" title="Permanent link">&para;</a></h2>
+<p>Setting up a separate scrum team and sprint cadence for writers separate from the rest of product development isn’t a true Agile approach. Being involved with the scrum team only late in the development cycle means that you invest less time tracking ongoing changes as features evolve and change. When you begin to write, the feature is likely to be close to its final state. With a scrum of writers, there are good opportunities for cross-training. ^ref-22200
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=279">279</a></p>
+<h3 id="note">Note<a class="headerlink" href="#note" title="Permanent link">&para;</a></h3>
+<p>In organizations with few resources, this seems like the best option and one that I've envisioned since my days working at Ricoh.</p>
+<hr />
+<h2 id="highlight_7">Highlight<a class="headerlink" href="#highlight_7" title="Permanent link">&para;</a></h2>
+<p>Finally, using a separate scrum of writers violates most of the tenets of the Agile Manifesto and usually results in a waterfall approach masquerading as iterative development. If you find yourself considering the scrum of writers, consider that scrum might not be the best methodology for those tasks, and you might not need to use it at all to achieve efficient and effective results. ^ref-45695
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=294">294</a></p>
+<hr />
+<h2 id="highlight_8">Highlight<a class="headerlink" href="#highlight_8" title="Permanent link">&para;</a></h2>
+<p>Reliable and accessible documentation requires thorough product knowledge. It also depends equally, if not more, on knowing your audience. ^ref-48873
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=328">328</a></p>
+<h3 id="note_1">Note<a class="headerlink" href="#note_1" title="Permanent link">&para;</a></h3>
+<p>This is vital for documentation to be effective.</p>
+<hr />
+<h2 id="highlight_9">Highlight<a class="headerlink" href="#highlight_9" title="Permanent link">&para;</a></h2>
+<p>Technical writers craft connections between an audience and a product. To build these connections, you need to identify your users as clearly as possible. You also need to identify your users’ goals: the problems they want to solve, the decisions they need to make, or the things they want to build. Equipped with this audience awareness, you can write more accessible, well-situated, and supportive documentation. You can also help create more satisfied customers. ^ref-49678
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=329">329</a></p>
+<hr />
+<h2 id="highlight_10">Highlight<a class="headerlink" href="#highlight_10" title="Permanent link">&para;</a></h2>
+<p>Audience definitions help writers reevaluate existing content and move more easily from one assignment to another. ^ref-13703
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=460">460</a></p>
+<h3 id="note_2">Note<a class="headerlink" href="#note_2" title="Permanent link">&para;</a></h3>
+<p>Audience definitions also help engineers, product managers, and others involved with product development understand and write their own documentation.</p>
+<hr />
+<h2 id="highlight_11">Highlight<a class="headerlink" href="#highlight_11" title="Permanent link">&para;</a></h2>
+<p>Most of the time, frustrated users want to complete a task or install a product and cannot because the instructions assume a certain level of experience and don’t account for novices, or because the user can’t find the information they need. ^ref-39768
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=587">587</a></p>
+<hr />
+<h2 id="highlight_12">Highlight<a class="headerlink" href="#highlight_12" title="Permanent link">&para;</a></h2>
+<p>If you have topics that aren’t frequently visited, consider that if someone isn’t reading the information, it might actually be useful but difficult to find. Experiment by linking more richly to those topics and reevaluating the data after a few months. If users visit those topics more frequently and spend more time on the page, the content is probably useful. If they aren’t, you can consider whether you need those topics at all. ^ref-37579
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=747">747</a></p>
+<hr />
+<h2 id="highlight_13">Highlight<a class="headerlink" href="#highlight_13" title="Permanent link">&para;</a></h2>
+<p>Avoid linking readers to the third-party website. Instead, provide a search term that helps readers find the correct content on the third-party website using their search tool. Test it to make sure your reader can successfully find the content on their website using that term. ^ref-40655
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=850">850</a></p>
+<hr />
+<h2 id="highlight_14">Highlight<a class="headerlink" href="#highlight_14" title="Permanent link">&para;</a></h2>
+<p>The job, fundamentally, isn’t about writing or learning technology. It’s a relationship business, more like investigative journalism than anything else. Writers have to identify and cultivate your sources, build mutual respect and trust, and follow the story wherever it leads. On top of that, they have to organize that information and write about it clearly. But only then. In today’s product development world, writers need to demonstrate a journalistic hunger. ^ref-39507
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=901">901</a></p>
+<hr />
+<h2 id="highlight_15">Highlight<a class="headerlink" href="#highlight_15" title="Permanent link">&para;</a></h2>
+<p>If you’re hiring writers for today’s software world, you want writers who embody these characteristics: Flexible Fearless Personable Organized Experimental Customer-focused Generalists ^ref-11095
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=925">925</a></p>
+<hr />
+<h2 id="highlight_16">Highlight<a class="headerlink" href="#highlight_16" title="Permanent link">&para;</a></h2>
+<p>The work of the documentation team spans multiple scrums and often represents the integration of technologies from multiple product teams. To help each other—and the customers—succeed, writers need to watch and listen at all times for information that might be relevant to another writing colleague. It goes beyond sharing information. It requires informed, lateral thinking and a clear understanding of the overall product context. Whether you call this “shared consciousness”, “joint cognition”, or, as we do in the Splunk doc team, “collective intelligence”, you have to instill this practice in the cultural fabric of your department. ^ref-28482
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=978">978</a></p>
+<hr />
+<h2 id="highlight_17">Highlight<a class="headerlink" href="#highlight_17" title="Permanent link">&para;</a></h2>
+<p>The optimal ratio of developers to writer is mythical and not that useful, but it is persistent. If you, as a doc team manager, are involved in conversations about the ratio, be sure to make a couple of points: The ratio should not focus on developers because developers aren’t the only people who create work for technical writers. The ratio must consider all of the people who make work for technical writers, including developers, designers, product managers, testers, and customer support engineers. The answer depends on what the developers are doing. You can assign a team of eight developers to spend six months working on performance, and their dedicated effort will result in just a few days of documentation work. On the other hand, two UI developers working for a week could keep a team of several tech writers busy for a month. ^ref-49012
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1004">1004</a></p>
+<hr />
+<h2 id="highlight_18">Highlight<a class="headerlink" href="#highlight_18" title="Permanent link">&para;</a></h2>
+<p>Larger organizations need more process. Focus on developing light processes that reduce the time writers spend trying to figure out how to do their work so that they can spend more time actually doing it. Processes such as these should also enable you to build an effective, repeatable training experience for new team members so that writers who are joining your team don’t create extra work for existing team members. Another tool to help manage complexity is the development of standards. A well-developed style guide and glossary, along with peer reviews or formal editing, will ensure consistent terminology and usage. If you’re working in a structured authoring environment, the development of topic types and standardized information architecture also reduces some of the unnecessary variation that comes with complexity. ^ref-452
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1023">1023</a></p>
+<hr />
+<h2 id="highlight_19">Highlight<a class="headerlink" href="#highlight_19" title="Permanent link">&para;</a></h2>
+<p>Benefits of learning objectives when crafting documentation ^ref-57843
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1091">1091</a></p>
+<h3 id="note_3">Note<a class="headerlink" href="#note_3" title="Permanent link">&para;</a></h3>
+<p>This whole section has good, relevant information.</p>
+<hr />
+<h2 id="highlight_20">Highlight<a class="headerlink" href="#highlight_20" title="Permanent link">&para;</a></h2>
+<p>If learning objectives are closely related, it might be a good idea to include all of the content in one topic. Focus on optimizing for a straightforward, easily navigable documentation experience. ^ref-13020
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1149">1149</a></p>
+<hr />
+<h2 id="highlight_21">Highlight<a class="headerlink" href="#highlight_21" title="Permanent link">&para;</a></h2>
+<p>Several learning objectives might combine to support one user goal. A user might progress through multiple topics, each with a different type of learning objective—awareness, comprehension, applicable skill—as they move toward their goal. ^ref-56810
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1151">1151</a></p>
+<hr />
+<h2 id="highlight_22">Highlight<a class="headerlink" href="#highlight_22" title="Permanent link">&para;</a></h2>
+<p>​When assessing the effectiveness of the learning objective, consider the qualities: Criteria for a strong learning objective How the objective meets the criteria Does the objective support a real-world user goal? Is the user better equipped to solve a problem, create something, or make a decision after reading this topic? The user should be able to follow configuration steps, resulting in a customized visualization. Is the objective rooted in a clear starting point? Before meeting this objective, users should be familiar with the given data visualization type and be able to select it to represent data in a specific use case. They should also be able to describe the available configuration options for the visualization. Does the objective indicate a clear destination? By achieving this learning objective, users are equipped to configure the visualization. Depending on the complexity of the steps, users might be able to independently repeat the steps or describe the steps to another user. Can the objective be categorized into one of the following types: Awareness Comprehension Applicable skill Yes; applicable skill ^ref-25094
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1228">1228</a></p>
+<h3 id="note_4">Note<a class="headerlink" href="#note_4" title="Permanent link">&para;</a></h3>
+<p>Great starting points when considering the direction of documentation.</p>
+<hr />
+<h2 id="highlight_23">Highlight<a class="headerlink" href="#highlight_23" title="Permanent link">&para;</a></h2>
+<p>Look at use cases that a product manager identifies. These use cases will help you identify your audience and understand the user goals intended for the feature. Remember that user goals aren’t the same as learning objectives. ^ref-29526
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1287">1287</a></p>
+<hr />
+<h2 id="highlight_24">Highlight<a class="headerlink" href="#highlight_24" title="Permanent link">&para;</a></h2>
+<p>Internal engineering documentation Internal engineering docs are helpful for considering more constrained objectives, such as making users aware of particular configuration settings or permissions. More generally, while product specs are useful for identifying broader learning objectives, engineering internal docs can help you figure out how to get the user there. This kind of documentation can contain more information than users need, so consider what to include and exclude in user documentation. Remember that creating relevant content is more important than creating comprehensive content. ^ref-3760
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1290">1290</a></p>
+<hr />
+<h2 id="highlight_25">Highlight<a class="headerlink" href="#highlight_25" title="Permanent link">&para;</a></h2>
+<p>When you revisit material that you haven’t worked on for a while, new ideas and connections can occur to you. Your expertise can grow over time or use cases can change or merit reconsideration. When you look at material with a fresh eye, you often see its faults in a way that you couldn’t when you wrote it originally. ^ref-39782
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1375">1375</a></p>
+<hr />
+<h2 id="highlight_26">Highlight<a class="headerlink" href="#highlight_26" title="Permanent link">&para;</a></h2>
+<p>Remember: the attention that you pay to updating existing content is what distinguishes your docs and builds confidence within your customer community. ^ref-51884
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1424">1424</a></p>
+<hr />
+<h2 id="highlight_27">Highlight<a class="headerlink" href="#highlight_27" title="Permanent link">&para;</a></h2>
+<p>One example of this kind of simplicity is what Hubbard calls the “Rule of Five”, which states that there is a 93.75% chance that the median of a population is between the smallest and largest values in any random sample of five from that population (Hubbard, 30). ^ref-25897
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1487">1487</a></p>
+<hr />
+<h2 id="highlight_28">Highlight<a class="headerlink" href="#highlight_28" title="Permanent link">&para;</a></h2>
+<p>Measurement supports iteration. ^ref-33151
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1498">1498</a></p>
+<hr />
+<h2 id="highlight_29">Highlight<a class="headerlink" href="#highlight_29" title="Permanent link">&para;</a></h2>
+<p>Even when a question is well-framed and properly delivered, it can be hard to get a timely answer. Sources are busy, and your questions probably aren’t their priority. After a decent interval, ask again. Be as cheerfully persistent as a golden retriever. Give them a deadline. When the direct approach doesn’t work, you can sometimes provoke a response by writing something that is so wrong that a reviewer will be compelled to respond. ^ref-11390
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1805">1805</a></p>
+<h3 id="note_5">Note<a class="headerlink" href="#note_5" title="Permanent link">&para;</a></h3>
+<p>Good tactic to get feedback, especially the last sentence about intentionally including incorrect information to drive a response.</p>
+<hr />
+<h2 id="highlight_30">Highlight<a class="headerlink" href="#highlight_30" title="Permanent link">&para;</a></h2>
+<p>But technical editing is more than copyediting. Technical editing covers a wide spectrum of writerly things that stretch far beyond catching typos. Technical editing addresses issues of style, usability, clarity and cohesion, consistent terminology, audience definition, and minimalism. Its practices extend from sentence to topic to complex documentation sets. ^ref-33795
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1961">1961</a></p>
+<h3 id="note_6">Note<a class="headerlink" href="#note_6" title="Permanent link">&para;</a></h3>
+<p>Technical "writing" has really transformed into this Technical editor role recently. Because of how fast iterations are released, technical writers don't have the luxury of time to learn about features in detail and write drafts from scratch. Additionally, technical editors tend to work aith multiple teams, so dedicated writing resources are thin.</p>
+<hr />
+<h2 id="highlight_31">Highlight<a class="headerlink" href="#highlight_31" title="Permanent link">&para;</a></h2>
+<p>It doesn’t have to be someone with the job title of technical editor who gives you feedback on the effectiveness of your documentation. It can be anyone in your product organization, such as a peer technical writer on your documentation team, a product manager, a colleague in marketing or customer success, or even a valued customer with whom you have established a strong relationship. ^ref-8455
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1964">1964</a></p>
+<h3 id="note_7">Note<a class="headerlink" href="#note_7" title="Permanent link">&para;</a></h3>
+<p>Feedback from anyone is valuable. Arguably, the best feedback comes from people unfamiliar with the content, especially for external-facing docs.</p>
+<hr />
+<h2 id="highlight_32">Highlight<a class="headerlink" href="#highlight_32" title="Permanent link">&para;</a></h2>
+<p>What technical editing adds ^ref-11593
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=1966">1966</a></p>
+<h3 id="note_8">Note<a class="headerlink" href="#note_8" title="Permanent link">&para;</a></h3>
+<p>This whole section is well-written and describes how reviews and feedback are important in improving documentation and understanding.</p>
+<hr />
+<h2 id="highlight_33">Highlight<a class="headerlink" href="#highlight_33" title="Permanent link">&para;</a></h2>
+<p>These kinds of questions work for self-editing, too: Who is the intended audience for this content? What is the learning objective for the content? Does the content provide enough context for the user? Does it contain information that isn’t directly relevant to the user’s goal? Is the level of detail correct? Does this information path lead the user through the content efficiently? Is this type of information documented frequently enough to warrant a template? How do you handle optional steps in a task? How do you handle conditional information? Is this topic too long? ^ref-7119
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2010">2010</a></p>
+<h3 id="note_9">Note<a class="headerlink" href="#note_9" title="Permanent link">&para;</a></h3>
+<p>All valid points to consider when working with an SME and reviewing documentation.</p>
+<hr />
+<h2 id="highlight_34">Highlight<a class="headerlink" href="#highlight_34" title="Permanent link">&para;</a></h2>
+<p>Self-edit checklist ^ref-2142
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2171">2171</a></p>
+<h3 id="note_10">Note<a class="headerlink" href="#note_10" title="Permanent link">&para;</a></h3>
+<p>Borrow from this section when creating a "self-editing checklist" for people involved with development.</p>
+<hr />
+<h2 id="highlight_35">Highlight<a class="headerlink" href="#highlight_35" title="Permanent link">&para;</a></h2>
+<p>One factor that matters a lot, and is probably largely beyond your ability to affect, short of moving to a new company, is the established relationship between the doc team and the engineering team. Do the engineers view the writers as part of their team? Do they understand the importance of good documentation to product usability and customer satisfaction? Do engineers understand their responsibility for ensuring the quality of the documentation? ^ref-46697
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2340">2340</a></p>
+<hr />
+<h2 id="highlight_36">Highlight<a class="headerlink" href="#highlight_36" title="Permanent link">&para;</a></h2>
+<p>Another bedrock factor, which you do have a great deal of control over, is your own relationship to the engineering team. Do they see you as part of their team? Do they experience your contributions in a positive light? And do they view you as smart or stupid? You can help your standing on a team by showing that you’re prepared and up to date on the feature by participating in development meetings and reading relevant engineering documents before sitting down with the developer to discuss a product feature. Also, ask intelligent questions and make intelligent suggestions. And, whatever you do, don’t allow yourself to feel intimidated—or, if you do feel intimidated, don’t allow it to show. ^ref-14304
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2343">2343</a></p>
+<hr />
+<h2 id="highlight_37">Highlight<a class="headerlink" href="#highlight_37" title="Permanent link">&para;</a></h2>
+<p>Don’t overwhelm reviewers with suggestions about how to do their reviews. Understand that they are going to spend as little time as possible on the review. If there’s something in the documentation that requires further explanation, add a note to the reviewers in the copy itself. Don’t distract your reviewers by asking them to absorb extraneous information about what constitutes a good review. They won’t read it anyway, so it’s a waste of your time. ^ref-54291
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2356">2356</a></p>
+<hr />
+<h2 id="highlight_38">Highlight<a class="headerlink" href="#highlight_38" title="Permanent link">&para;</a></h2>
+<p>In organizations that lack formal processes, be the person who brings a method to the madness. By designing a formal approval process without creating too much overhead, you create accountability from your teams. ^ref-41273
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=2378">2378</a></p>
+<hr />
+<h2 id="highlight_39">Highlight<a class="headerlink" href="#highlight_39" title="Permanent link">&para;</a></h2>
+<p>Don’t sulk if you don’t get any feedback. Reevaluate your methods, clarify what you are asking for, and try again. Talk to the product manager about the mutual benefits of attending to documentation and share some of the customer feedback they should know about. ^ref-29633
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=3152">3152</a></p>
+<hr />
+<h2 id="highlight_40">Highlight<a class="headerlink" href="#highlight_40" title="Permanent link">&para;</a></h2>
+<p>The Agile Manifesto says, “The most efficient and effective method of conveying information to and within a development team is face-to-face conversation”. ^ref-34566
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=3212">3212</a></p>
+<hr />
+<h2 id="highlight_41">Highlight<a class="headerlink" href="#highlight_41" title="Permanent link">&para;</a></h2>
+<p>Progressively disclosing complexity is a solid principle for design as well as information development. Most customers in most situations might not need additional troubleshooting or management capabilities for a feature. But for the minority who do, documentation shouldn’t be the only part of the product that helps them. ^ref-54192
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=3386">3386</a></p>
+<hr />
+<h2 id="highlight_42">Highlight<a class="headerlink" href="#highlight_42" title="Permanent link">&para;</a></h2>
+<p>Above all else, SaaS customers expect the management of their service to be seamless. To enable this managed service model, your customer support teams, infrastructure and operations teams, or teams such as Network Operation Center (NOC) and Security Operation Center (SOC), need a repository of documentation. This documentation helps teams execute their daily operational work and respond to customer issues. Even though they never see it, internal documentation is as important to SaaS customers as the customer-facing documentation they do read. ^ref-48945
+- Location: <a href="kindle://book?action=open&amp;asin=B085KHTV95&amp;location=3614">3614</a></p>
+<hr />
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 3, 2022</span>
+      
+    
+  </small>
+</div>
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../The%20Little%20Book%20of%20Stoicism/" class="md-footer__link md-footer__link--prev" aria-label="Previous: The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../The%20Rape%20Of%20Nanking/" class="md-footer__link md-footer__link--next" aria-label="Next: The Rape Of Nanking: The Forgotten Holocaust Of World War II" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              The Rape Of Nanking: The Forgotten Holocaust Of World War II
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="https://github.com/josh-wong" target="_blank" rel="noopener" title="josh-wong on GitHub" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://www.linkedin.com/in/wongjoshua" target="_blank" rel="noopener" title="Joshua Wong on LinkedIn" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://twitter.com/josh_in_japan" target="_blank" rel="noopener" title="josh_in_japan on Twitter" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["search.suggest", "search.highlight", "search.share", "navigation.tracking", "navigation.top"], "search": "../assets/javascripts/workers/search.092fa1f6.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.5a9542cf.min.js"></script>
+      
+    
+  </body>
+</html>
