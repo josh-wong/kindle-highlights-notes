@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-03'
+  lastAnnotatedDate: '2022-09-04'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 15
+  highlightsCount: 17
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -110,7 +110,19 @@ The reason it’s important to push hardest when you want to quit the most is be
 ---
 ## Highlight
 
-Chapter Six ^ref-15199
-- Location: [2104](kindle://book?action=open&asin=B07H453KGH&location=2104)
+We all need small sparks, small accomplishments in our lives to fuel the big ones. Think of your small accomplishments as kindling. ^ref-53865
+- Location: [2459](kindle://book?action=open&asin=B07H453KGH&location=2459)
+
+---
+## Highlight
+
+I knew then that I’d been selling myself short. That there was a whole new level of performance out there to tap into. That the human body can withstand and accomplish a hell of a lot more than most of us think possible, and that it all begins and ends in the mind. ^ref-30945
+- Location: [2503](kindle://book?action=open&asin=B07H453KGH&location=2503)
+
+---
+## Highlight
+
+Chapter Seven ^ref-7469
+- Location: [2526](kindle://book?action=open&asin=B07H453KGH&location=2526)
 
 ---
