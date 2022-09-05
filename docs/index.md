@@ -16,30 +16,33 @@ The [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin) g
 	
 	Because of a limitation with the [Obsidian Kindle Plugin](https://github.com/hadynz/obsidian-kindle-plugin), if you do any of the following, your highlights and notes will not be updated unless you delete the .md files and re-sync:
 	
-    - Deleted highlights
-    - New, modified, or deleted notes
+    - Delete highlights
+    - Add, modify, or delete notes
 
-A script then runs on a daily basis to do the following: 
-
-1. Delete the .md files in the Obsidian folder where the contents of this vault live.
-2. Open the vault.
-3. Wait about 15 minutes for Kindle highlights and notes to re-sync.
+To ensure I have the most updated version of my Kindle highlights and notes in Obsidian, a script runs on a daily basis to do the following: 
 
 !!! note
 
 	In order for this script to work properly, you must be logged in to your Amazon account within the Obsidian Kindle Plugin and have "**Sync on Startup**" set to enabled in the plugin settings.
 
+1. Delete the .md files in the Obsidian folder where the contents of this vault live.
+2. Open the vault.
+3. Wait about 15 minutes for Kindle highlights and notes to re-sync.
 4. Close the vault.
 
 That script is based on [app-open-close-script](https://github.com/josh-wong/app-open-close-script/).
 
 ### 2. Sync highlights and notes from Obsidian to local GitHub folder
 
-A script runs on a daily basis to sync any new highlights and notes with this GitHub repository. That script is based on [remove-copy-folder-scripts](https://josh-wong.github.io/remove-copy-folder-scripts/).
+A script runs on a daily basis to sync any new highlights and notes with this GitHub repository. 
+
+That script is based on [remove-copy-folder-scripts](https://josh-wong.github.io/remove-copy-folder-scripts/).
 
 ### 3. Sync highlights and notes from local GitHub folder to GitHub-hosted repository
 
-After the previous script runs, another script runs to sync any new highlights and notes from my local GitHub folder to my GitHub-hosted repository. That script is based on [commit-submit-merge-script](https://github.com/josh-wong/commit-submit-merge-script).
+After the previous script runs, another script runs to sync any new highlights and notes from my local GitHub folder to my GitHub-hosted repository. 
+
+That script is based on [commit-submit-merge-script](https://github.com/josh-wong/commit-submit-merge-script).
 
 ## Plugin templates
 

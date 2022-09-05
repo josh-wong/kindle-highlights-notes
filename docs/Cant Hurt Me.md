@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-04'
+  lastAnnotatedDate: '2022-09-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 17
+  highlightsCount: 20
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -122,7 +122,25 @@ I knew then that I’d been selling myself short. That there was a whole new lev
 ---
 ## Highlight
 
-Chapter Seven ^ref-7469
-- Location: [2526](kindle://book?action=open&asin=B07H453KGH&location=2526)
+Sadly, most of us give up when we’ve only given around 40 percent of our maximum effort. Even when we feel like we’ve reached our absolute limit, we still have 60 percent more to give! ^ref-6196
+- Location: [2742](kindle://book?action=open&asin=B07H453KGH&location=2742)
+
+---
+## Highlight
+
+Our minds are fucking strong, they are our most powerful weapon, but we have stopped using them. We have access to so many more resources today than ever before and yet we are so much less capable than those who came before us. If you want to be one of the few to defy those trends in our ever-softening society, you will have to be willing to go to war with yourself and create a whole new identity, which requires an open mind. It’s funny, being open-minded is often tagged as new age or soft. Fuck that. Being open-minded enough to find a way is old school. It’s what knuckle draggers do. ^ref-26557
+- Location: [2869](kindle://book?action=open&asin=B07H453KGH&location=2869)
+
+---
+## Highlight
+
+There is no finish line. ^ref-38320
+- Location: [3007](kindle://book?action=open&asin=B07H453KGH&location=3007)
+
+---
+## Highlight
+
+Chapter ^ref-28137
+- Location: [3024](kindle://book?action=open&asin=B07H453KGH&location=3024)
 
 ---
