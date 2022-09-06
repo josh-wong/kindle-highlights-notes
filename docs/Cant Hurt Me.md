@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-05'
+  lastAnnotatedDate: '2022-09-06'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 20
+  highlightsCount: 23
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -140,7 +140,25 @@ There is no finish line. ^ref-38320
 ---
 ## Highlight
 
-Chapter ^ref-28137
-- Location: [3024](kindle://book?action=open&asin=B07H453KGH&location=3024)
+Our culture has become hooked on the quick fix, the life hack, efficiency. Everyone is on the hunt for that simple action algorithm that nets maximum profit with the least amount of effort. There’s no denying this attitude may get you some of the trappings of success, if you’re lucky, but it will not lead to a calloused mind or self-mastery. If you want to master the mind and remove your governor, you’ll have to become addicted to hard work. Because passion and obsession, even talent, are only useful tools if you have the work ethic to back them up. ^ref-53096
+- Location: [3254](kindle://book?action=open&asin=B07H453KGH&location=3254)
+
+---
+## Highlight
+
+Evaluate your life in its totality! We all waste so much time doing meaningless bullshit. We burn hours on social media and watching television, which by the end of the year would add up to entire days and weeks if you tabulated time like you do your taxes. You should, because if you knew the truth you’d deactivate your Facebook account STAT, and cut your cable. When you find yourself having frivolous conversations or becoming ensnared in activities that don’t better you in any way, move the fuck on! ^ref-38129
+- Location: [3287](kindle://book?action=open&asin=B07H453KGH&location=3287)
+
+---
+## Highlight
+
+It’s up to you to find ways to eviscerate your bullshit. How much time do you spend at the dinner table talking about nothing after the meal is done? How many calls and texts do you send for no reason at all? Look at your whole life, list your obligations and tasks. Put a time stamp on them. How many hours are required to shop, eat, and clean? How much sleep do you need? What’s your commute like? Can you make it there under your own power? Block everything into windows of time, and once your day is scheduled out, you’ll know how much flexibility you have to exercise on a given day and how to maximize it. ^ref-65169
+- Location: [3295](kindle://book?action=open&asin=B07H453KGH&location=3295)
+
+---
+## Highlight
+
+Chapter Nine ^ref-55221
+- Location: [3451](kindle://book?action=open&asin=B07H453KGH&location=3451)
 
 ---
