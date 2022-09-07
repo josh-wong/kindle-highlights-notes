@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-06'
+  lastAnnotatedDate: '2022-09-07'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 23
+  highlightsCount: 26
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -158,7 +158,25 @@ It’s up to you to find ways to eviscerate your bullshit. How much time do you 
 ---
 ## Highlight
 
-Chapter Nine ^ref-55221
-- Location: [3451](kindle://book?action=open&asin=B07H453KGH&location=3451)
+Always be willing to embrace ignorance and become the dumb fuck in the classroom again, because that is the only way to expand your body of knowledge and body of work. It’s the only way to expand your mind. ^ref-27525
+- Location: [3713](kindle://book?action=open&asin=B07H453KGH&location=3713)
+
+---
+## Highlight
+
+You can push yourself to a place that is beyond the current capability or temporal mindset of the people you work with, and that’s okay. Just know that your supposed superiority is a figment of your own ego. So don’t lord it over them, because it won’t help you advance as a team or as an individual in your field. Instead of getting angry that your colleagues can’t keep up, help pick your colleagues up and bring them with you! ^ref-47214
+- Location: [3749](kindle://book?action=open&asin=B07H453KGH&location=3749)
+
+---
+## Highlight
+
+We are all fighting the same battle. All of us are torn between comfort and performance, between settling for mediocrity or being willing to suffer in order to become our best self, all the damn time. We make those kinds of decisions a dozen or more times each day. ^ref-12804
+- Location: [3752](kindle://book?action=open&asin=B07H453KGH&location=3752)
+
+---
+## Highlight
+
+Chapter Ten ^ref-11346
+- Location: [3868](kindle://book?action=open&asin=B07H453KGH&location=3868)
 
 ---
