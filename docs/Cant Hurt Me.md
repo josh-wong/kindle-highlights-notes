@@ -4,7 +4,7 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-07'
+  lastAnnotatedDate: '2022-09-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
   highlightsCount: 26
 ---
