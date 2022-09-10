@@ -30,9 +30,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  # Hide the table of contents from the right-hand sidebar. The TOC is not needed because each highlight has the "Highlight" as the header, which is confusing.
   - toc:
+      # Hide the table of contents from the right-hand sidebar. The TOC is not needed because each highlight has the "Highlight" as the header, which is confusing.
       toc_depth : "0"
+      # Add link next to header that allows the user to get a permalink to the heading (still need to copy the URL in the address bar).
       permalink: true
 
 theme:
