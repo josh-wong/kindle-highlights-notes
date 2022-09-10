@@ -30,6 +30,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  # Hide the table of contents from the right-hand sidebar. The TOC is not needed because each highlight has the "Highlight" as the header, which is confusing.
+  - toc:
+      toc_depth : "0"
+      permalink: true
 
 theme:
   name: material
