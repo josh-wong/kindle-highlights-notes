@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-08'
+  lastAnnotatedDate: '2022-09-11'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 26
+  highlightsCount: 30
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -176,7 +176,31 @@ We are all fighting the same battle. All of us are torn between comfort and perf
 ---
 ## Highlight
 
-Chapter Ten ^ref-11346
-- Location: [3868](kindle://book?action=open&asin=B07H453KGH&location=3868)
+A lot of us surround ourselves with people who speak to our desire for comfort. People who would rather treat the pain of our wounds and prevent further injury than help us callous over them and try again. We need to surround ourselves with people who will tell us what we need to hear, not what we want to hear, but at the same time not make us feel we’re up against the impossible. ^ref-24295
+- Location: [4168](kindle://book?action=open&asin=B07H453KGH&location=4168)
+
+---
+## Highlight
+
+You can’t let a simple failure derail your mission, or let it worm so far up your ass it takes over your brain and sabotages your relationships with people who are close to you. Everyone fails sometimes and life isn’t supposed to be fair, much less bend to your every whim. ^ref-49830
+- Location: [4190](kindle://book?action=open&asin=B07H453KGH&location=4190)
+
+---
+## Highlight
+
+I didn’t want to do pull-ups anymore, but achieving goals or overcoming obstacles doesn’t have to be fun. Seeds burst from the inside out in a self-destructive ritual of new life. Does that sound like fucking fun? Like it feels good? I wasn’t in that gym to get happy or do what I wanted to be doing. I was there to turn myself inside out if that’s what it took to blast through any and all mental, emotional, and physical barriers. ^ref-62957
+- Location: [4244](kindle://book?action=open&asin=B07H453KGH&location=4244)
+
+---
+## Highlight
+
+You know that my refrigerator is never full, and it never will be because I live a mission-driven life, always on the hunt for the next challenge. That mindset is the reason I broke that record, finished Badwater, became a SEAL, rocked Ranger School, and on down the list. In my mind I’m that racehorse always chasing a carrot I’ll never catch, forever trying to prove myself to myself. And when you live that way and attain a goal, success feels anti-climactic. ^ref-34667
+- Location: [4280](kindle://book?action=open&asin=B07H453KGH&location=4280)
+
+---
+## Highlight
+
+Chapter Eleven ^ref-25739
+- Location: [4310](kindle://book?action=open&asin=B07H453KGH&location=4310)
 
 ---
