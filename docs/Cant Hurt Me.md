@@ -4,9 +4,9 @@ kindle-sync:
   title: 'Can''t Hurt Me: Master Your Mind and Defy the Odds'
   author: David Goggins
   asin: B07H453KGH
-  lastAnnotatedDate: '2022-09-11'
+  lastAnnotatedDate: '2022-09-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81gTRv2HXrL._SY160.jpg'
-  highlightsCount: 30
+  highlightsCount: 29
 ---
 # Can't Hurt Me: Master Your Mind and Defy the Odds
 
@@ -196,11 +196,5 @@ I didn’t want to do pull-ups anymore, but achieving goals or overcoming obstac
 
 You know that my refrigerator is never full, and it never will be because I live a mission-driven life, always on the hunt for the next challenge. That mindset is the reason I broke that record, finished Badwater, became a SEAL, rocked Ranger School, and on down the list. In my mind I’m that racehorse always chasing a carrot I’ll never catch, forever trying to prove myself to myself. And when you live that way and attain a goal, success feels anti-climactic. ^ref-34667
 - Location: [4280](kindle://book?action=open&asin=B07H453KGH&location=4280)
-
----
-## Highlight
-
-Chapter Eleven ^ref-25739
-- Location: [4310](kindle://book?action=open&asin=B07H453KGH&location=4310)
 
 ---
