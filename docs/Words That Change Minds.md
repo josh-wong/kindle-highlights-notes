@@ -6,9 +6,9 @@ kindle-sync:
     Influence
   author: Shelle Rose  Charvet
   asin: B07PVSR2J4
-  lastAnnotatedDate: '2022-09-13'
+  lastAnnotatedDate: '2022-09-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81ctAxN+DpL._SY160.jpg'
-  highlightsCount: 12
+  highlightsCount: 18
 ---
 # Words That Change Minds: The 14 Patterns for Mastering the Language of Influence
 
@@ -94,10 +94,52 @@ Creators and users of technology approach technology quite differently. Eye trac
 ---
 ## Highlight
 
-Chapter 9 ^ref-47683
-- Location: [1959](kindle://book?action=open&asin=B07PVSR2J4&location=1959)
+I recommend keeping your goals and targets in mind, as well as the issues and problems you need to address, and regularly check in to see if you are meeting them and if what you are doing (this month, this week, today, this hour etc.) will do the most to move you ahead. ^ref-53878
+- Location: [2103](kindle://book?action=open&asin=B07PVSR2J4&location=2103)
+
+---
+## Highlight
+
+If you are concentrating so hard on what you are doing, such as texting, that you don't notice what is going on around you, then you are in Self mode. ^ref-49113
+- Location: [2218](kindle://book?action=open&asin=B07PVSR2J4&location=2218)
+
+---
+## Highlight
+
+It is important to ensure that you do not leave someone in a negative state. Reminding them of situations associated with their positive Criteria will help shift them into a more positive frame of mind. If they seem to still be distressed, you may also have them change seats to help them get out of the negative state. ^ref-31557
+- Location: [2282](kindle://book?action=open&asin=B07PVSR2J4&location=2282)
 
 ### Note
-Note to self: Stopped here. Will pick up later.
+The idea of having someone change seats when they feel distressed is interesting. This psychological "trick" might be helpful in many situations and promote trust.
+
+---
+## Highlight
+
+An Incompetency Attack has nothing to do with one's real level of competence, which may be excellent. It is a strong, emotionally-based belief of one's incompetence, usually felt by someone with a Feeling Pattern in that Context. ^ref-34001
+- Location: [2302](kindle://book?action=open&asin=B07PVSR2J4&location=2302)
+
+---
+## Highlight
+
+According to Rodger Bailey, most of the population at work has the Choice Pattern (70%). This means that when faced with a difficult or troublesome situation they will first have an emotional response. As a manager you can assist by helping these people disassociate themselves from their feelings, if appropriate, by helping them change perspectives. There are a couple of ways to do this. You can distort time by asking them: "Can you imagine what we'll think about this situation two years from now?" You can have them see it from someone else's viewpoint: "I don't think our customers will care much about this." Or you can have them view the whole thing from the outside: "If you were a fly on the wall when this happened, what would you notice?" With Feeling people, you will probably have to practice your conflict resolution and mediation skills. To maintain their motivation, give them tasks that they can get passionate about. As they are working, watch for signs of distress and overload of tension. These people are the most likely to suffer from stress-related illnesses because they feel stressed more often than people with the other Patterns. Feeling people may overreact, particularly in tense or conflictual circumstances. It would be useful for them to learn how to dissociate or cool off. ^ref-38881
+- Location: [2332](kindle://book?action=open&asin=B07PVSR2J4&location=2332)
+
+### Note
+This is important to recognize because this is how I tend to feel, especially at work, when these situations arise.
+
+---
+## Highlight
+
+When faced with a highly intense reaction from an employee, create rapport by raising your tone to almost the same level as his while saying something positive or surprising: "I'm so upset about you being upset, that I am ready to tear my hair out!" Saying something like that will get their attention, so that you can then channel their energy toward a more productive path. ^ref-55178
+- Location: [2343](kindle://book?action=open&asin=B07PVSR2J4&location=2343)
+
+### Note
+I'm not sure raising your voice is necessary here, but empathizing and connecting/understanding is important.
+
+---
+## Highlight
+
+Chapter 21 ^ref-8557
+- Location: [3005](kindle://book?action=open&asin=B07PVSR2J4&location=3005)
 
 ---
