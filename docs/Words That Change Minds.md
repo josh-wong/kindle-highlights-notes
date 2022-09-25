@@ -6,7 +6,7 @@ kindle-sync:
     Influence
   author: Shelle Rose  Charvet
   asin: B07PVSR2J4
-  lastAnnotatedDate: '2022-09-24'
+  lastAnnotatedDate: '2022-09-25'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81ctAxN+DpL._SY160.jpg'
   highlightsCount: 20
 ---
@@ -151,7 +151,7 @@ The NLP Outcome Strategy Questions Conditions for a well-formed outcome What do 
 ---
 ## Highlight
 
-Chapter 29 ^ref-10613
-- Location: [3833](kindle://book?action=open&asin=B07PVSR2J4&location=3833)
+Chapter 31 ^ref-9070
+- Location: [3932](kindle://book?action=open&asin=B07PVSR2J4&location=3932)
 
 ---
