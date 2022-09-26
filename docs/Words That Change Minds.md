@@ -6,9 +6,9 @@ kindle-sync:
     Influence
   author: Shelle Rose  Charvet
   asin: B07PVSR2J4
-  lastAnnotatedDate: '2022-09-25'
+  lastAnnotatedDate: '2022-09-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81ctAxN+DpL._SY160.jpg'
-  highlightsCount: 20
+  highlightsCount: 19
 ---
 # Words That Change Minds: The 14 Patterns for Mastering the Language of Influence
 
@@ -147,11 +147,5 @@ Inertia can be a powerful force and people get used to having problems or being 
 
 The NLP Outcome Strategy Questions Conditions for a well-formed outcome What do you want? STATED POSITIVELY what you want instead of what you don’t want Who? When? Where? SPECIFIC CONTEXT test: one clear image How will you know you’ve got it? VERIFIABLE what you will see, hear, feel Who does your objective depend on? What resources do you have that will enable you to get your objective? How does what’s happening now, indicate what you could do now? ATTAINABLE you are able to initiate and maintain your objective yourself What is important about your objective? How does it reflect who you want to be? WORTH THE TROUBLE your objective is sufficiently motivating so you’ll actually do it Is this what you really want? it respects your values What would happen if you got what you wanted? ECOLOGY your objective respects the whole system you function in. What do you get out of the present situation that you want to be sure to keep? What do you risk losing? What would be the consequences on your environment (colleagues, department, family, job, future etc.) of getting what you want? your objective preserves the desirable aspects of the present situation. ^ref-43748
 - Location: [3408](kindle://book?action=open&asin=B07PVSR2J4&location=3408)
-
----
-## Highlight
-
-Chapter 31 ^ref-9070
-- Location: [3932](kindle://book?action=open&asin=B07PVSR2J4&location=3932)
 
 ---
