@@ -6,7 +6,7 @@ kindle-sync:
     Influence
   author: Shelle Rose  Charvet
   asin: B07PVSR2J4
-  lastAnnotatedDate: '2022-09-26'
+  lastAnnotatedDate: '2022-09-27'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81ctAxN+DpL._SY160.jpg'
   highlightsCount: 19
 ---
