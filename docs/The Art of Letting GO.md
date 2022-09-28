@@ -7,7 +7,7 @@ kindle-sync:
     Living Well Book 2)
   author: Damon Zahariades
   asin: B09T66MSLN
-  lastAnnotatedDate: '2022-09-27'
+  lastAnnotatedDate: '2022-09-28'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71jOrVr9bvL._SY160.jpg'
   highlightsCount: 3
 ---
