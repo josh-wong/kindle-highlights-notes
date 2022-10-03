@@ -16,12 +16,12 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install \ 
-          git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git@8.5.4-insiders-4.24.1 \
+          git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git \
           mkdocs-video \
           mkdocs-git-revision-date-localized-plugin \
           python-slugify \
           mkdocs-git-committers-plugin-2 \
-          mkdocs-rss-plugin \
+          #mkdocs-rss-plugin \
           #mkdocs-techdocs-core \
           #mkdocs-multirepo-plugin \
       #- run: mkdocs build --config-file mkdocs.insiders.yml
