@@ -7,9 +7,9 @@ kindle-sync:
     Living Well Book 2)
   author: Damon Zahariades
   asin: B09T66MSLN
-  lastAnnotatedDate: '2022-09-29'
+  lastAnnotatedDate: '2022-10-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71jOrVr9bvL._SY160.jpg'
-  highlightsCount: 6
+  highlightsCount: 11
 ---
 # The Art of Letting GO: How to Let Go of the Past, Look Forward to the Future, and Finally Enjoy the Emotional Freedom You Deserve! (The Art Of Living Well Book 2)
 
@@ -56,7 +56,40 @@ When we let go of the past, we give ourself permission to no longer focus on ple
 ---
 ## Highlight
 
-TOP 20 THINGS WE SHOULD LET GO ^ref-32402
-- Location: [372](kindle://book?action=open&asin=B09T66MSLN&location=372)
+When we fixate on others’ perceptions of us, we implicitly allow them to make our decisions for us. Our life is no longer our own. And our emotional health becomes dependent on what others think of us. ^ref-31827
+- Location: [423](kindle://book?action=open&asin=B09T66MSLN&location=423)
+
+---
+## Highlight
+
+Whatever its origin, perfectionism always leads to our dissatisfaction. If we believe that being perfect is the only way we’ll be happy, we guarantee our perpetual unhappiness. When we stop trying to be perfect, we experience less anxiety, enjoy more creativity, and become more inclined to take purposeful, calculated risks. And importantly, we free ourself from the emotional burden of constantly striving for others’ approval. ^ref-38482
+- Location: [470](kindle://book?action=open&asin=B09T66MSLN&location=470)
+
+---
+## Highlight
+
+When we let go of our fear of failure, we become more willing to step outside our comfort zone. Our confidence and self-esteem improve as we take leaps of faith based on the belief that failing doesn’t mean disaster. Conversely, our failures often pave the road toward personal growth and self-improvement. ^ref-50730
+- Location: [482](kindle://book?action=open&asin=B09T66MSLN&location=482)
+
+---
+## Highlight
+
+Problems arise when we allow ourself to become agitated by others’ opinions. It’s not enough that we feel we’re right; we must convince other people that we’re right. And so we spend time each day arguing about everything from politics and cultural norms to the economy and whether scrambled eggs should be eaten alone or with ketchup. Needless to say, this constant bickering can be emotionally exhausting. Moreover, it’s rarely rewarding. ^ref-63051
+- Location: [487](kindle://book?action=open&asin=B09T66MSLN&location=487)
+
+### Note
+This line of thinking is exactly why social media can be so detrimental and a waste of time.
+
+---
+## Highlight
+
+The main stumbling block associated with the fear of missing out is found in its name: fear. We fear moving on. We fear missing a chance to experience something good. We fear losing out on something that might happen. Unfortunately, this anxiety causes us to perpetuate our suffering by staying emotionally attached to things that make us unhappy. ^ref-11353
+- Location: [573](kindle://book?action=open&asin=B09T66MSLN&location=573)
+
+---
+## Highlight
+
+STRATEGY ^ref-43638
+- Location: [1028](kindle://book?action=open&asin=B09T66MSLN&location=1028)
 
 ---
