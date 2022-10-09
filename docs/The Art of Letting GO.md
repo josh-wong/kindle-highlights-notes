@@ -7,9 +7,9 @@ kindle-sync:
     Living Well Book 2)
   author: Damon Zahariades
   asin: B09T66MSLN
-  lastAnnotatedDate: '2022-10-05'
+  lastAnnotatedDate: '2022-10-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71jOrVr9bvL._SY160.jpg'
-  highlightsCount: 11
+  highlightsCount: 15
 ---
 # The Art of Letting GO: How to Let Go of the Past, Look Forward to the Future, and Finally Enjoy the Emotional Freedom You Deserve! (The Art Of Living Well Book 2)
 
@@ -89,7 +89,31 @@ The main stumbling block associated with the fear of missing out is found in its
 ---
 ## Highlight
 
-STRATEGY ^ref-43638
-- Location: [1028](kindle://book?action=open&asin=B09T66MSLN&location=1028)
+But pride flirts with the dark side of our ego. Left unchecked, it can cause us to feel arrogant and self-important. When it does so, it becomes a destructive force. It turns into a stumbling block that negatively impacts our relationships, careers, and decisions. Unchallenged, pride also discourages us from letting go the things that haunt us. We become less inclined to admit our mistakes, convinced we’re faultless. We become less willing to apologize, certain that others are to blame and thus owe us an apology. We habitually compare ourself to others to measure our self-worth, and obsess over keeping up with them. ^ref-32858
+- Location: [1176](kindle://book?action=open&asin=B09T66MSLN&location=1176)
+
+---
+## Highlight
+
+Constantly trying to make everyone else happy only leads to misery. We lose ourself in their priorities. We spend so much energy catering to others’ needs and wants that we have none left to address our own. ^ref-4173
+- Location: [1327](kindle://book?action=open&asin=B09T66MSLN&location=1327)
+
+---
+## Highlight
+
+One of the reasons is that our obsession with being happy causes us to overemphasize the impact of our failures. When we fail, we sometimes experience intensely negative emotions that are unwarranted by the circumstances. A study was published awhile back in the journal Emotion that described this tendency.1 The researchers found that people who obsess over being happy often experience more stress as their obsession causes them to dwell on negative thoughts and emotions attached to their failures. ^ref-8148
+- Location: [1376](kindle://book?action=open&asin=B09T66MSLN&location=1376)
+
+---
+## Highlight
+
+The problem is, when we focus on things that can go wrong rather than celebrate the good things in our life, we operate from a place of fear. This fear reinforces the emotionally painful experiences we’ve endured in the past. It highlights our unmet needs. It emphasizes past betrayals. It underscores our dashed expectations, painful memories, and personal grudges. It’s a constant reminder that so many things have hurt us in the past and can potentially hurt us again in the future. So we cling to the painful memories and the cynicism, distrust, and negativity attached to them. It’s a survival mechanism. ^ref-11478
+- Location: [1537](kindle://book?action=open&asin=B09T66MSLN&location=1537)
+
+---
+## Highlight
+
+STRATEGY #18: ^ref-26205
+- Location: [1620](kindle://book?action=open&asin=B09T66MSLN&location=1620)
 
 ---
