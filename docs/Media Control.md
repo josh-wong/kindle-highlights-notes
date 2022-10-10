@@ -6,7 +6,7 @@ kindle-sync:
     Series)
   author: Noam Chomsky
   asin: B00541YJPM
-  lastAnnotatedDate: '2022-09-30'
+  lastAnnotatedDate: '2022-10-10'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81fg2sqW-ML._SY160.jpg'
   highlightsCount: 6
 ---

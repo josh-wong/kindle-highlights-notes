@@ -7,9 +7,9 @@ kindle-sync:
     Living Well Book 2)
   author: Damon Zahariades
   asin: B09T66MSLN
-  lastAnnotatedDate: '2022-10-09'
+  lastAnnotatedDate: '2022-10-10'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71jOrVr9bvL._SY160.jpg'
-  highlightsCount: 15
+  highlightsCount: 19
 ---
 # The Art of Letting GO: How to Let Go of the Past, Look Forward to the Future, and Finally Enjoy the Emotional Freedom You Deserve! (The Art Of Living Well Book 2)
 
@@ -113,7 +113,31 @@ The problem is, when we focus on things that can go wrong rather than celebrate 
 ---
 ## Highlight
 
-STRATEGY #18: ^ref-26205
-- Location: [1620](kindle://book?action=open&asin=B09T66MSLN&location=1620)
+Lastly, review the list of things this individual did that displeased you. Keeping in mind his or her positive traits, ask yourself “how serious is this issue to me in the long run?” ^ref-12607
+- Location: [1720](kindle://book?action=open&asin=B09T66MSLN&location=1720)
+
+---
+## Highlight
+
+We only have 24 hours each day. It’s helpful to recognize how some of this time is already committed. ^ref-4880
+- Location: [1757](kindle://book?action=open&asin=B09T66MSLN&location=1757)
+
+---
+## Highlight
+
+This exercise serves two purposes. First, it reveals how much of our time is already committed, even if we don’t realize it. Second, it underscores the fact that overcommitting means siphoning away time from important areas of our life. ^ref-4358
+- Location: [1774](kindle://book?action=open&asin=B09T66MSLN&location=1774)
+
+---
+## Highlight
+
+Emotional diversity helps us to let go of our distressing memories, painful regrets, and upsetting grievances. We experience an array of emotions that makes us more adaptable to our circumstances. We become more resilient to the negative thoughts and feelings that might otherwise monopolize our headspace. Rather than obsessing over our emotional pain, we become more comfortable confronting its source, managing our feelings regarding it, and finally letting those feelings go. ^ref-49010
+- Location: [1868](kindle://book?action=open&asin=B09T66MSLN&location=1868)
+
+---
+## Highlight
+
+One final note… I encourage you to revisit The Art of Letting GO whenever you’re feeling angry, depressed, or downtrodden by life. You don’t necessarily have to read the entire book again. Rather, simply look through the table of contents and revisit the section that resonates with you in that moment. ^ref-32895
+- Location: [2002](kindle://book?action=open&asin=B09T66MSLN&location=2002)
 
 ---
