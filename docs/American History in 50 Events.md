@@ -7,9 +7,9 @@ kindle-sync:
     by Country Timeline Book 1)
   author: Henry Freeman
   asin: B019Z2SU1E
-  lastAnnotatedDate: '2022-10-12'
+  lastAnnotatedDate: '2022-10-14'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81YskW-R0HL._SY160.jpg'
-  highlightsCount: 4
+  highlightsCount: 6
 ---
 # American History in 50 Events: (Battle of Yorktown, Spanish American War, Roaring Twenties, Railroad History, George Washington, Gilded Age) (History by Country Timeline Book 1)
 
@@ -18,7 +18,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [American History in 50 Events: (Battle of Yorktown, Spanish American War, Roaring Twenties, Railroad History, George Washington, Gilded Age) (History by Country Timeline Book 1)](https://www.amazon.com/dp/B019Z2SU1E) |
-| **Author** | [Henry Freeman](https://www.amazon.comundefined) |
+| **Author** | [Henry Freeman](https://www.amazon.com/Henry-Freeman/e/B00MEJEQ1O/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B019Z2SU1E" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
 
@@ -44,7 +44,28 @@ Washington remains the only president who were not a member of an American polit
 ---
 ## Highlight
 
-The Nation Grows ^ref-61506
-- Location: [299](kindle://book?action=open&asin=B019Z2SU1E&location=299)
+Despite the contributions of African Americans to World War II and the Korean War, the racial gap in America had widened during the 1950s to the point that African Americans were not allowed to use the same drinking fountains, attend the same schools, or sit in preferential seats on public transportation. ^ref-38961
+- Location: [457](kindle://book?action=open&asin=B019Z2SU1E&location=457)
+
+### Note
+I don't think saying "the racial gap widened" is accurate. I think the racial gap just became more apparent because of African Americans being involved more with society.
+
+---
+## Highlight
+
+However, starting in 1955, a conflict in Vietnam would eventually drag America into war once again. ^ref-58539
+- Location: [492](kindle://book?action=open&asin=B019Z2SU1E&location=492)
+
+### Note
+As more recent documentation shows, America seems to have involved itself in Vietnam. America was not dragged into conflict.
+
+---
+## Highlight
+
+This distrust of government shaped the attitudes of many Americans in the 1970s and 1980s, and this was felt particularly strongly in music, where the theme of rebellion was championed. ^ref-62517
+- Location: [500](kindle://book?action=open&asin=B019Z2SU1E&location=500)
+
+### Note
+Arguably, this is when some of the best music was created.
 
 ---
