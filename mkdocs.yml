@@ -8,34 +8,39 @@ repo_url: https://github.com/josh-wong/kindle-highlights-notes/
 edit_uri: blob/main/docs
 
 plugins:
-  - search
-  #- techdocs-core
-  - git-committers:
-      repository: josh-wong/kindle-highlights-notes
-      branch: main
-  - git-revision-date-localized:
-      type: date
+  # Enable the search function (currently disabled to take advantage of new search features in Material for MkDocs Insiders)
+  #- search
+  # Enable videos to be embedded
   - mkdocs-video:
       css_style:
         width: "100%"
         height: "300px" 
-  # Enable support for social cards (pretty link previews)
-  - social
+  # Enables TechDocs support in Backstage. However, many plugins need to be disabled for TechDocs to work properly.
+  #- techdocs-core
 
 markdown_extensions:
+  # Add support for abbreviations
+  - abbr
+  # Add support for Material for MkDocs admonitions
+  - admonition
   # Add styles for buttons
   - attr_list
+  # Add support for grid cards
+  - md_in_html
+  # Make admonitions collapsible
+  - pymdownx.details
   # Add emoji support
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  # Add support for Material for MkDocs admonitions
-  - admonition
-  - pymdownx.details
+  # Add tooltip support
+  #- pymdownx.snippets:
+  #    auto_append:
+  #      - includes/glossary.md
+  # Add support for arbitrary nesting of code and content blocks inside each other.
   - pymdownx.superfences
+  # Add support for TOC configuration
   - toc:
-      # Hide the table of contents from the right-hand sidebar. The TOC is not needed because each highlight has the "Highlight" as the header, which is confusing.
-      toc_depth : "0"
       # Add link next to header that allows the user to get a permalink to the heading (still need to copy the URL in the address bar).
       permalink: true
 
@@ -89,12 +94,21 @@ theme:
   features:
     # Mark announcement as read
     - announce.dismiss
+    # Add support for improved tooltips
+    - content.tooltips
     # Add custom search functions
-    - search.suggest
     - search.highlight
     - search.share
-    - navigation.tracking
+    - search.suggest
+    # Add custom navigation functions
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    #- navigation.sections
+    #- navigation.tabs
+    #- navigation.tabs.sticky
     - navigation.top
+    - navigation.tracking
 
 extra:
   social:
