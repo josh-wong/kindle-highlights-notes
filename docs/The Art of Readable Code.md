@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-21'
+  lastAnnotatedDate: '2022-10-22'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 12
+  highlightsCount: 13
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -99,7 +99,13 @@ When it comes to defining an upper or lower limit for a value, max_ and min_ are
 ---
 ## Highlight
 
-Chapter 4. Aesthetics ^ref-47940
-- Location: [852](kindle://book?action=open&asin=B0064CZ1XE&location=852)
+Here is a simple example with a large group of variable definitions: # Extract POST parameters to local variables details  = request.POST.get('details') location = request.POST.get('location') phone    = equest.POST.get('phone') email    = request.POST.get('email') url      = request.POST.get('url') As you may have noticed, the third definition has a typo (equest instead of request). Mistakes like these are more pronounced when everything is lined up so neatly. ^ref-28724
+- Location: [965](kindle://book?action=open&asin=B0064CZ1XE&location=965)
+
+---
+## Highlight
+
+Organize ^ref-16482
+- Location: [1000](kindle://book?action=open&asin=B0064CZ1XE&location=1000)
 
 ---
