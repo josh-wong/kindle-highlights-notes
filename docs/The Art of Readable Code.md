@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-22'
+  lastAnnotatedDate: '2022-10-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 13
+  highlightsCount: 14
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -105,7 +105,16 @@ Here is a simple example with a large group of variable definitions: # Extract P
 ---
 ## Highlight
 
-Organize ^ref-16482
-- Location: [1000](kindle://book?action=open&asin=B0064CZ1XE&location=1000)
+The brain naturally thinks in terms of groups and hierarchies, so you can help a reader quickly digest your code by organizing it that way. ^ref-11332
+- Location: [1001](kindle://book?action=open&asin=B0064CZ1XE&location=1001)
+
+### Note
+The same should be expected of documentation, for the sake of simplifying navigation and discovery without relying solely on search.
+
+---
+## Highlight
+
+Chapter 5. Knowing What to Comment ^ref-43268
+- Location: [1066](kindle://book?action=open&asin=B0064CZ1XE&location=1066)
 
 ---
