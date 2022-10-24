@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-23'
+  lastAnnotatedDate: '2022-10-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 14
+  highlightsCount: 25
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -114,7 +114,82 @@ The same should be expected of documentation, for the sake of simplifying naviga
 ---
 ## Highlight
 
-Chapter 5. Knowing What to Comment ^ref-43268
-- Location: [1066](kindle://book?action=open&asin=B0064CZ1XE&location=1066)
+When you’re writing code, you have a lot of valuable information in your head. When other people read your code, that information is lost — all they have is the code in front of them. ^ref-19333
+- Location: [1072](kindle://book?action=open&asin=B0064CZ1XE&location=1072)
+
+### Note
+This thinking applies to only to others, but also our future selves. As we make changes to the code, we should also review the knowledge that we have left behind.
+
+---
+## Highlight
+
+Don’t comment on facts that can be derived quickly from the code itself. ^ref-7937
+- Location: [1090](kindle://book?action=open&asin=B0064CZ1XE&location=1090)
+
+---
+## Highlight
+
+A comment can also explain why the code isn’t in great shape: // This class is getting messy. Maybe we should create a 'ResourceNode' subclass to // help organize things. This comment acknowledges that the code is messy but also encourages the next person to fix it (with specifics on how to get started). Without the comment, many readers would be intimidated by the messy code and afraid to touch it. ^ref-44123
+- Location: [1141](kindle://book?action=open&asin=B0064CZ1XE&location=1141)
+
+---
+## Highlight
+
+The important thing is that you should always feel free to comment on your thoughts about how the code should change in the future. Comments like these give readers valuable insight into the quality and state of the code and might even give them some direction on how to improve it. ^ref-18463
+- Location: [1161](kindle://book?action=open&asin=B0064CZ1XE&location=1161)
+
+---
+## Highlight
+
+A general technique we use in this book is to imagine what your code looks like to an outsider — someone who isn’t as intimately familiar with your project as you are. This technique is especially useful to help you recognize what needs commenting. ^ref-10779
+- Location: [1182](kindle://book?action=open&asin=B0064CZ1XE&location=1182)
+
+### Note
+This method also applies to writing documentation, like design docs, product specs, API references, and release notes.
+
+---
+## Highlight
+
+Don’t get overwhelmed by the thought that you have to write extensive, formal documentation. A few well-chosen sentences are better than nothing at all. ^ref-2851
+- Location: [1232](kindle://book?action=open&asin=B0064CZ1XE&location=1232)
+
+---
+## Highlight
+
+A lot of coders don’t like to write comments because it feels like a lot of work to write a good one. When writers have this sort of “writer’s block,” the best solution is to just start writing. So the next time you’re hesitating to write a comment, just go ahead and comment what you’re thinking, however half-baked it may be. ^ref-34760
+- Location: [1255](kindle://book?action=open&asin=B0064CZ1XE&location=1255)
+
+### Note
+Solid advice for trying to get started writing longer, structured documentation when you have writer's block or "blank page syndrome." 
+
+---
+## Highlight
+
+The purpose of a comment is to help the reader know what the writer knew when writing the code. This whole chapter is about realizing all the not-so-obvious nuggets of information you have about the code and writing those down. ^ref-25285
+- Location: [1274](kindle://book?action=open&asin=B0064CZ1XE&location=1274)
+
+---
+## Highlight
+
+Put yourself in the reader’s shoes: Anticipate which parts of your code will make readers say “Huh?” and comment those. Document any surprising behavior an average reader wouldn’t expect. Use “big picture” comments at the file/class level to explain how all the pieces fit together. Summarize blocks of code with comments so that the reader doesn’t get lost in the details. ^ref-21831
+- Location: [1282](kindle://book?action=open&asin=B0064CZ1XE&location=1282)
+
+---
+## Highlight
+
+Look at your code from a fresh perspective when you’re making changes. Step back and look at it as a whole. ^ref-28731
+- Location: [1630](kindle://book?action=open&asin=B0064CZ1XE&location=1630)
+
+---
+## Highlight
+
+When writing a comparison (while (bytes_expected > bytes_received)), it’s better to put the changing value on the left and the more stable value on the right (while (bytes_received < bytes_expected)). ^ref-60222
+- Location: [1679](kindle://book?action=open&asin=B0064CZ1XE&location=1679)
+
+---
+## Highlight
+
+Chapter 8. Breaking Down Giant Expressions ^ref-39764
+- Location: [1690](kindle://book?action=open&asin=B0064CZ1XE&location=1690)
 
 ---
