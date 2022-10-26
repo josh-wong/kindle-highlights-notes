@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-24'
+  lastAnnotatedDate: '2022-10-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 25
+  highlightsCount: 27
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -118,13 +118,19 @@ When you’re writing code, you have a lot of valuable information in your head.
 - Location: [1072](kindle://book?action=open&asin=B0064CZ1XE&location=1072)
 
 ### Note
-This thinking applies to only to others, but also our future selves. As we make changes to the code, we should also review the knowledge that we have left behind.
+This thinking applies not to only to others but also our future selves. As we make changes to the code, we should also review the knowledge that we have left behind.
 
 ---
 ## Highlight
 
 Don’t comment on facts that can be derived quickly from the code itself. ^ref-7937
 - Location: [1090](kindle://book?action=open&asin=B0064CZ1XE&location=1090)
+
+---
+## Highlight
+
+A lot of good comments can come out of simply “recording your thoughts” — that is, the important thoughts you had as you were writing the code. ^ref-56173
+- Location: [1129](kindle://book?action=open&asin=B0064CZ1XE&location=1129)
 
 ---
 ## Highlight
@@ -145,7 +151,7 @@ A general technique we use in this book is to imagine what your code looks like 
 - Location: [1182](kindle://book?action=open&asin=B0064CZ1XE&location=1182)
 
 ### Note
-This method also applies to writing documentation, like design docs, product specs, API references, and release notes.
+This method also applies to writing in general and specifically to documentation like code comments, design docs, product specs, API references, and release notes.
 
 ---
 ## Highlight
@@ -189,7 +195,13 @@ When writing a comparison (while (bytes_expected > bytes_received)), it’s bett
 ---
 ## Highlight
 
-Chapter 8. Breaking Down Giant Expressions ^ref-39764
-- Location: [1690](kindle://book?action=open&asin=B0064CZ1XE&location=1690)
+In this chapter, you’ll see how sloppy use of variables makes a program harder to understand. Specifically, there are three problems to contend with: The more variables there are, the harder it is to keep track of them all. The bigger a variable’s scope, the longer you have to keep track of it. The more often a variable changes, the harder it is to keep track of its current value. ^ref-59799
+- Location: [1872](kindle://book?action=open&asin=B0064CZ1XE&location=1872)
+
+---
+## Highlight
+
+Part III. Reorganizing Your Code ^ref-57259
+- Location: [2145](kindle://book?action=open&asin=B0064CZ1XE&location=2145)
 
 ---
