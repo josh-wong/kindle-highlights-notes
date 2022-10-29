@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-26'
+  lastAnnotatedDate: '2022-10-29'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 27
+  highlightsCount: 29
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -201,7 +201,19 @@ In this chapter, you’ll see how sloppy use of variables makes a program harder
 ---
 ## Highlight
 
-Part III. Reorganizing Your Code ^ref-57259
-- Location: [2145](kindle://book?action=open&asin=B0064CZ1XE&location=2145)
+Engineering is all about breaking down big problems into smaller ones and putting the solutions for those problems back together. Applying this principle to code makes it more robust and easier to read. ^ref-18253
+- Location: [2156](kindle://book?action=open&asin=B0064CZ1XE&location=2156)
+
+---
+## Highlight
+
+A simple way to think about this chapter is to separate the generic code from the project-specific code. As it turns out, most code is generic. By building a large set of libraries and helper functions to solve the general problems, what’s left will be a small core of what makes your program unique. The main reason this technique helps is that it lets the programmer focus on smaller, well-defined problems that are detached from the rest of your project. As a result, the solutions to those subproblems tend to be more thorough and correct. You might also be able to reuse them later. ^ref-56127
+- Location: [2373](kindle://book?action=open&asin=B0064CZ1XE&location=2373)
+
+---
+## Highlight
+
+Chapter 11. One Task at a Time ^ref-4257
+- Location: [2387](kindle://book?action=open&asin=B0064CZ1XE&location=2387)
 
 ---
