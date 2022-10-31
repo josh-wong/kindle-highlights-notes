@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Future of Work: Robots, AI, and Automation](https://www.amazon.com/dp/B0741CP8N5) |
-| **Author** | [Darrell M. West](https://www.amazon.com/Darrell-M-West/e/B001IXQ4E4/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Darrell M. West](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0741CP8N5" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
 

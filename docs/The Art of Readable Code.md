@@ -6,7 +6,7 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-29'
+  lastAnnotatedDate: '2022-10-31'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
   highlightsCount: 29
 ---
