@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-10-31'
+  lastAnnotatedDate: '2022-11-02'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 29
+  highlightsCount: 32
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -213,7 +213,25 @@ A simple way to think about this chapter is to separate the generic code from th
 ---
 ## Highlight
 
-Chapter 11. One Task at a Time ^ref-4257
-- Location: [2387](kindle://book?action=open&asin=B0064CZ1XE&location=2387)
+Looking at the words and phrases used in your description can also help you identify which subproblems to break off. But this process of “saying things in plain English” is applicable outside of just writing code. For example, one college computer lab policy states that when a student needs help debugging his program, he first has to explain the problem to a dedicated teddy bear in the corner of the room. Surprisingly, just describing the problem aloud can often help the student figure out a solution. This technique is called “rubber ducking.” ^ref-58930
+- Location: [2723](kindle://book?action=open&asin=B0064CZ1XE&location=2723)
+
+---
+## Highlight
+
+Picking a good name for a test function can seem tedious and irrelevant, but don’t resort to meaningless names like Test1(), Test2(), and the like. Instead, you should use the name to describe details about the test. In particular, it’s handy if the person reading the test code can quickly figure out: The class being tested (if any) The function being tested The situation or bug being tested A simple approach to construct a good test function name is to just concatenate that information together, possibly with a “Test_” prefix. For instance, instead of naming it Test1(), we can use the Test_<FunctionName>() format: void Test_SortAndFilterDocs() {     ... } Depending on how sophisticated this test is, you might consider a separate test function for each situation being tested. You could use the Test_<FunctionName>_<Situation>() format: void Test_SortAndFilterDocs_BasicSorting() {     ... } void Test_SortAndFilterDocs_NegativeValues() {     ... } ... Don’t be afraid of having a long or clunky name here. This isn’t a function that will be called throughout your codebase, so the reasons for avoiding long function names don’t apply. The test function name is effectively acting like a comment. Also, if that test fails, most testing frameworks will print out the name of the function where the assertion failed, so a descriptive name is especially helpful. ^ref-11345
+- Location: [3060](kindle://book?action=open&asin=B0064CZ1XE&location=3060)
+
+---
+## Highlight
+
+In test code, readability is still very important. If your tests are very readable, they will in turn be very writable, so people will add more of them. Also, if you design your real code to be easy to test, your code will have a better design overall. ^ref-46584
+- Location: [3170](kindle://book?action=open&asin=B0064CZ1XE&location=3170)
+
+---
+## Highlight
+
+Chapter 15. Designing and Implementing a “Minute/Hour Counter” ^ref-20172
+- Location: [3180](kindle://book?action=open&asin=B0064CZ1XE&location=3180)
 
 ---
