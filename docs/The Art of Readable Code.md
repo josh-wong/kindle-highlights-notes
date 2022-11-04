@@ -6,9 +6,9 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-11-02'
+  lastAnnotatedDate: '2022-11-04'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
-  highlightsCount: 32
+  highlightsCount: 33
 ---
 # The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
@@ -231,7 +231,13 @@ In test code, readability is still very important. If your tests are very readab
 ---
 ## Highlight
 
-Chapter 15. Designing and Implementing a “Minute/Hour Counter” ^ref-20172
-- Location: [3180](kindle://book?action=open&asin=B0064CZ1XE&location=3180)
+You may have noticed that there were already a couple cases where we ran things by our coworkers. Asking for an outside perspective is a great way to test if your code is “user-friendly.” Try to be open to their first impressions, because other people may come to the same conclusions. And those “other people” may include you in six months. ^ref-21473
+- Location: [3255](kindle://book?action=open&asin=B0064CZ1XE&location=3255)
+
+---
+## Highlight
+
+Attempt 1: A Naive Solution ^ref-21988
+- Location: [3259](kindle://book?action=open&asin=B0064CZ1XE&location=3259)
 
 ---
