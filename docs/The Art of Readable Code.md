@@ -6,7 +6,7 @@ kindle-sync:
     Code
   author: Dustin Boswell and Trevor Foucher
   asin: B0064CZ1XE
-  lastAnnotatedDate: '2022-11-04'
+  lastAnnotatedDate: '2022-11-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
   highlightsCount: 33
 ---
@@ -237,7 +237,7 @@ You may have noticed that there were already a couple cases where we ran things 
 ---
 ## Highlight
 
-Attempt 1: A Naive Solution ^ref-21988
-- Location: [3259](kindle://book?action=open&asin=B0064CZ1XE&location=3259)
+Comparing the Three Solutions ^ref-54644
+- Location: [3475](kindle://book?action=open&asin=B0064CZ1XE&location=3475)
 
 ---
