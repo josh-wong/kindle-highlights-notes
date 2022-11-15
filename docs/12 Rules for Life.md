@@ -5,7 +5,7 @@ kindle-sync:
   author: Jordan B. Peterson
   asin: B01FPGY5T0
   lastAnnotatedDate: '2022-07-02'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/01RmK+J4pJL._SY160.gif'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71KBsWtC6RL._SY160.jpg'
   highlightsCount: 24
 ---
 # 12 Rules for Life: An Antidote to Chaos
