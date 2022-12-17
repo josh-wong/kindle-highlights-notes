@@ -24,6 +24,7 @@ kindle-sync:
 ## Highlight
 
 In ^ref-16855
+
 - Location: [121](kindle://book?action=open&asin=B004DL0KW0&location=121)
 
 ---

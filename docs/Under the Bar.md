@@ -24,6 +24,7 @@ kindle-sync:
 ## Highlight
 
 I feel a man is only as good as his word, and that is the way it should be. Honesty broken once will be broken forever. A lie is a lie, and it doesn’t matter if it’s a white lie or a huge monster lie. ^ref-31268
+
 - Location: [422](kindle://book?action=open&asin=B01FWFG0PQ&location=422)
 
 ---

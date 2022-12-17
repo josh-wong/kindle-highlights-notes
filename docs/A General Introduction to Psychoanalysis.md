@@ -24,12 +24,14 @@ kindle-sync:
 ## Highlight
 
 Consciousness actually means for us the distinguishing characteristic of the psychic life, and psychology is the science of the content of consciousness. ^ref-61168
+
 - Location: [224](kindle://book?action=open&asin=B006IZ8VJI&location=224)
 
 ---
 ## Highlight
 
 SECOND ^ref-52350
+
 - Location: [260](kindle://book?action=open&asin=B006IZ8VJI&location=260)
 
 ---

@@ -24,12 +24,14 @@ kindle-sync:
 ## Highlight
 
 People who tinker with cars, adjust recipes, alter clothes, or copyedit have in common that we start with something that’s not perfect yet and use our minds and tools to bring it into alignment, give it more flavor, make it fit. The best of us are masters of improvisation. And when we’re in the midst of concentrating and things are falling into place—in the midst of what Mihaly Csikszentmihalyi made famous as “flow”—well, don’t let anyone tell you that’s tedium or drudgery. It’s fun. ^ref-18138
+
 - Location: [585](kindle://book?action=open&asin=B0073XM668&location=585)
 
 ---
 ## Highlight
 
 Right, ^ref-43340
+
 - Location: [830](kindle://book?action=open&asin=B0073XM668&location=830)
 
 ---

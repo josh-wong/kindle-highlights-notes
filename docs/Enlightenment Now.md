@@ -24,18 +24,21 @@ kindle-sync:
 ## Highlight
 
 Cruel punishments, whether or not they are in some sense “deserved,” are no more effective at deterring harm than moderate but surer punishments, and they desensitize spectators and brutalize the society that implements them. ^ref-18628
+
 - Location: [457](kindle://book?action=open&asin=B073TJBYTB&location=457)
 
 ---
 ## Highlight
 
 The Second Law of Thermodynamics states that in an isolated system (one that is not interacting with its environment), entropy never decreases. (The First Law is that energy is conserved; the Third, that a temperature of absolute zero is unreachable.) Closed systems inexorably become less structured, less organized, less able to accomplish interesting and useful outcomes, until they slide into an equilibrium of gray, tepid, homogeneous monotony and stay there. ^ref-36514
+
 - Location: [496](kindle://book?action=open&asin=B073TJBYTB&location=496)
 
 ---
 ## Highlight
 
 PROGRESS ^ref-39544
+
 - Location: [916](kindle://book?action=open&asin=B073TJBYTB&location=916)
 
 ### Note

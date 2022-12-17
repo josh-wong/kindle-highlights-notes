@@ -16,7 +16,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains](https://www.amazon.com/dp/B07FC1HM7K) |
+| **Title** | [The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains](https://www.amazon.com/dp/B07FC1HM7K?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Joseph  Ledoux](https://www.amazon.com/Joseph-Ledoux/e/B000APOE8O/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07FC1HM7K" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
@@ -32,12 +32,14 @@ This cell, he says, was quite sophisticated, and by virtue of having survived, p
 ## Highlight
 
 Recent studies have shown that these cells are not just passively attached but actually communicate by generating electrical signals, which they use to coordinate feeding and reproduction and to attract new members to the group. ^ref-44460
+
 - Location: [625](kindle://book?action=open&asin=B07FC1HM7K&location=625)
 
 ---
 ## Highlight
 
 IN ^ref-16855
+
 - Location: [741](kindle://book?action=open&asin=B07FC1HM7K&location=741)
 
 ---

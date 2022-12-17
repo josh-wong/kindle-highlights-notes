@@ -24,12 +24,14 @@ kindle-sync:
 ## Highlight
 
 The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. ^ref-24712
+
 - Location: [85](kindle://book?action=open&asin=B00MF0ZVPW&location=85)
 
 ---
 ## Highlight
 
 It is never too late to give up our prejudices. No way of thinking or doing, however ancient, can be trusted without proof. ^ref-13017
+
 - Location: [91](kindle://book?action=open&asin=B00MF0ZVPW&location=91)
 
 ---

@@ -8,7 +8,7 @@ Feel free to also check out [my Goodreads profile](https://www.goodreads.com/us
 
 !!! info
 
-    **Disclosure:** Some of the links on this site contain affiliate links. If you go through those links to make a purchase, I may earn a commission.
+	**Disclosure:** Some of the links on this site contain affiliate links. If you go through those links to make a purchase, I may earn a commission.
 
 ## Sync process
 

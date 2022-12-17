@@ -24,12 +24,14 @@ kindle-sync:
 ## Highlight
 
 No torture can make me confess what I don’t know. ^ref-63346
+
 - Location: [128](kindle://book?action=open&asin=B005CVV1SM&location=128)
 
 ---
 ## Highlight
 
 Time and tide wait for no man. A year passed like a snowflake that falls into the river, a moment white and then gone forever. ^ref-10288
+
 - Location: [654](kindle://book?action=open&asin=B005CVV1SM&location=654)
 
 ---

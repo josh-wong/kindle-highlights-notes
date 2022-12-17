@@ -24,6 +24,7 @@ kindle-sync:
 ## Highlight
 
 Knowledge ^ref-10435
+
 - Location: [74](kindle://book?action=open&asin=B00PKMUHKG&location=74)
 
 ---
