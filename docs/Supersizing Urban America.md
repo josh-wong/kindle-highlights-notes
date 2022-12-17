@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Supersizing Urban America: How Inner Cities Got Fast Food with Government Help](https://www.amazon.com/dp/B06WWRPB8Q) |
+| **Title** | [Supersizing Urban America: How Inner Cities Got Fast Food with Government Help](https://www.amazon.com/dp/B06WWRPB8Q?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Chin Jou](https://www.amazon.com/Chin-Jou/e/B071CKQW1C/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B06WWRPB8Q" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

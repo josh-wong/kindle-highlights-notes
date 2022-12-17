@@ -17,10 +17,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Art of Letting GO: How to Let Go of the Past, Look Forward to the Future, and Finally Enjoy the Emotional Freedom You Deserve! (The Art Of Living Well Book 2)](https://www.amazon.com/dp/B09T66MSLN) |
+| **Title** | [The Art of Letting GO: How to Let Go of the Past, Look Forward to the Future, and Finally Enjoy the Emotional Freedom You Deserve! (The Art Of Living Well Book 2)](https://www.amazon.com/dp/B09T66MSLN?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Damon Zahariades](https://www.amazon.com/Damon-Zahariades/e/B011Q3T9ZQ/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B09T66MSLN" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

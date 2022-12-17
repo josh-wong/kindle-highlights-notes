@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [How Will You Measure Your Life?](https://www.amazon.com/dp/B006ID0CH4) |
+| **Title** | [How Will You Measure Your Life?](https://www.amazon.com/dp/B006ID0CH4?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Clayton M. Christensen, James Allworth, and Karen Dillon](https://www.amazon.com/Clayton-M-Christensen/e/B000APPD3Y/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B006ID0CH4" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Discipline Equals Freedom: Field Manual](https://www.amazon.com/dp/B06XB9HQMN) |
+| **Title** | [Discipline Equals Freedom: Field Manual](https://www.amazon.com/dp/B06XB9HQMN?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Jocko Willink](https://www.amazon.com/Jocko-Willink/e/B00ZY7MWW8/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B06XB9HQMN" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

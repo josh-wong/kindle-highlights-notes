@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Rape Of Nanking: The Forgotten Holocaust Of World War II](https://www.amazon.com/dp/B005XQ973M) |
+| **Title** | [The Rape Of Nanking: The Forgotten Holocaust Of World War II](https://www.amazon.com/dp/B005XQ973M?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Iris Chang](https://www.amazon.com/Iris-Chang/e/B000AR7W7W/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B005XQ973M" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

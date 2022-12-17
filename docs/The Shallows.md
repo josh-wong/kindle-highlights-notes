@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/dp/B003R7L90I) |
+| **Title** | [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/dp/B003R7L90I?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Nicholas Carr](https://www.amazon.com/Nicholas-Carr/e/B001JS2HYY/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B003R7L90I" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

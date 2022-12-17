@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Sapiens: A Brief History of Humankind](https://www.amazon.com/dp/B00ICN066A) |
+| **Title** | [Sapiens: A Brief History of Humankind](https://www.amazon.com/dp/B00ICN066A?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Yuval Noah Harari](https://www.amazon.com/Yuval-Noah-Harari/e/B00J21BCIW/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00ICN066A" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

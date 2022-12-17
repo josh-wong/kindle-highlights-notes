@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [End of Life Guideline Series: A Compilation of Barbara Karnes Booklets](https://www.amazon.com/dp/B008PWXSH2) |
+| **Title** | [End of Life Guideline Series: A Compilation of Barbara Karnes Booklets](https://www.amazon.com/dp/B008PWXSH2?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Barbara Karnes RN](https://www.amazon.com/Barbara-Karnes-RN/e/B00U3EUHLU/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B008PWXSH2" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

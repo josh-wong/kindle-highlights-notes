@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Content Mapping: Unlocking the Power of Content to Increase Engagement, Leads and Sales](https://www.amazon.com/dp/B08QF742BG) |
+| **Title** | [Content Mapping: Unlocking the Power of Content to Increase Engagement, Leads and Sales](https://www.amazon.com/dp/B08QF742BG?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Henry Adaso](https://www.amazon.com/Henry-Adaso/e/B08RCYMZLQ/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B08QF742BG" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

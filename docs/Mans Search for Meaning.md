@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Man's Search for Meaning](https://www.amazon.com/dp/B009U9S6FI) |
+| **Title** | [Man's Search for Meaning](https://www.amazon.com/dp/B009U9S6FI?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Viktor E. Frankl, Harold S. Kushner, and William J. Winslade](https://www.amazon.com/Viktor-E-Frankl/e/B000APVZJU/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B009U9S6FI" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

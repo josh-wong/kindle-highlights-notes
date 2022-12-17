@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Under the Bar: Twelve Lessons Of Life From The World Of Powerlifting](https://www.amazon.com/dp/B01FWFG0PQ) |
+| **Title** | [Under the Bar: Twelve Lessons Of Life From The World Of Powerlifting](https://www.amazon.com/dp/B01FWFG0PQ?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Dave Tate](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01FWFG0PQ" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

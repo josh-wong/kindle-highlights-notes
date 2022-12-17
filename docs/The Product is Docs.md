@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Product is Docs: Writing technical documentation in a product development group](https://www.amazon.com/dp/B085KHTV95) |
+| **Title** | [The Product is Docs: Writing technical documentation in a product development group](https://www.amazon.com/dp/B085KHTV95?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Christopher Gales and Splunk Documentation Team](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B085KHTV95" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

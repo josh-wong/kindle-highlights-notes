@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [America Before: The Key to Earth's Lost Civilization](https://www.amazon.com/dp/B07HWL4KLM) |
+| **Title** | [America Before: The Key to Earth's Lost Civilization](https://www.amazon.com/dp/B07HWL4KLM?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Graham Hancock](https://www.amazon.com/Graham-Hancock/e/B004561L0S/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07HWL4KLM" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

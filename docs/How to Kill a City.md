@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood](https://www.amazon.com/dp/B01MXXCDVV) |
+| **Title** | [How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood](https://www.amazon.com/dp/B01MXXCDVV?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Peter  Moskowitz](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01MXXCDVV" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

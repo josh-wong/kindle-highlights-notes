@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Ego Is the Enemy](https://www.amazon.com/dp/B015NTIXWE) |
+| **Title** | [Ego Is the Enemy](https://www.amazon.com/dp/B015NTIXWE?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Ryan Holiday](https://www.amazon.com/Ryan-Holiday/e/B007LUHFH8/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B015NTIXWE" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

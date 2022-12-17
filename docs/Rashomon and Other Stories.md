@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Rashomon and Other Stories (Tuttle Classics)](https://www.amazon.com/dp/B005CVV1SM) |
+| **Title** | [Rashomon and Other Stories (Tuttle Classics)](https://www.amazon.com/dp/B005CVV1SM?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Ryunosuke Akutagawa, Howard Hibbett, and Kojima Takashi](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B005CVV1SM" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

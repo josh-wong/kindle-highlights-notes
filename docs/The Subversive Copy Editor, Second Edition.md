@@ -17,10 +17,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) ... Guides to Writing, Editing, and Publishing)](https://www.amazon.com/dp/B01DGPSNWW) |
+| **Title** | [The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) ... Guides to Writing, Editing, and Publishing)](https://www.amazon.com/dp/B01DGPSNWW?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Carol Fisher Saller](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01DGPSNWW" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Souls of Black Folk (AmazonClassics Edition)](https://www.amazon.com/dp/B071FQQHFB) |
+| **Title** | [The Souls of Black Folk (AmazonClassics Edition)](https://www.amazon.com/dp/B071FQQHFB?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [W. E. B. Du Bois](https://www.amazon.com/W-E-B-Du-Bois/e/B001IGOCYA/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B071FQQHFB" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

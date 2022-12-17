@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/dp/B01069X4H0) |
+| **Title** | [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/dp/B01069X4H0?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Stephen R. Covey](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01069X4H0" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

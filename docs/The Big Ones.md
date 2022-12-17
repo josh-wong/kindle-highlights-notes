@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Big Ones: How Natural Disasters Have Shaped Us (and What We Can Do About Them)](https://www.amazon.com/dp/B07465FXBP) |
+| **Title** | [The Big Ones: How Natural Disasters Have Shaped Us (and What We Can Do About Them)](https://www.amazon.com/dp/B07465FXBP?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Lucy Jones](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07465FXBP" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

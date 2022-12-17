@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Boys of ’67: Charlie Company’s War in Vietnam](https://www.amazon.com/dp/B01DPPWE4G) |
+| **Title** | [The Boys of ’67: Charlie Company’s War in Vietnam](https://www.amazon.com/dp/B01DPPWE4G?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Andrew Wiest](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01DPPWE4G" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

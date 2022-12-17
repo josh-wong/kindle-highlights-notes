@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Love Yourself Like Your Life Depends On It](https://www.amazon.com/dp/B0086BX8UE) |
+| **Title** | [Love Yourself Like Your Life Depends On It](https://www.amazon.com/dp/B0086BX8UE?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Kamal Ravikant](https://www.amazon.com/Kamal-Ravikant/e/B0086HMAIY/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0086BX8UE" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

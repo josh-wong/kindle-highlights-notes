@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Bulletproof Confidence: The Art of Not Caring What People Think and Living Fearlessly (Be Confident and Fearless Book 6)](https://www.amazon.com/dp/B074C4RZ3B) |
+| **Title** | [Bulletproof Confidence: The Art of Not Caring What People Think and Living Fearlessly (Be Confident and Fearless Book 6)](https://www.amazon.com/dp/B074C4RZ3B?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Patrick King](https://www.amazon.com/Patrick-King/e/B00HEVHZRY/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B074C4RZ3B" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

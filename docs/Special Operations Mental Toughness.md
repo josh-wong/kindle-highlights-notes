@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Special Operations Mental Toughness:The Invincible Mindset of Delta Force Operators, Navy SEALs, Army Rangers & Other Elite Warriors!](https://www.amazon.com/dp/B018M6WURE) |
+| **Title** | [Special Operations Mental Toughness:The Invincible Mindset of Delta Force Operators, Navy SEALs, Army Rangers & Other Elite Warriors!](https://www.amazon.com/dp/B018M6WURE?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Lawrence Colebrooke](https://www.amazon.com/Lawrence-Colebrooke/e/B07C9ZW7WC/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B018M6WURE" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Face to Face: The Art of Human Connection](https://www.amazon.com/dp/B074ZYTYP4) |
+| **Title** | [Face to Face: The Art of Human Connection](https://www.amazon.com/dp/B074ZYTYP4?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Brian Grazer](https://www.amazon.com/Brian-Grazer/e/B0124IVBHG/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B074ZYTYP4" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

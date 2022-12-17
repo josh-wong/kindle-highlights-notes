@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Meditations for People Who (May) Worry Too Much](https://www.amazon.com/dp/B00F8FA2B4) |
+| **Title** | [Meditations for People Who (May) Worry Too Much](https://www.amazon.com/dp/B00F8FA2B4?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Anne Wilson Schaef](https://www.amazon.com/Anne-Wilson-Schaef/e/B001H6RZ90/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00F8FA2B4" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

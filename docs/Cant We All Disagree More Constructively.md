@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Can't We All Disagree More Constructively?: from The Righteous Mind (Kindle Single) (A Vintage Short)](https://www.amazon.com/dp/B01KS1HLPC) |
+| **Title** | [Can't We All Disagree More Constructively?: from The Righteous Mind (Kindle Single) (A Vintage Short)](https://www.amazon.com/dp/B01KS1HLPC?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Jonathan Haidt](https://www.amazon.com/Jonathan-Haidt/e/B001H6GAXW/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01KS1HLPC" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

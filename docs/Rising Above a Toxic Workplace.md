@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Rising Above a Toxic Workplace: Taking Care of Yourself in an Unhealthy Environment](https://www.amazon.com/dp/B00J48B04Y) |
+| **Title** | [Rising Above a Toxic Workplace: Taking Care of Yourself in an Unhealthy Environment](https://www.amazon.com/dp/B00J48B04Y?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Gary Chapman, Paul White, and Harold Myra](https://www.amazon.com/Gary-Chapman/e/B01IAEQ73Q/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00J48B04Y" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

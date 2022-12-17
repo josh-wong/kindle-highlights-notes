@@ -17,10 +17,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [American History in 50 Events: (Battle of Yorktown, Spanish American War, Roaring Twenties, Railroad History, George Washington, Gilded Age) (History by Country Timeline Book 1)](https://www.amazon.com/dp/B019Z2SU1E) |
+| **Title** | [American History in 50 Events: (Battle of Yorktown, Spanish American War, Roaring Twenties, Railroad History, George Washington, Gilded Age) (History by Country Timeline Book 1)](https://www.amazon.com/dp/B019Z2SU1E?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Henry Freeman](https://www.amazon.com/Henry-Freeman/e/B00MEJEQ1O/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B019Z2SU1E" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

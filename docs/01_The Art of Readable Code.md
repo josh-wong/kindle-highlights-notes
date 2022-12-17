@@ -10,7 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81SHDpsLz3L._SY160.jpg'
   highlightsCount: 32
 ---
-# The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
+# ⭐The Art of Readable Code: Simple and Practical Techniques for Writing Better Code
 
 ## Metadata
 

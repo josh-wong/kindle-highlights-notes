@@ -16,10 +16,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.amazon.com/dp/B07PVSR2J4) |
+| **Title** | [Words That Change Minds: The 14 Patterns for Mastering the Language of Influence](https://www.amazon.com/dp/B07PVSR2J4?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Shelle Rose  Charvet](https://www.amazon.com/Shelle-Rose-Charvet/e/B004MOBH4I/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07PVSR2J4" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 

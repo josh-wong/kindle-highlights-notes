@@ -14,10 +14,10 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Walden](https://www.amazon.com/dp/B00MF0ZVPW) |
+| **Title** | [Walden](https://www.amazon.com/dp/B00MF0ZVPW?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Henry David Thoreau](https://www.amazon.com/Henry-David-Thoreau/e/B000AQ4HEO/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00MF0ZVPW" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 
