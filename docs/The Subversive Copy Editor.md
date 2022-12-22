@@ -1,23 +1,23 @@
 ---
 kindle-sync:
-  bookId: '57125'
+  bookId: '3769'
   title: >-
-    The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to
-    Negotiate Good Relationships with Your Writers, Your Colleagues, and
-    Yourself) ... Guides to Writing, Editing, and Publishing)
+    The Subversive Copy Editor: Advice from Chicago (or, How to Negotiate Good
+    Relationships with Your Writers, Your Colleagues, and Yourself) (Chicago
+    Guides to Writing, Editing, and Publishing)
   author: Carol Fisher Saller
   asin: B01DGPSNWW
   lastAnnotatedDate: '2022-07-02'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81W5toWZsEL._SY160.jpg'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/71BS85gcxWL._SY160.jpg'
   highlightsCount: 18
 ---
-# The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) ... Guides to Writing, Editing, and Publishing)
+# The Subversive Copy Editor: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) (Chicago Guides to Writing, Editing, and Publishing)
 
 ## Metadata
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Subversive Copy Editor, Second Edition: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) ... Guides to Writing, Editing, and Publishing)](https://www.amazon.com/dp/B01DGPSNWW?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [The Subversive Copy Editor: Advice from Chicago (or, How to Negotiate Good Relationships with Your Writers, Your Colleagues, and Yourself) (Chicago Guides to Writing, Editing, and Publishing)](https://www.amazon.com/dp/B01DGPSNWW?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Carol Fisher Saller](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01DGPSNWW" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |

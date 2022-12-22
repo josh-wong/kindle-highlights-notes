@@ -7,7 +7,7 @@ kindle-sync:
   author: Chin Jou
   asin: B06WWRPB8Q
   lastAnnotatedDate: '2022-07-02'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/91D8nwrRR0L._SY160.jpg'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81M1ThE-MJL._SY160.jpg'
   highlightsCount: 5
 ---
 # Supersizing Urban America: How Inner Cities Got Fast Food with Government Help
