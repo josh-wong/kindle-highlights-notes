@@ -6,6 +6,14 @@ This is a knowledge base of my highlights and notes from books I have read or am
 
 Feel free to also check out [my Goodreads profile](https://www.goodreads.com/user/show/70600963-joshua-wong) for additional details about particular books on my "shelf."
 
+## Key
+
+| Emoji | Definition |
+| ---------- | ---------- |
+| ⭐ | Favorite |
+| 👀 | Currently reading |
+| 🗄️ | Book sample |
+
 !!! info
 
 	**Disclosure:** Some of the links on this site contain affiliate links. If you go through those links to make a purchase, I may earn a commission.
