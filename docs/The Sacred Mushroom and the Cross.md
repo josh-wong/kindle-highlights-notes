@@ -4,7 +4,7 @@ kindle-sync:
     The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East
   author: John M. Allegro
   asin: B0BJRGGH4Y
-  lastAnnotatedDate: '2022-12-13'
+  lastAnnotatedDate: '2023-01-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/41f6ynxIf-L.jpg'
   highlightsCount: 8
 ---
@@ -14,7 +14,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East](https://www.amazon.com/Sacred-Mushroom-Cross-Christianity-Fertility/dp/B0BJRGGH4Y) |
+| **Title** | [The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East](https://www.amazon.com/Sacred-Mushroom-Cross-Christianity-fertility-ebook/dp/B0BQHMKY5T?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [John M. Allegro](https://www.amazon.com/s/ref=dp_byline_sr_audible_1?ie=UTF8&search-alias=audible&field-keywords=John+M.+Allegro) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B076NVFT5P" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |

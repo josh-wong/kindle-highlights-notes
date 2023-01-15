@@ -19,7 +19,7 @@ kindle-sync:
 | **Title** | [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.amazon.com/dp/B076NVFT5P?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Greg Lukianoff and Jonathan Haidt](https://www.amazon.com/Greg-Lukianoff/e/B008VFY3M2/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B076NVFT5P" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 
@@ -124,6 +124,7 @@ The United States has experienced a steady increase in at least one form of pola
 ## Highlight
 
 Both depression and anxiety cause changes in cognition, including a tendency to see the world as more dangerous and hostile than it really is. ^ref-12159
+
 - Location: [2787](kindle://book?action=open&asin=B076NVFT5P&location=2787)
 
 ---

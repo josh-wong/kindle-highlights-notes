@@ -8,7 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81b904n1U-L._SY160.jpg'
   highlightsCount: 6
 ---
-# [Sample] The Doors of Perception (Classics To Go)
+# 🗄️The Doors of Perception (Classics To Go)
 
 ## Metadata
 

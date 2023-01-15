@@ -10,7 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/81QfU4J-f4L._SY160.jpg'
   highlightsCount: 3
 ---
-# [Sample] The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains
+# 🗄️The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains
 
 ## Metadata
 

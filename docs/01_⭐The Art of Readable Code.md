@@ -19,7 +19,7 @@ kindle-sync:
 | **Title** | [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.amazon.com/dp/B0064CZ1XE?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [Dustin Boswell and Trevor Foucher](https://www.amazon.com/Dustin-Boswell/e/B0068WNFOW/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0064CZ1XE" target="_blank">Open in Kindle</a> |
-| **Tags** | #Kindle #books |
+| **Tags** | #Kindle #book |
 
 ---
 
@@ -256,6 +256,7 @@ Picking a good name for a test function can seem tedious and irrelevant, but don
 ## Highlight
 
 In test code, readability is still very important. If your tests are very readable, they will in turn be very writable, so people will add more of them. Also, if you design your real code to be easy to test, your code will have a better design overall. ^ref-46584
+
 - Location: [3170](kindle://book?action=open&asin=B0064CZ1XE&location=3170)
 
 ---

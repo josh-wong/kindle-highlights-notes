@@ -8,7 +8,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91AnC1Gmd+L._SY160.jpg'
   highlightsCount: 13
 ---
-# The Final Act of Living: Reflections of a Longtime Hospice Nurse
+# ⭐The Final Act of Living: Reflections of a Longtime Hospice Nurse
 
 ## Metadata
 

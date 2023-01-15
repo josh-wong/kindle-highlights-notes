@@ -10,7 +10,7 @@ kindle-sync:
   bookImageUrl: 'https://m.media-amazon.com/images/I/91NW+YOFFaL._SY160.jpg'
   highlightsCount: 1
 ---
-# [Sample] From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America
+# 🗄️From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America
 
 ## Metadata
 
