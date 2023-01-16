@@ -104,6 +104,21 @@ Interesting theory about how the Bible contains a mix of languages, interpretati
 ---
 ## Highlight
 
+This very ancient regard for the sanctity of semen, which lies at the core of the
+fertility idea, is the ultimate cultic justification of the Roman Catholic strictures on birth control. The real objections to contraception have little to do with family morals or, indeed, with morality at all as the modem world understands the term; it is simply that wasting seed is a religious “sin”; it is a blasphemy against the “word of god”, the “holy spirit”.
+
+- Page: 26
+
+---
+## Highlight
+
+”The use of the name Jesus (Greek iēsūs) as an invocation for healing was appropriate enough. Its Hebrew original, yehōshūa’, Joshua, comes from Sumerian \*IA-U-ShU-A (ShUSh), ‘semen, which saves, restores, heals.’” 
+
+- Page: 35
+
+---
+## Highlight
+
 xxx
 
 - Page: xxx
@@ -112,4 +127,11 @@ xxx
 
 
 ---
+
+
+
+
+
+
+
 
