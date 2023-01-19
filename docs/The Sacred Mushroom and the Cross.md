@@ -23,7 +23,7 @@ kindle-sync:
 
 ## Highlight
 
-This book shows the power and persistence of this idea, and of the fertility cults and rituals by which people tried to attain divine vision and know the mind of their God. Central to such cults, over thousands of years and across continenrts, has been the use of entheogens (psychoactive substances derived from plants) to reach a higher consciousness, a sense of community with the gods. One of the chief sources was the sacred mushroom, Amanita muscaria—at once the symbol and embodiment of fertility, and the means to understand it.
+This book shows the power and persistence of this idea, and of the fertility cults and rituals by which people tried to attain divine vision and know the mind of their God. Central to such cults, over thousands of years and across continents, has been the use of entheogens (psychoactive substances derived from plants) to reach a higher consciousness, a sense of community with the gods. One of the chief sources was the sacred mushroom, *Amanita muscaria*—at once the symbol and embodiment of fertility, and the means to understand it.
 
 - Page: ix
 
@@ -104,17 +104,9 @@ Interesting theory about how the Bible contains a mix of languages, interpretati
 ---
 ## Highlight
 
-This very ancient regard for the sanctity of semen, which lies at the core of the
-fertility idea, is the ultimate cultic justification of the Roman Catholic strictures on birth control. The real objections to contraception have little to do with family morals or, indeed, with morality at all as the modem world understands the term; it is simply that wasting seed is a religious “sin”; it is a blasphemy against the “word of god”, the “holy spirit”.
+This very ancient regard for the sanctity of semen, which lies at the core of the fertility idea, is the ultimate cultic justification of the Roman Catholic strictures on birth control. The real objections to contraception have little to do with family morals or, indeed, with morality at all as the modem world understands the term; it is simply that wasting seed is a religious “sin”; it is a blasphemy against the “word of god”, the “holy spirit”.
 
 - Page: 26
-
----
-## Highlight
-
-”The use of the name Jesus (Greek iēsūs) as an invocation for healing was appropriate enough. Its Hebrew original, yehōshūa’, Joshua, comes from Sumerian \*IA-U-ShU-A (ShUSh), ‘semen, which saves, restores, heals.’” 
-
-- Page: 35
 
 ---
 ## Highlight
