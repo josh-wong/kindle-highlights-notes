@@ -4,9 +4,9 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-01-28'
+  lastAnnotatedDate: '2023-01-30'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
-  highlightsCount: 6
+  highlightsCount: 8
 ---
 # How to Make Sense of Any Mess: Information Architecture for Everybody
 
@@ -58,8 +58,28 @@ To start with why, ask yourself: Why does this work need to be done? Why is chan
 ---
 ## Highlight
 
-What ^ref-20149
+The words we choose change the things we make and how we think about them. Our words also change how other people make sense of our work. ^ref-58565
 
-- Location: [220](kindle://book?action=open&asin=B00PKMUHKG&location=220)
+- Location: [247](kindle://book?action=open&asin=B00PKMUHKG&location=247)
+
+### Note
+Important to keep in mind that this applies not only to professional, business-related content but also professional and personal communication across mediums (social media, private messaging, face-to-face, etc.).
+
+---
+## Highlight
+
+As you go through the mess, you'll encounter several types of players: Current users: People who interact with whatever you're making. Potential users: People you hope to reach. Stakeholders: People who care about the outcome of what you're making. Competitors: People who share your current or potential users. Distractors: People that could take attention away from your intent. ^ref-18386
+
+- Location: [282](kindle://book?action=open&asin=B00PKMUHKG&location=282)
+
+### Note
+I'd add "Advocates" to this list since they can play a big role in the success and improvement of a product and even company.
+
+---
+## Highlight
+
+Face ^ref-59792
+
+- Location: [441](kindle://book?action=open&asin=B00PKMUHKG&location=441)
 
 ---
