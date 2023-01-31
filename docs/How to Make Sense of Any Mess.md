@@ -4,7 +4,7 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-01-30'
+  lastAnnotatedDate: '2023-01-31'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
   highlightsCount: 8
 ---
