@@ -16,7 +16,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.amazon.com/dp/B076NVFT5P?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.amazon.com/dp/B076NVFT5P) |
 | **Author** | [Greg Lukianoff and Jonathan Haidt](https://www.amazon.com/Greg-Lukianoff/e/B008VFY3M2/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B076NVFT5P" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |

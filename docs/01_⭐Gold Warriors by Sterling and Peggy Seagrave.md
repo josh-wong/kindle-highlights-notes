@@ -14,7 +14,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [Gold Warriors by Sterling and Peggy Seagrave](https://www.amazon.com/dp/B00413QFLK?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [Gold Warriors by Sterling and Peggy Seagrave](https://www.amazon.com/dp/B00413QFLK) |
 | **Author** | [Sterling Seagrave and Peggy Seagrave](https://www.amazon.com/Sterling-Seagrave/e/B000APJ64G/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00413QFLK" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |

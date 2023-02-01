@@ -16,7 +16,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America](https://www.amazon.com/dp/B01EUZ2O18?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America](https://www.amazon.com/dp/B01EUZ2O18) |
 | **Author** | [Elizabeth Hinton](https://www.amazon.com/Elizabeth-Hinton/e/B017JT1H2Y/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01EUZ2O18" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |

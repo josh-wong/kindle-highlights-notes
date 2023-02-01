@@ -16,7 +16,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.amazon.com/dp/B0064CZ1XE?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.amazon.com/dp/B0064CZ1XE) |
 | **Author** | [Dustin Boswell and Trevor Foucher](https://www.amazon.com/Dustin-Boswell/e/B0068WNFOW/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0064CZ1XE" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |

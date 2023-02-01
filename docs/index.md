@@ -11,7 +11,6 @@ Feel free to also check out [my Goodreads profile](https://www.goodreads.com/us
 | Emoji | Definition |
 | ---------- | ---------- |
 | ⭐ | Favorite |
-| 👀 | Currently reading |
 | 🗄️ | Book sample |
 
 !!! info

@@ -14,7 +14,7 @@ kindle-sync:
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Doors of Perception (Classics To Go)](https://www.amazon.com/dp/B07PJV5NL9?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
+| **Title** | [The Doors of Perception (Classics To Go)](https://www.amazon.com/dp/B07PJV5NL9) |
 | **Author** | [Aldous Huxley](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07PJV5NL9" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
