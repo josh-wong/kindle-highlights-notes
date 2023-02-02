@@ -1,0 +1,85 @@
+---
+kindle-sync:
+  bookId: '54047'
+  title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
+  author: Abby Covert
+  asin: B00PKMUHKG
+  lastAnnotatedDate: '2023-01-31'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
+  highlightsCount: 8
+---
+# How to Make Sense of Any Mess: Information Architecture for Everybody
+
+## Metadata
+
+| Syntax | Description |
+| ---------- | ---------- |
+| **Title** | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.com/dp/B00PKMUHKG) |
+| **Author** | [Abby Covert](https://www.amazon.com/Abby-Covert/e/B00PGBGCRS/ref=dp_byline_cont_ebooks_1) |
+| **Book on Kindle** | <a href="kindle://book?action=open&asin=B00PKMUHKG" target="_blank">Open in Kindle</a> |
+| **Tags** | #Kindle #book |
+
+---
+
+## Highlight
+
+Data is facts, observations, and questions about something. Content can be cookies, words, documents, images, videos, or whatever you're arranging or sequencing. The difference between information, data, and content is tricky, but the important point is that the absence of content or data can be just as informing as the presence. ^ref-56658
+
+- Location: [100](kindle://book?action=open&asin=B00PKMUHKG&location=100)
+
+---
+## Highlight
+
+To start to identify the mess you're facing, work through these questions: Users: Who are your intended users? What do you know about them? How can you get to know them better? How might they describe this mess? Stakeholders: Who are your stakeholders? What are their expectations? What are their thoughts about this mess? How might they describe it? Information: What interpretations are you dealing with? What information is being created through a lack of data or content? Current state: Are you dealing with too much information, not enough information, not the right information, or a combination of these? ^ref-59465
+
+- Location: [153](kindle://book?action=open&asin=B00PKMUHKG&location=153)
+
+---
+## Highlight
+
+Perception is the process of considering, and interpreting something. Perception is subjective like truth is. Something that's beautiful to one person may be an eyesore to another. For example, many designers would describe the busy, colorful patterns in the carpets of Las Vegas as gaudy. People who frequent casinos often describe them as beautiful. ^ref-18062
+
+- Location: [173](kindle://book?action=open&asin=B00PKMUHKG&location=173)
+
+---
+## Highlight
+
+We need to consider our intended users. Sometimes they're our customers or the public. Often times, they're also stakeholders, colleagues, employees, partners, superiors, or clients. These are the people who use our process. To determine who matters, ask these questions: Who's most important to get agreement from? Who's most important to serve? What words might make them defensive? What words might put them at ease? How open are they to change? How will this affect their lives? How does the current state of things look to them? Is that good or bad? ^ref-57672
+
+- Location: [204](kindle://book?action=open&asin=B00PKMUHKG&location=204)
+
+---
+## Highlight
+
+To start with why, ask yourself: Why does this work need to be done? Why is change needed? Why do those changes matter? Why should other people care? Why hasn't this been tackled correctly? Why will this time be different? ^ref-3526
+
+- Location: [216](kindle://book?action=open&asin=B00PKMUHKG&location=216)
+
+---
+## Highlight
+
+The words we choose change the things we make and how we think about them. Our words also change how other people make sense of our work. ^ref-58565
+
+- Location: [247](kindle://book?action=open&asin=B00PKMUHKG&location=247)
+
+### Note
+Important to keep in mind that this applies not only to professional, business-related content but also professional and personal communication across mediums (social media, private messaging, face-to-face, etc.).
+
+---
+## Highlight
+
+As you go through the mess, you'll encounter several types of players: Current users: People who interact with whatever you're making. Potential users: People you hope to reach. Stakeholders: People who care about the outcome of what you're making. Competitors: People who share your current or potential users. Distractors: People that could take attention away from your intent. ^ref-18386
+
+- Location: [282](kindle://book?action=open&asin=B00PKMUHKG&location=282)
+
+### Note
+I'd add "Advocates" to this list since they can play a big role in the success and improvement of a product and even company.
+
+---
+## Highlight
+
+Face ^ref-59792
+
+- Location: [441](kindle://book?action=open&asin=B00PKMUHKG&location=441)
+
+---
