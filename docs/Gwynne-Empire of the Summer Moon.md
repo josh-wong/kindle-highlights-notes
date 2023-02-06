@@ -7,7 +7,7 @@ kindle-sync:
   author: S. C. Gwynne
   asin: B003KN3MDG
   lastAnnotatedDate: '2022-07-02'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81hoAsZuDtL._SY160.jpg'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81pDMZctb9L._SY160.jpg'
   highlightsCount: 13
 ---
 # Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History
