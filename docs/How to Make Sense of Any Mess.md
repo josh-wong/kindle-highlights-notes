@@ -4,9 +4,9 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-01-31'
+  lastAnnotatedDate: '2023-02-19'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
-  highlightsCount: 8
+  highlightsCount: 10
 ---
 # How to Make Sense of Any Mess: Information Architecture for Everybody
 
@@ -78,8 +78,27 @@ I'd add "Advocates" to this list since they can play a big role in the success a
 ---
 ## Highlight
 
-Face ^ref-59792
+Everything is easier with a map. Let me guide you through making a map for your own mess. On the following page is another favorite diagram of mine, the matrix diagram. The power of a matrix diagram is that you can make the boxes collect whatever you want. Each box becomes a task to fulfill or a question to answer, whether you're alone or in a group. Matrix diagrams are especially useful when you're facilitating a discussion, because they're easy to create and they keep themselves on track. An empty box means you're not done yet. ^ref-25246
 
-- Location: [441](kindle://book?action=open&asin=B00PKMUHKG&location=441)
+- Location: [442](kindle://book?action=open&asin=B00PKMUHKG&location=442)
+
+---
+## Highlight
+
+People often get in their own way by becoming overwhelmed with choices, choosing not to choose instead. Others are limited by frustration over things they can't change immediately or easily. Change takes time. Start by choosing a direction to go toward. If you take one step in that direction each day, you'll get to the finish line in due time. If you spend all your time thinking about how far the finish line is and fearing never getting there, you'll make slower progress or never make it at all. ^ref-5691
+
+- Location: [456](kindle://book?action=open&asin=B00PKMUHKG&location=456)
+
+### Note
+Very true. I think many of us can imagine what a successful project looks like, but getting to that point and being satisfied with the outcome is often not so straightforward or without its challenges. 
+
+Instead of being discouraged about processes or lack of progress, notice the little wins. Focusing on small achievements while striving to meet the main objective or ideal scenario will keep you motivated.
+
+---
+## Highlight
+
+Understand ^ref-34876
+
+- Location: [525](kindle://book?action=open&asin=B00PKMUHKG&location=525)
 
 ---
