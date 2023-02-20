@@ -4,9 +4,9 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-02-19'
+  lastAnnotatedDate: '2023-02-20'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
-  highlightsCount: 10
+  highlightsCount: 11
 ---
 # How to Make Sense of Any Mess: Information Architecture for Everybody
 
@@ -97,8 +97,18 @@ Instead of being discouraged about processes or lack of progress, notice the lit
 ---
 ## Highlight
 
-Understand ^ref-34876
+A good controlled vocabulary considers: Variant spellings (e.g., American or British) Tone (e.g., Submit or Send) Scientific and popular terms (e.g., cockroaches or Periplaneta Americana) Insider and outsider terms (e.g., what we say at work; what we say in public) Acceptable synonyms (e.g., automobile, car, auto, or vehicle) Acceptable acronyms (e.g., General Electric, GE, or G.E.) ^ref-62445
 
-- Location: [525](kindle://book?action=open&asin=B00PKMUHKG&location=525)
+- Location: [550](kindle://book?action=open&asin=B00PKMUHKG&location=550)
+
+### Note
+Good things to note in a writing style guide.
+
+---
+## Highlight
+
+5. Measure the Distance ^ref-14409
+
+- Location: [645](kindle://book?action=open&asin=B00PKMUHKG&location=645)
 
 ---

@@ -6,7 +6,6 @@
 | ---------- | ---------- |
 | **Title** | [The Sacred Mushroom and the Cross: A Study of the Nature and Origins of Christianity Within the Fertility Cults of the Ancient Near East](https://www.amazon.com/Sacred-Mushroom-Cross-Christianity-fertility-ebook/dp/B0BQHMKY5T?&linkCode=ll1&tag=jwtwkm-20&language=en_US&ref_=as_li_ss_tl) |
 | **Author** | [John M. Allegro](https://www.amazon.com/s/ref=dp_byline_sr_audible_1?ie=UTF8&search-alias=audible&field-keywords=John+M.+Allegro) |
-| **Book on Kindle** | <a href="kindle://book?action=open&asin=B076NVFT5P" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
 
 ---
