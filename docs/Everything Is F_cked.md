@@ -1,4 +1,4 @@
-# Everything Is F_cked: A Book About Hope
+# Everything Is F\*cked: A Book About Hope
 
 ## Metadata
 
