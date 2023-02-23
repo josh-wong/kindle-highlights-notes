@@ -1,22 +1,20 @@
 ---
 kindle-sync:
-  bookId: '14572'
-  title: >-
-    The Stephen R. Covey Interactive Reader - 4 Books in 1: Powerful Lessons in
-    Personal Change
+  bookId: '10177'
+  title: 'The Stephen R. Covey Interactive Reader: Powerful Lessons in Personal Change'
   author: Stephen R. Covey
   asin: B01069X4H0
   lastAnnotatedDate: '2022-09-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/710e2r4iKML._SY160.jpg'
   highlightsCount: 46
 ---
-# The Stephen R. Covey Interactive Reader - 4 Books in 1: Powerful Lessons in Personal Change
+# The Stephen R. Covey Interactive Reader: Powerful Lessons in Personal Change
 
 ## Metadata
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Stephen R. Covey Interactive Reader - 4 Books in 1: Powerful Lessons in Personal Change](https://www.amazon.com/dp/B01069X4H0) |
+| **Title** | [The Stephen R. Covey Interactive Reader: Powerful Lessons in Personal Change](https://www.amazon.com/dp/B01069X4H0) |
 | **Author** | [Stephen R. Covey](https://www.amazon.com/Stephen-R-Covey/e/B000AQ2VAQ/ref=dp_byline_cont_ebooks_1) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01069X4H0" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
