@@ -4,9 +4,9 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-02-23'
+  lastAnnotatedDate: '2023-02-26'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
-  highlightsCount: 11
+  highlightsCount: 12
 ---
 # How to Make Sense of Any Mess: Information Architecture for Everybody
 
@@ -107,8 +107,15 @@ Good things to note in a writing style guide.
 ---
 ## Highlight
 
-5. Measure the Distance ^ref-14409
+A goal is something specific that you want to do. A well-defined goal has the following elements: Intent: What are the specific results you want to see for your efforts? Baseline: What points of reference can you use to compare your progress with where you are today? Progress: How will you measure movement towards or away from your goal? ^ref-30783
 
-- Location: [645](kindle://book?action=open&asin=B00PKMUHKG&location=645)
+- Location: [649](kindle://book?action=open&asin=B00PKMUHKG&location=649)
+
+---
+## Highlight
+
+7. Prepare to Adjust ^ref-47401
+
+- Location: [894](kindle://book?action=open&asin=B00PKMUHKG&location=894)
 
 ---
