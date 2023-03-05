@@ -4,9 +4,9 @@ kindle-sync:
   title: 'How to Make Sense of Any Mess: Information Architecture for Everybody'
   author: Abby Covert
   asin: B00PKMUHKG
-  lastAnnotatedDate: '2023-02-26'
+  lastAnnotatedDate: '2023-03-05'
   bookImageUrl: 'https://m.media-amazon.com/images/I/51GR+H2kvYL._SY160.jpg'
-  highlightsCount: 12
+  highlightsCount: 13
 ---
 # How to Make Sense of Any Mess: Information Architecture for Everybody
 
@@ -114,8 +114,15 @@ A goal is something specific that you want to do. A well-defined goal has the fo
 ---
 ## Highlight
 
-7. Prepare to Adjust ^ref-47401
+Perfection isn't possible, but progress is. ^ref-39707
 
-- Location: [894](kindle://book?action=open&asin=B00PKMUHKG&location=894)
+- Location: [903](kindle://book?action=open&asin=B00PKMUHKG&location=903)
+
+---
+## Highlight
+
+No matter what the mess is made of, we have many masters, versions of reality, and needs to serve. Information is full of history and preconceptions. ^ref-63894
+
+- Location: [936](kindle://book?action=open&asin=B00PKMUHKG&location=936)
 
 ---
