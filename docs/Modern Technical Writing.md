@@ -4,7 +4,7 @@ kindle-sync:
   title: 'Modern Technical Writing: An Introduction to Software Documentation'
   author: Andrew Etter
   asin: B01A2QL9SS
-  lastAnnotatedDate: '2023-01-23'
+  lastAnnotatedDate: '2023-03-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/71N2zYWXZoL._SY160.jpg'
   highlightsCount: 20
 ---
