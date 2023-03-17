@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-16'
+  lastAnnotatedDate: '2023-03-17'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
   highlightsCount: 19
 ---
@@ -149,8 +149,8 @@ In the product marketing phase of the product-development life cycle, you figure
 ---
 ## Highlight
 
-One ^ref-36931
+Why ^ref-45145
 
-- Location: [424](kindle://book?action=open&asin=B071HFBGXR&location=424)
+- Location: [434](kindle://book?action=open&asin=B071HFBGXR&location=434)
 
 ---
