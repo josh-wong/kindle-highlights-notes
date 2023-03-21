@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-17'
+  lastAnnotatedDate: '2023-03-21'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 19
+  highlightsCount: 20
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -149,8 +149,15 @@ In the product marketing phase of the product-development life cycle, you figure
 ---
 ## Highlight
 
-Why ^ref-45145
+As a product manager, keeping the company’s core value proposition in mind will help you understand the company’s vision. Understanding the vision will let you understand the company’s goals, which lets you understand its product roadmap. We’re getting ahead of ourselves here! Suffice it to say, your first task when looking at a company from a product point of view needs to be understanding its “why.” ^ref-26367
 
-- Location: [434](kindle://book?action=open&asin=B071HFBGXR&location=434)
+- Location: [486](kindle://book?action=open&asin=B071HFBGXR&location=486)
+
+---
+## Highlight
+
+Use ^ref-44110
+
+- Location: [639](kindle://book?action=open&asin=B071HFBGXR&location=639)
 
 ---
