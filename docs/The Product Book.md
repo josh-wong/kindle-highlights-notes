@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-21'
+  lastAnnotatedDate: '2023-03-23'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 20
+  highlightsCount: 21
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -156,8 +156,15 @@ As a product manager, keeping the company’s core value proposition in mind wil
 ---
 ## Highlight
 
-Use ^ref-44110
+A common question PMs deal with is, how do we pick the right goals and supporting success metrics to focus on? In general, it depends on your company. But Sarah Tavel, who was Pinterest’s founding PM for search and discovery and is now a partner at Greylock, noticed a trend in the success metrics of successful consumer-focused internet startups, and she wrote up her findings in a blog post entitled “The Hierarchy of Engagement.” Tavel noted that there are three distinct strategy phases startups, and by extension new products, go through: engagement, retention, and self-perpetuating. Startups that go through all three tend to turn into multibillion-dollar companies, whereas startups that get stuck in one phase commonly fail. ^ref-44708
 
-- Location: [639](kindle://book?action=open&asin=B071HFBGXR&location=639)
+- Location: [725](kindle://book?action=open&asin=B071HFBGXR&location=725)
+
+---
+## Highlight
+
+Vanity vs. Actionable Metrics ^ref-52774
+
+- Location: [763](kindle://book?action=open&asin=B071HFBGXR&location=763)
 
 ---
