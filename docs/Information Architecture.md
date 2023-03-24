@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Information Architecture: For the Web and Beyond](https://www.amazon.com/dp/B015D78JV6) |
-| **Author** | [Louis Rosenfeld, Peter Morville, and Jorge Arango](https://www.amazon.com/Louis-Rosenfeld/e/B000APV7C0/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Louis Rosenfeld, Peter Morville, and Jorge Arango](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B015D78JV6" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

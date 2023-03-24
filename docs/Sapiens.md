@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Sapiens: A Brief History of Humankind](https://www.amazon.com/dp/B00ICN066A) |
-| **Author** | [Yuval Noah Harari](https://www.amazon.com/Yuval-Noah-Harari/e/B00J21BCIW/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Yuval Noah Harari](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00ICN066A" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.com/dp/B00PKMUHKG) |
-| **Author** | [Abby Covert](https://www.amazon.com/Abby-Covert/e/B00PGBGCRS/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Abby Covert](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00PKMUHKG" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

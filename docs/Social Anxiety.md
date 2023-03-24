@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Social Anxiety : Easy Daily Strategies for Overcoming Social Anxiety and Shyness, Build Successful Relationships, and Increase Happiness](https://www.amazon.com/dp/B07KWQTGHV) |
-| **Author** | [James  W. Williams](https://www.amazon.com/James-W-Williams/e/B07MZL8CY2/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [James  W. Williams](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07KWQTGHV" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The 7 Habits of Highly Effective People: Infographics Edition: Powerful Lessons in Personal Change](https://www.amazon.com/dp/B01069X4H0) |
-| **Author** | [Stephen R. Covey](https://www.amazon.com/Stephen-R-Covey/e/B000AQ2VAQ/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Stephen R. Covey](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01069X4H0" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

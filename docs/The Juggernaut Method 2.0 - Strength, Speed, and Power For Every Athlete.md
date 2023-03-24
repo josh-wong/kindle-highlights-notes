@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Juggernaut Method 2.0 - Strength, Speed, and Power For Every Athlete](https://www.amazon.com/dp/B00DRIYWBU) |
-| **Author** | [Chad Wesley Smith](https://www.amazon.com/Chad-Wesley-Smith/e/B076PRGFVK/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Chad Wesley Smith](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00DRIYWBU" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

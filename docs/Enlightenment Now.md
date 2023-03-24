@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://www.amazon.com/dp/B073TJBYTB) |
-| **Author** | [Steven Pinker](https://www.amazon.com/Steven-Pinker/e/B000AQ3GGO/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Steven Pinker](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B073TJBYTB" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

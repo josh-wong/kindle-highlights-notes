@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Unbound: How Eight Technologies Made Us Human and Brought Our World to the Brink](https://www.amazon.com/dp/B012TN04Y2) |
-| **Author** | [Richard L. Currier and Tom Gjelten](https://www.amazon.com/Richard-L-Currier/e/B001KHWCAS/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Richard L. Currier and Tom Gjelten](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B012TN04Y2" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

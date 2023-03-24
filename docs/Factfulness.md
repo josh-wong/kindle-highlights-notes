@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think](https://www.amazon.com/dp/B0756J1LLV) |
-| **Author** | [Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling](https://www.amazon.com/Hans-Rosling/e/B07BBKX3D6/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0756J1LLV" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

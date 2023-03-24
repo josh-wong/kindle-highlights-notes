@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness](https://www.amazon.com/dp/B07MY2VFQD) |
-| **Author** | [Jonas Salzgeber and Nils Salzgeber](https://www.amazon.com/Jonas-Salzgeber/e/B07MY6LC4T/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Jonas Salzgeber and Nils Salzgeber](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07MY2VFQD" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

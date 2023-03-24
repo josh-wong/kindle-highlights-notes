@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Souls of Black Folk (AmazonClassics Edition)](https://www.amazon.com/dp/B071FQQHFB) |
-| **Author** | [W. E. B. Du Bois](https://www.amazon.com/W-E-B-Du-Bois/e/B001IGOCYA/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [W. E. B. Du Bois](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B071FQQHFB" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

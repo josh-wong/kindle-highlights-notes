@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Universe Doesn't Give a Flying Fuck About You (Epic series Book 1)](https://www.amazon.com/dp/B005OMBTKY) |
-| **Author** | [J. Truant](https://www.amazon.com/J-Truant/e/B01FKXRMLQ/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [J. Truant](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B005OMBTKY" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

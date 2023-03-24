@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions](https://www.amazon.com/dp/B01LZ6RXS6) |
-| **Author** | [Peter Brannen](https://www.amazon.com/Peter-Brannen/e/B01MQPKXII/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Peter Brannen](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01LZ6RXS6" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

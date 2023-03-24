@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [A Brief History of Earth: Four Billion Years in Eight Chapters](https://www.amazon.com/dp/B08D9HVKJG) |
-| **Author** | [Andrew H. Knoll](https://www.amazon.com/Andrew-H-Knoll/e/B001IXU90Y/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Andrew H. Knoll](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B08D9HVKJG" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

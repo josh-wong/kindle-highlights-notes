@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.amazon.com/dp/B07H453KGH) |
-| **Author** | [David Goggins](https://www.amazon.com/David-Goggins/e/B07H23VT42/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [David Goggins](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07H453KGH" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

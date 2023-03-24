@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions](https://www.amazon.com/dp/B07583XJRW) |
-| **Author** | [Johann Hari](https://www.amazon.com/Johann-Hari/e/B00NEUY9BY/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Johann Hari](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07583XJRW" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

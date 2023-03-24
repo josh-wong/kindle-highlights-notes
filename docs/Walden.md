@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Walden](https://www.amazon.com/dp/B00MF0ZVPW) |
-| **Author** | [Henry David Thoreau](https://www.amazon.com/Henry-David-Thoreau/e/B000AQ4HEO/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Henry David Thoreau](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00MF0ZVPW" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

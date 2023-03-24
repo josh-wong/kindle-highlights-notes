@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Media Control: The Spectacular Achievements of Propaganda (Open Media Series)](https://www.amazon.com/dp/B00541YJPM) |
-| **Author** | [Noam Chomsky](https://www.amazon.com/Noam-Chomsky/e/B000AP81EC/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Noam Chomsky](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B00541YJPM" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

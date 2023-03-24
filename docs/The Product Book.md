@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Product Book: How to Become a Great Product Manager](https://www.amazon.com/dp/B071HFBGXR) |
-| **Author** | [Product School, Carlos González de Villaumbrosia, and Josh Anon](https://www.amazon.com/Carlos-Gonz%C3%A1lez-de-Villaumbrosia/e/B073GZ66M5/ref=dp_byline_cont_ebooks_2) |
+| **Author** | [Product School, Carlos González de Villaumbrosia, and Josh Anon](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B071HFBGXR" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

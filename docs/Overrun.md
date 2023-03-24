@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Overrun: Jungle Warfare in Vietnam (No Safe Spaces)](https://www.amazon.com/dp/B07J48HDK9) |
-| **Author** | [Anthony H Johnson](https://www.amazon.com/Anthony-H-Johnson/e/B07HP3WYNY/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Anthony H Johnson](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B07J48HDK9" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

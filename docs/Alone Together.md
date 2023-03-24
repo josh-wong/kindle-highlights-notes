@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Alone Together: Why We Expect More from Technology and Less from Each Other](https://www.amazon.com/dp/B004DL0KW0) |
-| **Author** | [Sherry Turkle](https://www.amazon.com/Sherry-Turkle/e/B000APEFSI/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Sherry Turkle](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B004DL0KW0" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

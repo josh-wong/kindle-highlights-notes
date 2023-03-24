@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex](https://www.amazon.com/dp/B072HLS5QJ) |
-| **Author** | [Aubrey Marcus](https://www.amazon.com/Aubrey-Marcus/e/B07B9ZYFWJ/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Aubrey Marcus](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B072HLS5QJ" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

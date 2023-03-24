@@ -18,7 +18,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Science of Self-Discipline: The Willpower, Mental Toughness, and Self-Control to Resist Temptation and Achieve Your Goals (Live a Disciplined Life Book 1)](https://www.amazon.com/dp/B076MVJLJ5) |
-| **Author** | [Peter Hollins](https://www.amazon.com/Peter-Hollins/e/B0034PEREI/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Peter Hollins](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B076MVJLJ5" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

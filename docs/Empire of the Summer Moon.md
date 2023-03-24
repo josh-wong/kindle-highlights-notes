@@ -17,7 +17,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Empire of the Summer Moon: Quanah Parker and the Rise and Fall of the Comanches, the Most Powerful Indian Tribe in American History](https://www.amazon.com/dp/B003KN3MDG) |
-| **Author** | [S. C. Gwynne](https://www.amazon.com/S-C-Gwynne/e/B001K8A9U2/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [S. C. Gwynne](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B003KN3MDG" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

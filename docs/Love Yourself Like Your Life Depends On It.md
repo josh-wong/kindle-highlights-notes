@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [Love Yourself Like Your Life Depends On It](https://www.amazon.com/dp/B0086BX8UE) |
-| **Author** | [Kamal Ravikant](https://www.amazon.com/Kamal-Ravikant/e/B0086HMAIY/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Kamal Ravikant](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B0086BX8UE" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

@@ -18,7 +18,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [The Art Of Saying NO: How To Stand Your Ground, Reclaim Your Time And Energy, And Refuse To Be Taken For Granted (Without Feeling Guilty!) (The Art Of Living Well Book 1)](https://www.amazon.com/dp/B074LZG7KS) |
-| **Author** | [Damon Zahariades](https://www.amazon.com/Damon-Zahariades/e/B011Q3T9ZQ/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Damon Zahariades](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B074LZG7KS" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 

@@ -15,7 +15,7 @@ kindle-sync:
 | Syntax | Description |
 | ---------- | ---------- |
 | **Title** | [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/dp/B01FPGY5T0) |
-| **Author** | [Jordan B. Peterson](https://www.amazon.com/Jordan-B-Peterson/e/B001HMLIKQ/ref=dp_byline_cont_ebooks_1) |
+| **Author** | [Jordan B. Peterson](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B01FPGY5T0" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #book |
 
