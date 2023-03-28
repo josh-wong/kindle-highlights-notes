@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-26'
+  lastAnnotatedDate: '2023-03-28'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 21
+  highlightsCount: 31
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -21,6 +21,12 @@ kindle-sync:
 
 ---
 
+## Highlight
+
+“Nobody ^ref-9357
+- Location: [66](kindle://book?action=open&asin=B071HFBGXR&location=66)
+
+---
 ## Highlight
 
 Put simply, a product manager (PM) represents the customer. No one buys a product because they want to give the company money. Customers buy and use products because the products address their needs. Done properly, the products let the customers be awesome. The end result of representing the customer is that a PM helps the customer be awesome. ^ref-55428
@@ -145,5 +151,69 @@ A common question PMs deal with is, how do we pick the right goals and supportin
 
 Vanity metrics are those that sound useful, and might be great for some other business need, but don’t help us measure product performance. Actionable metrics are real data we can use to make decisions. ^ref-42226
 - Location: [766](kindle://book?action=open&asin=B071HFBGXR&location=766)
+
+---
+## Highlight
+
+NPS is measured by asking customers, “On a scale of 1–10, how likely is it that you would recommend [brand] to a friend or colleague?” Promoters rank your brand 9 or 10 and are “loyal enthusiasts who will keep buying and refer others, fueling growth.” These are the people you want! Passives will rank you 7 or 8 and are “satisfied but unenthusiastic customers who are vulnerable to competitive offerings.” Detractors score you from 0 to 6 and “are unhappy customers who can damage your brand and impede growth through negative word-of-mouth.” ^ref-31931
+- Location: [793](kindle://book?action=open&asin=B071HFBGXR&location=793)
+
+### Note
+I've analyzed this type of feedback in previous roles. 
+
+Over time, this type of data can be really useful. However, as customers accounts grow, this can get difficult to measure, with so many customers having different needs and expectations. Some customers may use the survey to voice unrelated concerns, which may skew the results. 
+
+Therefore, using NPS method should be well monitored and worded to encourage customers to guide them in providing well-thought-out, actionable feedback that can help shape a product.
+
+---
+## Highlight
+
+Measuring NPS over time is a way to see how customers are reacting to the product changes you make (or don’t make). If your company’s goal is customer satisfaction, with NPS as your success metric, and your NPS is lower than you’d like, then your immediate product goals will be around improving your customers’ happiness. ^ref-7857
+- Location: [801](kindle://book?action=open&asin=B071HFBGXR&location=801)
+
+### Note
+Feedback is vital in documentation. We need to know what isn't working well so that we can improve. The tricky part is, when people find issues, they tend to not report them for a variety of reasons, with the main one being they don't know where or how to report the issue. Instead, they drop off from the product and you lose someone who could have been a promoter.
+
+---
+## Highlight
+
+The key definition of an iterative change is that you’re taking an existing product and making it better. Iteration is incredibly important, as the first version of a product is never perfect for all customers, and it’s through iteration that a product evolves to become something customers love. If you don’t have product/market fit yet, we’d recommend focusing on achieving it before trying to focus on revenue or growth goals. What is also nice about iteration is that you already have information about how the customers are using the product, and your hypothesis about what to do next might come from quantitative sources (like how many users complain about a bug), or qualitative sources (like ideas the support team has). ^ref-2908
+- Location: [990](kindle://book?action=open&asin=B071HFBGXR&location=990)
+
+---
+## Highlight
+
+The downside to iteration is that you can get stuck finding the “local maxima.” This means that you’ve optimized something really well, but you focused so much on optimization that you missed a bigger shift that happened. ^ref-5894
+- Location: [997](kindle://book?action=open&asin=B071HFBGXR&location=997)
+
+---
+## Highlight
+
+Identify the key success metric supporting your goal and the metrics that support that goal. If your success metric is how engaged your customers are, you should track how often they complete the core “success” action and the steps that lead to it. If the right metrics aren’t there, then your first task for this iteration of the product-development life cycle is to implement analytics for those metrics. ^ref-10207
+- Location: [1115](kindle://book?action=open&asin=B071HFBGXR&location=1115)
+
+---
+## Highlight
+
+Nearly any sequentialaction group of metrics (workflow) can form a funnel, and your goal is always to look at how a user goes from initiating to completing an action. Not every customer enters your product the same way (e.g., tapping an app on the home screen to open it the first time, opening the app for the tenth time with a restored state, tapping a link that opens the app, etc.). Your analytics tool likely has a behavior flow report to see how users enter the funnel and where they go. Any place there’s a substantial undesired falloff is a potential opportunity, and you should flag that particular metric. ^ref-46652
+- Location: [1145](kindle://book?action=open&asin=B071HFBGXR&location=1145)
+
+---
+## Highlight
+
+In a feature audit, you start by creating a graph of how many people use a feature on the x-axis vs. how often they use it (See Table 3-1). When doing this, make sure to exclude “administrative” features such as password recovery, as they’ll skew the result. The core value of your product, the reason it exists and people buy it, should be at the top right (Feature C) because everyone should use it all the time. Table 3-1. A sample Intercom feature audit table. ^ref-1268
+- Location: [1238](kindle://book?action=open&asin=B071HFBGXR&location=1238)
+
+---
+## Highlight
+
+Seen in Figure 3-2, the Hook Canvas has four elements. First is the trigger—what happens to get the user to the product? Second—what’s the absolute simplest thing you can get a customer to do that will give them the reward? Third—what reward can you provide that’s fulfilling and makes the user want more and invest in the product? Last, what tiny bit of action can you get the customer to invest in doing that will lead to more triggers and get them to return? Figure 3-2. Nir Eyal’s Hook Canvas and its four phases. ^ref-63410
+- Location: [1265](kindle://book?action=open&asin=B071HFBGXR&location=1265)
+
+---
+## Highlight
+
+Surveys ^ref-38180
+- Location: [1278](kindle://book?action=open&asin=B071HFBGXR&location=1278)
 
 ---
