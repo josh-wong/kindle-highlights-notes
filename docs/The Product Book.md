@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-28'
+  lastAnnotatedDate: '2023-03-31'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 31
+  highlightsCount: 33
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -213,7 +213,19 @@ Seen in Figure 3-2, the Hook Canvas has four elements. First is the trigger—wh
 ---
 ## Highlight
 
-Surveys ^ref-38180
-- Location: [1278](kindle://book?action=open&asin=B071HFBGXR&location=1278)
+As a PM, you’re in a unique position to know what the major pain points for customers are, how they’re reacting to your product, what the technical issues are with your product, and what technical innovations have occurred within your engineering team. ^ref-12783
+- Location: [1356](kindle://book?action=open&asin=B071HFBGXR&location=1356)
+
+---
+## Highlight
+
+A great PM will also be paying attention to the broader tech world, thinking about how innovations elsewhere might apply to his product and customers. ^ref-11773
+- Location: [1358](kindle://book?action=open&asin=B071HFBGXR&location=1358)
+
+---
+## Highlight
+
+Vision ^ref-11674
+- Location: [1369](kindle://book?action=open&asin=B071HFBGXR&location=1369)
 
 ---
