@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-03-31'
+  lastAnnotatedDate: '2023-04-01'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 33
+  highlightsCount: 35
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -225,7 +225,19 @@ A great PM will also be paying attention to the broader tech world, thinking abo
 ---
 ## Highlight
 
-Vision ^ref-11674
-- Location: [1369](kindle://book?action=open&asin=B071HFBGXR&location=1369)
+Stravinsky, Faulkner, Picasso…regardless of who said it, you might have heard the quote, “Good artists copy. Great artists steal.” Sometimes your competition has a great idea, and stealing it—and making it better—is your opportunity. Be careful with this source. “Because the other guy did it” is never a valid reason alone to create a feature—that’s just copying. ^ref-44354
+- Location: [1409](kindle://book?action=open&asin=B071HFBGXR&location=1409)
+
+---
+## Highlight
+
+The Kano model defines three principles that a product needs to achieve to be successful over time: Value attracts customers. Quality keeps customers and builds loyalty. Innovation differentiates your product from others and keeps you competitive. ^ref-5768
+- Location: [1533](kindle://book?action=open&asin=B071HFBGXR&location=1533)
+
+---
+## Highlight
+
+Chapter 4: ^ref-11896
+- Location: [1601](kindle://book?action=open&asin=B071HFBGXR&location=1601)
 
 ---
