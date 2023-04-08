@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-04-02'
+  lastAnnotatedDate: '2023-04-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 35
+  highlightsCount: 39
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -237,7 +237,31 @@ The Kano model defines three principles that a product needs to achieve to be su
 ---
 ## Highlight
 
-Chapter 4: ^ref-11896
-- Location: [1601](kindle://book?action=open&asin=B071HFBGXR&location=1601)
+A SWOT analysis is a common method for looking at how an opportunity hypothesis fits in. SWOT stands for strengths, weaknesses, opportunities, and threats. This framework helps you identify the most important internal and external elements of achieving your goals. ^ref-8852
+- Location: [1637](kindle://book?action=open&asin=B071HFBGXR&location=1637)
+
+---
+## Highlight
+
+To do a SWOT analysis, first identify your key goals and success metrics. Then create a two-by-two table like Table 4-1. The top row will be your internal elements—the strengths and weaknesses for the product/ company around achieving your goals. The bottom row will look at external elements—the opportunities and threats, including things like cultural, governmental, and technological trends. ^ref-5913
+- Location: [1640](kindle://book?action=open&asin=B071HFBGXR&location=1640)
+
+---
+## Highlight
+
+Here’s a checklist of questions that will help you start validating an opportunity. If the answer to any of these is negative, then you should most likely not pursue this opportunity. Is this opportunity in line with our vision? Does it support the product’s vision and core function? Can we do it well with our capabilities (or is it feasible and desirable to expand our capabilities to meet the opportunity)? How does it contribute to our key metrics? Do we have any data, be it from analytics, surveys, or bug reports, to support this opportunity? Is it required to meet a critical business initiative? How does it contribute to our users’ winning? Is it on our roadmap for this year, even indirectly as part of something else? Will it matter in two years? (It’s OK if the feature is to address an immediate need, but you’ll want to limit those, as you want to prioritize things that have a higher value over time.) Will everyone benefit? If it only helps a niche set of customers, is it worth the cost? If it succeeds, can we support it? ^ref-47085
+- Location: [1658](kindle://book?action=open&asin=B071HFBGXR&location=1658)
+
+---
+## Highlight
+
+So what is customer development? It’s a way to validate if the people you think are your customers truly are the right customers and confirming you’re on the right path. This includes finding out what problems customers are seeking to solve, what they’re doing right now that either creates those problems and tries to solve them, what they’re able to do (technically, financially, socially, etc.), and how they find out about and decide if a new product/feature is worth it. Fundamentally, it’s a conversation and an exchange of information. It’s also useful to know what customer development is not. It’s not a way for people to give you a wish list. It’s not a focus group to only see how people respond to ideas. It’s not a place to observe how customers use your prototype. It’s also not a replacement for product vision. Customers will give you a huge wish list, but they’ll often ask for more than they actually need, end up not using features, and —in really bad cases—might get confused by all the extra features. This is a big part of why we recommend having some opportunity hypotheses in mind first. ^ref-47639
+- Location: [1774](kindle://book?action=open&asin=B071HFBGXR&location=1774)
+
+---
+## Highlight
+
+Preparing for Interviews ^ref-38312
+- Location: [1791](kindle://book?action=open&asin=B071HFBGXR&location=1791)
 
 ---
