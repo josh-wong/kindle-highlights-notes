@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-04-08'
+  lastAnnotatedDate: '2023-04-09'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 39
+  highlightsCount: 44
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -261,7 +261,42 @@ So what is customer development? It’s a way to validate if the people you thin
 ---
 ## Highlight
 
-Preparing for Interviews ^ref-38312
-- Location: [1791](kindle://book?action=open&asin=B071HFBGXR&location=1791)
+It can be helpful to explicitly write your opportunity hypothesis in terms of these canvases: “I believe that <personas/segments> experience <this pain> when doing <task> because of <limitation>, and alleviating that pain would let the customer <achieve this gain>, although she’d have to <accept these limitations>.” ^ref-23052
+- Location: [1804](kindle://book?action=open&asin=B071HFBGXR&location=1804)
+
+---
+## Highlight
+
+Think about the Henry Ford’s “faster horse” example here: The feature request is a faster horse. The underlying desire is the desire to get to a destination faster. Restating someone’s feature request to make sure you understand it and asking what she thinks it’d let her do or how she envisions using that feature is an easy way to start to get to the underlying desire. ^ref-62742
+- Location: [1857](kindle://book?action=open&asin=B071HFBGXR&location=1857)
+
+---
+## Highlight
+
+It usually takes 5 to 10 interviews to fully get into the zone, and unless you’re changing your questions, 15 to 20 interviews is usually when you stop hearing new things. ^ref-48061
+- Location: [1964](kindle://book?action=open&asin=B071HFBGXR&location=1964)
+
+### Note
+I've heard 15 people are enough for a study/interview group, but I've also heard 5 people are enough. 
+
+With sufficient knowledge and research, I'd lean towards 5-10 people as sufficient. By interviewing fewer people, we can reduce the cost of the study, in terms of pre-interview preparation, the actual interview, and post-interview content review. 
+
+---
+## Highlight
+
+The last type is a fake door MVP. If you’re thinking about building a new feature into your product, add the UX elements you’d use to trigger the interaction, but rather than actually delivering the feature, provide a notification that the feature’s coming soon. See how many people use your “fake door.” For example, if your hypothesis is that people would find a live group chat feature useful on your online education site, add a “Chat” button and see how many people click it. If only a tiny percentage do, reconsider if it’s worth pursuing this opportunity, depending on the value of those customers vs. the cost of implementing the feature. ^ref-6838
+- Location: [2151](kindle://book?action=open&asin=B071HFBGXR&location=2151)
+
+---
+## Highlight
+
+A simple way to compare priorities is to come up with a value vs. cost number. Work with an engineering lead to put difficulty values on different opportunities. From your customer-development work and other internal analysis, create business-value numbers for each opportunity. Use higher numbers to indicate more expensive cost, or more valuable. Because it’s tough to estimate value and difficulty precisely, use an exponential series rather than a linear one—i.e., use 1, 2, 4, 8, and 16 rather than 1 through 5. This way, it’s very clear when one opportunity is harder or more valuable than another. Next, for each opportunity, figure out a score using score = value÷cost. Focus on the highest-scoring opportunities first, as they provide the most value for the lowest cost. ^ref-60278
+- Location: [2173](kindle://book?action=open&asin=B071HFBGXR&location=2173)
+
+---
+## Highlight
+
+Chapter 5: From Idea To Action ^ref-3240
+- Location: [2228](kindle://book?action=open&asin=B071HFBGXR&location=2228)
 
 ---
