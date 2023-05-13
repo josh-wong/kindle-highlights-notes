@@ -4,7 +4,7 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-05-06'
+  lastAnnotatedDate: '2023-05-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
   highlightsCount: 49
 ---
@@ -332,7 +332,7 @@ Thos section is helpful and may be useful for myself or others to refer to in th
 ---
 ## Highlight
 
-Chapter 5 Tips ^ref-62753
-- Location: [2659](kindle://book?action=open&asin=B071HFBGXR&location=2659)
+Chapter ^ref-28137
+- Location: [2866](kindle://book?action=open&asin=B071HFBGXR&location=2866)
 
 ---
