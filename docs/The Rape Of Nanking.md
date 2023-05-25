@@ -1,20 +1,20 @@
 ---
 kindle-sync:
   bookId: '24888'
-  title: 'The Rape Of Nanking: The Forgotten Holocaust Of World War II'
+  title: 'The Rape of Nanking: The Forgotten Holocaust of World War II'
   author: Iris Chang
   asin: B005XQ973M
   lastAnnotatedDate: '2019-05-24'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81eYpm+G+JL._SY160.jpg'
   highlightsCount: 3
 ---
-# The Rape Of Nanking: The Forgotten Holocaust Of World War II
+# The Rape of Nanking: The Forgotten Holocaust of World War II
 
 ## Metadata
 
 | Syntax | Description |
 | ---------- | ---------- |
-| **Title** | [The Rape Of Nanking: The Forgotten Holocaust Of World War II](https://www.amazon.com/dp/B005XQ973M) |
+| **Title** | [The Rape of Nanking: The Forgotten Holocaust of World War II](https://www.amazon.com/dp/B005XQ973M) |
 | **Author** | [Iris Chang](https://www.amazon.comundefined) |
 | **Book on Kindle** | <a href="kindle://book?action=open&asin=B005XQ973M" target="_blank">Open in Kindle</a> |
 | **Tags** | #Kindle #books |
