@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-05-13'
+  lastAnnotatedDate: '2023-06-04'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 49
+  highlightsCount: 50
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -332,7 +332,13 @@ Thos section is helpful and may be useful for myself or others to refer to in th
 ---
 ## Highlight
 
-Chapter ^ref-28137
-- Location: [2866](kindle://book?action=open&asin=B071HFBGXR&location=2866)
+The design process generally breaks down into six primary phases: User research Information architecture Interaction design Prototyping Visual design Content strategy ^ref-60247
+- Location: [2934](kindle://book?action=open&asin=B071HFBGXR&location=2934)
+
+---
+## Highlight
+
+Usability Testing with Prototypes ^ref-6758
+- Location: [3011](kindle://book?action=open&asin=B071HFBGXR&location=3011)
 
 ---
