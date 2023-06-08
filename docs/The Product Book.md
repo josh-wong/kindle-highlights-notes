@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-06-04'
+  lastAnnotatedDate: '2023-06-08'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 50
+  highlightsCount: 52
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -338,7 +338,27 @@ The design process generally breaks down into six primary phases: User research 
 ---
 ## Highlight
 
-Usability Testing with Prototypes ^ref-6758
-- Location: [3011](kindle://book?action=open&asin=B071HFBGXR&location=3011)
+So how do you build a constructive relationship with the design team? A simple but important step is to get to know the team. Building individual relationships with the people you work with will help you respect each other as people and deal with conflict more productively. ^ref-36370
+- Location: [3116](kindle://book?action=open&asin=B071HFBGXR&location=3116)
+
+### Note
+I wholeheartedly agree with this statement. However, relationships with co-workers is incredibly difficult to do in a remote workplace or within a remote team. There really is no substitute for in-person relationship building and communication.
+
+---
+## Highlight
+
+You might have everyone work individually to generate ideas using “Crazy Eights,” where you fold a piece of paper in half three times, to create a page with eight segments, and take five minutes to draw eight ideas, one per segment. ^ref-30433
+- Location: [3229](kindle://book?action=open&asin=B071HFBGXR&location=3229)
+
+### Note
+I like this idea. It’s engaging and eventually builds trust amongst a team to be vulnerable and show designs that may not fit with the solution that the team needs to make. 
+
+However, I think this really mostly works in an in-person environment. I think doing this remotely might be a little awkward and not build the repertoire necessary for a project to succeed.
+
+---
+## Highlight
+
+Software-Development Methogologies ^ref-23262
+- Location: [3348](kindle://book?action=open&asin=B071HFBGXR&location=3348)
 
 ---
