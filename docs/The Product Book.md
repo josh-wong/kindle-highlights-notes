@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-06-08'
+  lastAnnotatedDate: '2023-06-10'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 52
+  highlightsCount: 53
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -358,7 +358,13 @@ However, I think this really mostly works in an in-person environment. I think d
 ---
 ## Highlight
 
-Software-Development Methogologies ^ref-23262
-- Location: [3348](kindle://book?action=open&asin=B071HFBGXR&location=3348)
+Despite the various criticisms, the Standish Group, an IT advisory center, tracked 50,000 projects from 2011 through 2015 and found that the success rate (shipping a working product) of agile products was 39% vs. 11% with waterfall. That’s a huge difference, but note that even with agile 61% of projects don’t have a working product by the end. ^ref-19860
+- Location: [3447](kindle://book?action=open&asin=B071HFBGXR&location=3447)
+
+---
+## Highlight
+
+Scrum ^ref-32300
+- Location: [3452](kindle://book?action=open&asin=B071HFBGXR&location=3452)
 
 ---
