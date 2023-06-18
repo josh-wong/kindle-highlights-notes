@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-06-10'
+  lastAnnotatedDate: '2023-06-18'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 53
+  highlightsCount: 54
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -364,7 +364,13 @@ Despite the various criticisms, the Standish Group, an IT advisory center, track
 ---
 ## Highlight
 
-Scrum ^ref-32300
-- Location: [3452](kindle://book?action=open&asin=B071HFBGXR&location=3452)
+Furthermore, we like writing backlog tasks as user stories because that format helps explain why something is an issue so that Design and Engineering can determine the best approach to address the issue. ^ref-43957
+- Location: [3470](kindle://book?action=open&asin=B071HFBGXR&location=3470)
+
+---
+## Highlight
+
+Chapter 8: Bringing Your Product to Market ^ref-23471
+- Location: [3677](kindle://book?action=open&asin=B071HFBGXR&location=3677)
 
 ---
