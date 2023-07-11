@@ -5,7 +5,7 @@ kindle-sync:
   author: Ryan Holiday
   asin: B015NTIXWE
   lastAnnotatedDate: '2021-08-31'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/71z7T1DfDZL._SY160.jpg'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/81QC6QYAtML._SY160.jpg'
   highlightsCount: 23
 ---
 # Ego Is the Enemy
