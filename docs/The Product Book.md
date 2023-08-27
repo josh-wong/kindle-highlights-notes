@@ -4,9 +4,9 @@ kindle-sync:
   title: 'The Product Book: How to Become a Great Product Manager'
   author: 'Product School, Carlos González de Villaumbrosia, and Josh Anon'
   asin: B071HFBGXR
-  lastAnnotatedDate: '2023-06-18'
+  lastAnnotatedDate: '2023-08-27'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 54
+  highlightsCount: 57
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -370,7 +370,25 @@ Furthermore, we like writing backlog tasks as user stories because that format h
 ---
 ## Highlight
 
-Chapter 8: Bringing Your Product to Market ^ref-23471
-- Location: [3677](kindle://book?action=open&asin=B071HFBGXR&location=3677)
+Finally, remember that your message is not about what the product does, it’s about what the product lets the customer do. Customers buy your product to make their lives better. Make sure your message clearly highlights how your product will help your customers improve their lives. ^ref-19193
+- Location: [3856](kindle://book?action=open&asin=B071HFBGXR&location=3856)
+
+---
+## Highlight
+
+If a launch wasn’t well received, you should still recognize the effort that went into it, as you want the team to have a positive attitude when working on the next iteration of the product. ^ref-31626
+- Location: [4248](kindle://book?action=open&asin=B071HFBGXR&location=4248)
+
+---
+## Highlight
+
+Assessing how things went ensures that you gather feedback, letting people feel their concerns are heard, and think about how to do better in the next cycle. ^ref-9923
+- Location: [4258](kindle://book?action=open&asin=B071HFBGXR&location=4258)
+
+---
+## Highlight
+
+For some people, assessing how things went during the development cycle is very difficult, personally. This is when you explicitly put yourself out there and ask for feedback, and you will get feedback, both positive and negative. ^ref-47433
+- Location: [4260](kindle://book?action=open&asin=B071HFBGXR&location=4260)
 
 ---
