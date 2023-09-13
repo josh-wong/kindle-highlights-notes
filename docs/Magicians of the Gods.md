@@ -6,7 +6,7 @@ kindle-sync:
     of the Gods
   author: Graham Hancock
   asin: B00Z637BD0
-  lastAnnotatedDate: '2023-08-30'
+  lastAnnotatedDate: '2023-09-13'
   bookImageUrl: 'https://m.media-amazon.com/images/I/91N6anbtB8L._SY160.jpg'
   highlightsCount: 1
 ---
