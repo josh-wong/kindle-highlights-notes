@@ -6,7 +6,7 @@ kindle-sync:
   asin: B071HFBGXR
   lastAnnotatedDate: '2023-09-16'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61FQlEL3R5L._SY160.jpg'
-  highlightsCount: 52
+  highlightsCount: 57
 ---
 # The Product Book: How to Become a Great Product Manager
 
@@ -360,5 +360,35 @@ However, I think this really mostly works in an in-person environment. I think d
 
 Despite the various criticisms, the Standish Group, an IT advisory center, tracked 50,000 projects from 2011 through 2015 and found that the success rate (shipping a working product) of agile products was 39% vs. 11% with waterfall. That’s a huge difference, but note that even with agile 61% of projects don’t have a working product by the end. ^ref-19860
 - Location: [3447](kindle://book?action=open&asin=B071HFBGXR&location=3447)
+
+---
+## Highlight
+
+Furthermore, we like writing backlog tasks as user stories because that format helps explain why something is an issue so that Design and Engineering can determine the best approach to address the issue. ^ref-43957
+- Location: [3470](kindle://book?action=open&asin=B071HFBGXR&location=3470)
+
+---
+## Highlight
+
+Finally, remember that your message is not about what the product does, it’s about what the product lets the customer do. Customers buy your product to make their lives better. Make sure your message clearly highlights how your product will help your customers improve their lives. ^ref-19193
+- Location: [3856](kindle://book?action=open&asin=B071HFBGXR&location=3856)
+
+---
+## Highlight
+
+If a launch wasn’t well received, you should still recognize the effort that went into it, as you want the team to have a positive attitude when working on the next iteration of the product. ^ref-31626
+- Location: [4248](kindle://book?action=open&asin=B071HFBGXR&location=4248)
+
+---
+## Highlight
+
+Assessing how things went ensures that you gather feedback, letting people feel their concerns are heard, and think about how to do better in the next cycle. ^ref-9923
+- Location: [4258](kindle://book?action=open&asin=B071HFBGXR&location=4258)
+
+---
+## Highlight
+
+For some people, assessing how things went during the development cycle is very difficult, personally. This is when you explicitly put yourself out there and ask for feedback, and you will get feedback, both positive and negative. ^ref-47433
+- Location: [4260](kindle://book?action=open&asin=B071HFBGXR&location=4260)
 
 ---
